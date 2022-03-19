@@ -1,0 +1,22 @@
+{
+  "success": true,
+  "error": null,
+  "message": null,
+  "data": {
+    "id": 1,
+    "login": "admin",
+    "sticker": "admin",
+    "badgeNumber": null,
+    "firstName": null,
+    "lastName": null,
+    "email": "",
+    "lastUpdateDate": null,
+    "profiles": [],
+    "password": "",
+    "passwordDate": null,
+    "passwordHistory": "",
+    "activated": false,
+    "authorizedLocationIdList": [],
+    "requirementsNameList": []
+  }
+}

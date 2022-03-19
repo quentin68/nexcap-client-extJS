@@ -1,0 +1,292 @@
+{
+	"success": true,
+	"error": null,
+	"message": null,
+	"alertList": null,
+	"total": 1,
+	"data": [{
+		"id": 4,
+		"title": "Sécurité",
+		"description": "",
+		"picture": {
+			"widthInPixels": 800,
+			"heightInPixels": 600,
+			"imageSrc": "picture.jpg"
+		},
+		"geoLocSystem": "WGS 84",
+		"geoLocArea": {
+			"sizeInRealLife": {
+				"width": 8.0,
+				"height": 6.0,
+				"unit": "METER"
+			},
+			"sizeInMap": {
+				"widthRatio": 1.0,
+				"heightRatio": 1.0
+			},
+			"posX": 0.0,
+			"poxY": 0.0
+		},
+		"materialsLayer": {
+			"id": 16,
+			"name": null,
+			"hidden": false,
+			"options": "{\"defaultColor\":\"#08a51f\",\"displayingRules\":[],\"displayedFields\":[],\"homothetie\":1.6}",
+			"mapMaterials": [{
+				"id": 1266,
+				"posX": 0.31107596,
+				"posY": 0.24303797,
+				"width": 0.0,
+				"height": 0.0,
+				"name": "#FF0000",
+				"color": "#FF0000",
+				"icon": null,
+				"date": null,
+				"geolocalization": {
+					"format": "DD", 
+					"coordinates": {
+						"latitude": 43.610454,
+						"longitude": 7.015670,
+						"altitude": null 
+					}
+				},
+				"material": {
+					"id": 114,
+					"properties": [{
+						"configuration": null,
+						"name": "Marque",
+						"value": "",
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "Poids",
+						"value": null,
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "Longueur",
+						"value": null,
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "Couleur",
+						"value": null,
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "testFP",
+						"value": null,
+						"sensorId": null
+					}],
+					"name": "Extincteur 01",
+					"codes": [],
+					"code": null,
+					"lastUpdateDate": "2019-05-23T08:11:53.181+0000",
+					"lastActionUpdateDate": "2019-05-23T08:11:52.000+0000",
+					"lastOperation": null,
+					"productReference": {
+						"id": 17,
+						"properties": [],
+						"description": "",
+						"designation": "Extincteur",
+						"identified": false,
+						"referenceCode": "EXTINCTEUR",
+						"lastUpdateDate": null,
+						"type": null,
+						"productCategory": {
+							"id": 26,
+							"name": "Sécurité",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": "Toutes catégories",
+							"fullPath": "Toutes catégories/Sécurité",
+							"inheritedProductReferencePropertyConfigurationList": [],
+							"productReferencePropertyConfigurationList": [],
+							"inheritedMaterialPropertyConfigurationList": [],
+							"materialPropertyConfigurationList": [],
+							"specificCheckConfigurationList": []
+						},
+						"picture": null,
+						"codeList": [],
+						"materialIdList": [],
+						"materialSetIdList": [],
+						"interventionOrderList": [],
+						"files": [],
+						"inheritedProductReferencePropertyConfigurationList": [],
+						"productReferencePropertyConfigurationList": [],
+						"inheritedMaterialPropertyConfigurationList": [],
+						"materialPropertyConfigurationList": [],
+						"inheritedSpecificCheckConfigurationList": [],
+						"specificCheckConfigurationList": [],
+						"assignedLocForPositions": []
+					},
+					"location": null,
+					"assignedLocation": null,
+					"useCount": 0,
+					"availabilityDate": "2019-05-23",
+					"calibrationDate": "2019-05-23",
+					"verificationFrequency": 0,
+					"description": "",
+					"useDate": "2019-05-23",
+					"status": null,
+					"picture": {
+						"pictureName": "picture.jpg",
+						"thumbnailName": "thumbnail.jpg",
+						"pictureSourceType": "PRODUCT_REFERENCE",
+						"pictureSourceId": 17,
+						"checkSum": null
+					},
+					"specificChecks": [],
+					"alerts": [],
+					"files": []
+				}
+			}, {
+				"id": 1267,
+				"posX": 0.6879747,
+				"posY": 0.58101267,
+				"width": 0.0,
+				"height": 0.0,
+				"name": "#FF6600",
+				"color": "#FF6600",
+				"icon": null,
+				"date": null,
+				"geolocalization": {
+					"format": "DD",
+					"coordinates": {
+						"latitude": 43.610562,
+						"longitude": 7.015929,
+						"altitude": null 
+					}
+				},
+				"material": {
+					"id": 115,
+					"properties": [{
+						"configuration": null,
+						"name": "Marque",
+						"value": "",
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "Poids",
+						"value": null,
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "Longueur",
+						"value": null,
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "Couleur",
+						"value": null,
+						"sensorId": null
+					}, {
+						"configuration": null,
+						"name": "testFP",
+						"value": null,
+						"sensorId": null
+					}],
+					"name": "Extincteur 02",
+					"codes": [],
+					"code": null,
+					"lastUpdateDate": "2019-05-23T08:12:38.348+0000",
+					"lastActionUpdateDate": "2019-05-23T08:12:17.000+0000",
+					"lastOperation": null,
+					"productReference": {
+						"id": 17,
+						"properties": [],
+						"description": "",
+						"designation": "Extincteur",
+						"identified": false,
+						"referenceCode": "EXTINCTEUR",
+						"lastUpdateDate": null,
+						"type": null,
+						"productCategory": {
+							"id": 26,
+							"name": "Sécurité",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": "Toutes catégories",
+							"fullPath": "Toutes catégories/Sécurité",
+							"inheritedProductReferencePropertyConfigurationList": [],
+							"productReferencePropertyConfigurationList": [],
+							"inheritedMaterialPropertyConfigurationList": [],
+							"materialPropertyConfigurationList": [],
+							"specificCheckConfigurationList": []
+						},
+						"picture": null,
+						"codeList": [],
+						"materialIdList": [],
+						"materialSetIdList": [],
+						"interventionOrderList": [],
+						"files": [],
+						"inheritedProductReferencePropertyConfigurationList": [],
+						"productReferencePropertyConfigurationList": [],
+						"inheritedMaterialPropertyConfigurationList": [],
+						"materialPropertyConfigurationList": [],
+						"inheritedSpecificCheckConfigurationList": [],
+						"specificCheckConfigurationList": [],
+						"assignedLocForPositions": []
+					},
+					"location": null,
+					"assignedLocation": null,
+					"useCount": 0,
+					"availabilityDate": "2019-05-23",
+					"calibrationDate": "2019-05-23",
+					"verificationFrequency": 0,
+					"description": "",
+					"useDate": "2019-05-23",
+					"status": null,
+					"picture": {
+						"pictureName": "picture.jpg",
+						"thumbnailName": "thumbnail.jpg",
+						"pictureSourceType": "PRODUCT_REFERENCE",
+						"pictureSourceId": 17,
+						"checkSum": null
+					},
+					"specificChecks": [],
+					"alerts": [],
+					"files": []
+				}
+			}]
+		},
+		"locationsLayer": {
+			"id": 17,
+			"name": null,
+			"hidden": false,
+			"options": "{\"defaultColor\":\"#3AA7DA\"}",
+			"mapLocations": []
+		},
+		"linkingZonesLayer": {
+			"id": 18,
+			"name": null,
+			"hidden": false,
+			"options": "{\"defaultColor\":\"#ffd400\"}",
+			"mapLinkingZones": []
+		},
+		"devicesLayer": {
+			"id": 19,
+			"name": null,
+			"hidden": false,
+			"options": "{\"defaultColor\":\"#095899\"}",
+			"mapDevices": []
+		},
+		"labelsLayer": {
+			"id": 20,
+			"name": null,
+			"hidden": false,
+			"options": "{\"defaultColor\":\"#43475b\"}",
+			"mapLabels": []
+		},
+		"lastUpdateDate": null
+	}
+    ]
+}

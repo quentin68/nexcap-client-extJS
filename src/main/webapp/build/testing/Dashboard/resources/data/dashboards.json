@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "total": 1,
+    "userMessage": "ACTION_WELL_COMPUTED",
+    "error": null,
+    "data": [
+        {
+            "id":1,
+            "name": "Statistiques",
+            "title": "Statistiques",
+            "creationDate": "2016-01-01 12:12",
+            "authorName": "Joël",
+            "iconName": "default_icon.png",
+            "indicatorIds" : [1],
+            "configuration":"{\"backgroundColor\":\"#F2F2F2\"}"
+        },
+        {
+            "id":2,
+            "name": "Activités",
+            "title": "Activités",
+            "creationDate": "2016-01-01 12:12",
+            "authorName": "Jojo",
+            "iconName": "default_icon.png",
+            "indicatorIds":[0],
+            "configuration":"{\"backgroundColor\":\"#F2F2F2\"}"
+        },
+        {
+            "id":3,
+            "name": "Anomalies",
+            "title": "Anomalies",
+            "creationDate": "2016-01-01 12:12",
+            "authorName": "Jojo",
+            "iconName": "default_icon.png",
+            "indicatorIds" : [2],
+            "configuration":"{\"backgroundColor\":\"#FF0000\"}"
+        }
+
+    ] 
+}

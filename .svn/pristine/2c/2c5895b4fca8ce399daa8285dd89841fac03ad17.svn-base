@@ -1,0 +1,99 @@
+
+@include extjs-toolbar-ui(
+    $ui: 'view-list',
+
+    $background-color: $db-color-medium-dark,
+    $text-line-height: 16px,
+    $text-padding: 0
+);
+
+
+@include extjs-button-small-ui(
+    $ui: 'view-list',
+    $background-color : $db-color-medium-dark,
+    $background-color-over: $db-color-medium-dark,
+    $background-color-focus: $db-color-medium-dark, 
+    $background-color-pressed: $db-color-medium-dark,
+    $inner-border-color-focus: $db-color-medium-dark,
+    $inner-border-color-focus-pressed: $db-color-medium-dark,
+    $inner-border-color-focus-over: $db-color-medium-dark
+);
+
+
+.view-list{
+    
+    .x-box-inner {
+        //background: $db-color-medium-dark;        
+        padding: 0;
+        margin: 0;
+    }
+    
+    .x-toolbar-default {
+        padding: 0;
+        border-style: solid;
+        border-color: $db-color-medium-dark;
+        border-width: 0;
+        background-image: none;
+        background-color: $db-color-medium-dark;
+    }
+}
+
+.greenRow {
+    background-color: #C8E6C9;
+}
+
+.yellowRow {
+    background-color: #FFF09E;
+}
+
+.orangeRow {
+    background-color: #F69C2B;
+}
+
+.redRow {
+    background-color: #FFBABA;
+}
+
+.blueRow {
+    background-color: #BBDEFB;
+}
+
+.view-list {
+    .x-accordion-hd {
+        background: $db-color-ultra-light;
+        border-width: 0;
+        border-color: $db-color-ultra-light;
+        padding: 0;
+    }
+}
+
+.view-list-title {
+    font-size: 24px;
+    line-height: 24px;
+    margin : 12px;
+}
+
+.view-list-label {
+    font-size: 13px;
+    line-height: 18px;
+    padding-left: 24px;
+    vertical-align: top;
+}
+
+.view-list-text {
+    font-size: 13px;
+    line-height: 18px;
+    padding-left: 12px;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+.x-grid-cell-inner-row-numberer {
+    background-color: rgba(0,0,0,0) !important;
+    text-align: center !important;
+}
+
+.locationIcon {
+    padding-top: 8px;
+    font-size: 1.4em;
+}

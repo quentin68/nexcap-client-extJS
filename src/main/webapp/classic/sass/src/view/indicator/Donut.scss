@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+
+@include extjs-button-small-ui(
+
+    $ui: 'donut',
+    $background-color : $db-color-medium-dark,
+    $background-color-over: $db-color-medium-dark,
+    $background-color-focus: $db-color-medium-dark, 
+    $background-color-pressed: $db-color-medium-dark,
+    $inner-border-color-focus: $db-color-medium-dark,
+    $inner-border-color-focus-pressed: $db-color-medium-dark,
+    $inner-border-color-focus-over: $db-color-medium-dark
+
+);
+
+
+
+@include extjs-panel-ui(
+
+    $ui: 'donut',
+    $ui-header-color: $db-color-ultra-light,
+    $ui-header-font-size: 16px,
+    $ui-header-line-height: 18px,
+    $ui-header-font-weight: bold,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 16px,
+    
+    $ui-header-background-color: $db-color-medium-dark, 
+    $ui-header-padding: 0 0 6px 0,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: $db-color-dark,
+    //$ui-header-inner-border-width :0 0 0 0,  TODO
+    
+    $ui-body-background-color: $db-color-ultra-light//,
+    //$ui-body-inner-border-width :1px
+
+);
+
+.donut-panel {
+    background: $db-color-ultra-light;
+
+    .x-docked-top {
+        border-bottom-width: 1px !important;
+        //border-top-width: 1px !important;
+        border-style: solid;
+        border-color: $db-color-light;
+    }
+}
+
+
+.x-title-icon-donut {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-btn-icon-el-donut-small {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 20px;
+    margin-left: 16px;
+}

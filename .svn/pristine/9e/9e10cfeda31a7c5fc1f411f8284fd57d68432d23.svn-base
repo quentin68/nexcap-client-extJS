@@ -1,0 +1,14 @@
+
+
+@include extjs-button-small-ui(
+    $ui: 'menu-operations',
+    $background-color : $db-color-medium-dark,
+    $background-color-over: $db-color-medium-dark,
+    $background-color-focus: $db-color-medium-dark, 
+    $background-color-pressed: $db-color-medium-dark,
+    $inner-border-color-focus: $db-color-medium-dark,
+    $inner-border-color-focus-pressed: $db-color-medium-dark,
+    $inner-border-color-focus-over: $db-color-medium-dark
+);
+
+

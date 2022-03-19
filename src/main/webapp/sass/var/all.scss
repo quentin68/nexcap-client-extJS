@@ -1,0 +1,81 @@
+/*
+ * This is is imported by virtue of "sass.var" in "app.json".
+ */
+
+$enable-font-awesome: dynamic(true);
+
+/*
+* CSS root
+* tomcat : "/dashboard/dashboard"
+* sencha : ""
+*/
+
+
+$context-path: "/web";
+
+
+/***************************************
+Dashboard.view.dashboard.Dashboard
+****************************************/
+
+//colors
+$db-color-ultra-light : #FFFFFF;
+$db-color-extra-light : #F2F2F2;
+$db-color-light : #C2C6D6;
+$db-color-medium: #6A6D7E;
+$db-color-medium-dark: #494D60;
+$db-color-dark: #272A36;
+$db-color-ultra-dark: #000000;
+
+// Body
+$db-border-color: $db-color-light;
+$db-background-color: $db-color-ultra-light;
+
+// Form
+$db-form-default-label-color: #404040;
+
+
+/***************************************
+Panel
+****************************************/
+
+$panel-base-color: $db-color-medium;
+$panel-border-color: $db-color-light;
+
+/***************************************
+Checkbox
+****************************************/
+
+$form-checkbox-label-color: red;
+
+/***************************************
+windows
+****************************************/
+
+/*$window-base-color : $db-color-medium-dark;
+$panel-header-background-color: $db-color-medium-dark;
+$panel-header-color : $db-color-extra-light;*/
+
+.x-mask {
+    opacity : .4
+}
+
+.fa-white{
+    color: #FFF;
+}
+
+/*.x-column-header-checkbox {display:none;};*/
+
+.grid-checkbox-issue {
+    .x-column-header-checkbox {
+        .x-column-header-text {
+            display: none;
+        }
+    }
+} 
+
+
+/*$button-default-base-color : $db-color-medium-dark;
+$button-default-background-color : $db-color-medium-dark;*/
+$button-small-border-radius : 3px;
+

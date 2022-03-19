@@ -1,0 +1,107 @@
+{
+	"success": true,
+	"total": 20,
+	"data": [{
+		"id": 1,
+		"positionId": 1,
+		"locationId": 0,
+		"name": "Organisation"
+	}, {
+		"id": 500005,
+		"positionId": 0,
+		"locationId": 5,
+		"name": "Organisation/A1"
+	}, {
+		"id": 500006,
+		"positionId": 0,
+		"locationId": 6,
+		"name": "Organisation/A2"
+	}, {
+		"id": 500015,
+		"positionId": 0,
+		"locationId": 15,
+		"name": "Organisation/Bureau KG"
+	}, {
+		"id": 500001,
+		"positionId": 0,
+		"locationId": 1,
+		"name": "Organisation/Desk Showroom"
+	}, {
+		"id": 500013,
+		"positionId": 0,
+		"locationId": 13,
+		"name": "Organisation/Emp test"
+	}, {
+		"id": 5,
+		"positionId": 5,
+		"locationId": 0,
+		"name": "Organisation/GuichetMetro"
+	}, {
+		"id": 2,
+		"positionId": 2,
+		"locationId": 0,
+		"name": "Organisation/positionContext1"
+	}, {
+		"id": 4,
+		"positionId": 4,
+		"locationId": 0,
+		"name": "Organisation/positionContext1/positionContext3"
+	}, {
+		"id": 500018,
+		"positionId": 0,
+		"locationId": 18,
+		"name": "Organisation/positionContext1/positionContext3/Test armoire dans Batiment 1"
+	}, {
+		"id": 500016,
+		"positionId": 0,
+		"locationId": 16,
+		"name": "Organisation/positionContext1/Test Batiment 1 context"
+	}, {
+		"id": 3,
+		"positionId": 3,
+		"locationId": 0,
+		"name": "Organisation/positionContext2"
+	}, {
+		"id": 500017,
+		"positionId": 0,
+		"locationId": 17,
+		"name": "Organisation/positionContext2/Test Batiment 2 context"
+	}, {
+		"id": 500012,
+		"positionId": 0,
+		"locationId": 12,
+		"name": "Organisation/ToolBox"
+	}, {
+		"id": 500004,
+		"positionId": 0,
+		"locationId": 4,
+		"name": "Organisation/XD Cabinet"
+	}, {
+		"id": 500008,
+		"positionId": 0,
+		"locationId": 8,
+		"name": "Organisation/XDL Cabinet"
+	}, {
+		"id": 500009,
+		"positionId": 0,
+		"locationId": 9,
+		"name": "Organisation/XDS Cabinet"
+	}, {
+		"id": 500003,
+		"positionId": 0,
+		"locationId": 3,
+		"name": "Organisation/XL Cabinet"
+	}, {
+		"id": 500010,
+		"positionId": 0,
+		"locationId": 10,
+		"name": "Organisation/XLW Cabinet"
+	}, {
+		"id": 500014,
+		"positionId": 0,
+		"locationId": 14,
+		"name": "Organisation/XS Cabinet"
+	}],
+	"alerts": [],
+	"report": []
+}

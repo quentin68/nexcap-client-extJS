@@ -1,0 +1,138 @@
+{
+	"success": true,
+	"error": null,
+	"message": null,
+	"data": {
+		"id": 1,
+		"name": "Organisation",
+		"description": null,
+		"parent": null,
+		"lastUpdateDate": null,
+		"posX": 0,
+		"posY": 0,
+		"path": null,
+		"children": [],
+		"locations": [{
+			"id": 1,
+			"name": "Desk Showroom",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 3,
+			"name": "XL Cabinet",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 4,
+			"name": "XD Cabinet",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 5,
+			"name": "A1",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 6,
+			"name": "A2",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 8,
+			"name": "XDL Cabinet",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 9,
+			"name": "XDS Cabinet",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 10,
+			"name": "XLW Cabinet",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 12,
+			"name": "ToolBox",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 13,
+			"name": "Emp test",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 14,
+			"name": "XS Cabinet",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}, {
+			"id": 15,
+			"name": "Bureau KG",
+			"code": null,
+			"description": null,
+			"parentPosition": null,
+			"lastUpdateDate": null,
+			"path": null,
+			"address": null,
+			"stock": false
+		}],
+		"counterIdList": []
+	}
+}

@@ -1,0 +1,60 @@
+{
+    "success": true,
+    "data": {
+            
+        "references": [
+            {
+                "name": "HISTORIC_BORROWS",
+                "label": "Emprunts"
+            },
+            {
+                "name": "HISTORIC_RETURNS",
+                "label": "Restitutions"
+            },
+            {
+                "name": "HISTORIC_INVENTORIES",
+                "label": "Inventaires"
+            },
+            {
+                "name": "HISTORIC_IN_SERVICE",
+                "label": "En service"
+            },
+            {
+                "name": "HISTORIC_STOCKED",
+                "label": "En stock"
+            }
+        ],
+        "properties":[
+            {
+                "name":"date",
+                "label": "Date",
+                "type": "date"
+            },
+            {
+                "name":"operator",
+                "label": "Opérateur",
+                "type": "string"
+            },
+            {
+                "name":"total",
+                "label": "Nombre Total",
+                "type": "int"
+            },
+            {
+                "name":"period",
+                "label": "Période",
+                "type": "string"
+            },
+            {
+                "name":"start",
+                "label": "Début",
+                "type": "date"
+            },
+            {
+                "name":"end",
+                "label": "Fin",
+                "type": "date"
+            }
+        ]   
+    }
+}

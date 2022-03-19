@@ -1,0 +1,26 @@
+{
+	"name": "couleurs dispo",
+	"label": "couleurs dispo",
+	"type": "STRING",
+	"displayed": true,
+	"editable": true,
+	"control": "{\"field\":{\"fieldType\":\"combobox\",\"name\":\"couleurs dispo\",\"fieldLabel\":\"couleurs dispo\",\"description\":\"\",\"width\":400,\"itemValues\":[\"Rouge\",\"Bleu\",\"Vert\",\"Jaune\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+	"options": [],
+	"description": "",
+	"lastUpdateDate": null,
+	"enabledInFilters": true,
+	"enabledInTables": true,
+	"enabledInDetails": true,
+	"enabledInControls": true,
+	"valorisation": "items",
+	"field": {
+		"fieldType": "combobox",
+		"name": "couleurs dispo",
+		"fieldLabel": "couleurs dispo",
+		"description": "",
+		"width": 400,
+		"itemValues": ["Rouge", "Bleu", "Vert", "Jaune"],
+		"dataType": "STRING",
+		"vtype": null
+	}
+}

@@ -1,0 +1,196 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 déc. 2015, 15:59:54
+    Author     : PowerBook_Joel
+*/
+/**
+$db-color-ultra-light : #FFFFFF;
+$db-color-light : #C2C6D6;
+$db-color-medium: #6A6D7E;
+$db-color-medium-dark: #272A36;
+$db-color-dark: #272A36;
+$db-color-ultra-dark: #000000;
+*/
+
+
+/**
+@include extjs-button-small-ui(
+
+    $ui: 'indicator',
+    $background-color : $db-color-medium-dark,
+    $background-color-over: $db-color-medium-dark,
+    $background-color-focus: $db-color-medium-dark, 
+    $background-color-pressed: $db-color-medium-dark,
+    $inner-border-color-focus: $db-color-medium-dark,
+    $inner-border-color-focus-pressed: $db-color-medium-dark,
+    $inner-border-color-focus-over: $db-color-medium-dark
+
+);
+*/
+
+@include extjs-button-small-ui(
+
+    $ui: 'indicator',
+    $background-color : $db-color-ultra-light,
+    $background-color-over: $db-color-ultra-light,
+    $background-color-focus: $db-color-ultra-light, 
+    $background-color-pressed: $db-color-ultra-light,
+    $inner-border-color-focus: $db-color-ultra-light,
+    $inner-border-color-focus-pressed: $db-color-ultra-light,
+    $inner-border-color-focus-over: $db-color-ultra-light
+
+);
+
+
+/*
+@include extjs-panel-ui(
+
+    $ui: 'indicator',
+    $ui-header-color: $db-color-ultra-light,
+    $ui-header-font-size: 16px,
+    $ui-header-line-height: 18px,
+    $ui-header-font-weight: bold,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 4px,
+    
+    $ui-header-background-color: $db-color-medium-dark, 
+    $ui-header-padding: 0 12px,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: $db-color-dark,
+    $ui-header-inner-border-width :0 0 0 0,
+     
+    $ui-body-background-color: $db-color-ultra-light
+
+);
+*/
+
+@include extjs-panel-ui(
+
+    $ui: 'indicator',
+    $ui-header-color: $db-color-medium-dark,
+    $ui-header-font-size: 20px,
+    $ui-header-line-height: 28px,
+    $ui-header-font-weight: normal,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 4px,
+    
+    $ui-header-background-color: $db-color-ultra-light, 
+    $ui-header-padding: 0 12px,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    //$ui-header-inner-border-color: $db-color-light,
+    //$ui-header-inner-border-width :0 0 1px 0,  //TODO
+     
+    $ui-body-background-color: $db-color-ultra-light,
+    $ui-border-color: #E1E2E3,
+    $ui-border-width: 0 2px 2px 0
+);
+
+
+@include extjs-button-small-ui(
+
+    $ui: 'indicator-font-icon-button-plus',
+    $background-color : $db-color-ultra-light,
+    $background-color-over: $db-color-ultra-light,
+    $background-color-focus: $db-color-ultra-light, 
+    $background-color-pressed: $db-color-ultra-light,
+    $inner-border-color-focus: $db-color-ultra-light,
+    $inner-border-color-focus-pressed: $db-color-ultra-light,
+    $inner-border-color-focus-over: $db-color-ultra-light,
+    $glyph-color: green,
+    $glyph-font-size: 18px
+);
+
+@include extjs-button-small-ui(
+
+    $ui: 'indicator-font-icon-button-edit',
+    $background-color : $db-color-ultra-light,
+    $background-color-over: $db-color-ultra-light,
+    $background-color-focus: $db-color-ultra-light, 
+    $background-color-pressed: $db-color-ultra-light,
+    $inner-border-color-focus: $db-color-ultra-light,
+    $inner-border-color-focus-pressed: $db-color-ultra-light,
+    $inner-border-color-focus-over: $db-color-ultra-light,
+    $glyph-color: #4c91c9,
+    $glyph-font-size: 16px
+);
+
+@include extjs-button-small-ui(
+
+    $ui: 'indicator-font-icon-button-minus',
+    $background-color : $db-color-ultra-light,
+    $background-color-over: $db-color-ultra-light,
+    $background-color-focus: $db-color-ultra-light, 
+    $background-color-pressed: $db-color-ultra-light,
+    $inner-border-color-focus: $db-color-ultra-light,
+    $inner-border-color-focus-pressed: $db-color-ultra-light,
+    $inner-border-color-focus-over: $db-color-ultra-light,
+    $glyph-color: red,
+    $glyph-font-size: 16px
+);
+
+
+.indicator{
+
+    .x-box-inner {
+        background: $db-color-ultra-light ;
+        padding: 0;
+    }
+    
+/*    .x-toolbar-default {
+        padding: 0;
+        border-style: solid;
+        border-color: $db-color-medium-dark;
+        border-width: 1px;//0 0 1px 0;//0;
+        background-image: none;
+        background-color: $db-color-medium-dark;
+    }*/
+    
+/*    .x-panel-header-detail {
+        ///font-size: 20px;
+        //border: 1px solid #494d60;
+        background: $db-color-extra-light ;
+    }*/
+    
+    .x-docked-top {
+        border-bottom-width: 1px !important;
+        //border-top-width: 1px !important;
+        border-style: solid;
+        border-color: $db-color-light;
+    }
+
+
+}
+
+
+.x-title-icon-indicator {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 20px;
+    line-height: 20x;
+}
+
+.x-btn-icon-el-indicator-small {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 20px;
+    margin-left: 0;
+}
+
+
+/*.x-panel-header.x-header.x-docked.x-unselectable.x-panel-header-indicator.x-horizontal.x-panel-header-horizontal.x-panel-header-indicator-horizontal.x-top.x-panel-header-top.x-panel-header-indicator-top.x-docked-top.x-panel-header-docked-top.x-panel-header-indicator-docked-top.x-box-layout-ct.x-panel-indicator-outer-border-trl {
+    border-top-width: 0 !important;
+    border-right-width: 0 !important;
+    border-left-width: 0 !important;
+    border-bottom-width: 1px !important;
+    border-bottom-color: #E1E2E3 !important;
+}*/

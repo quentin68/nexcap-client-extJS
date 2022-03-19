@@ -1,0 +1,227 @@
+{
+  "success": true,
+  "error": null,
+  "message": null,
+  "data": {
+    "id": 1,
+    "name": "Drill Box #1",
+    "code": {
+      "id": null,
+      "code": "313536353435302D31434D00",
+      "codeType": null
+    },
+    "lastUpdateDate": "2016-04-12T07:35:56.000+0000",
+    "lastActionUpdateDate": "2016-04-12T07:35:55.000+0000",
+    "productReference": {
+      "id": 1,
+      "description": null,
+      "designation": "Drill box",
+      "identified": false,
+      "referenceCode": "DB-1",
+      "unit": null,
+      "lastUpdateDate": null,
+      "manufacturer": null,
+      "productReferenceGroup": null,
+      "type": null,
+      "productCategory": {
+        "id": 3,
+        "name": "Material",
+        "description": null,
+        "lastUpdateDate": null,
+        "parentCategory": null,
+        "subCategoryList": [],
+        "productReferenceIdList": [],
+        "picture": null,
+        "path": null,
+        "materialPropertiesList": []
+      },
+      "picture": null,
+      "codeList": [],
+      "materialIdList": [],
+      "materialSetIdList": [],
+      "interventionOrderIdList": [],
+      "dynamicFields": null,
+      "files": [],
+      "properties": [],
+      "materialPropertiesList": [],
+      "inheritedMaterialPropertiesList": []
+    },
+    "location": {
+      "id": 1,
+      "name": "Desk Showroom",
+      "code": {
+        "id": 404,
+        "code": "300000000000000000000C84",
+        "codeType": "RFID_TAG"
+      },
+      "description": "JUNIT_ description",
+      "parentPositionId": 1,
+      "lastUpdateDate": "2016-03-11T14:52:48.000+0000",
+      "path": "Organisation",
+      "address": "Organisation/Desk Showroom",
+      "stock": true
+    },
+    "assignedLocation": {
+      "id": 1,
+      "name": "Desk Showroom",
+      "code": {
+        "id": 404,
+        "code": "300000000000000000000C84",
+        "codeType": "RFID_TAG"
+      },
+      "description": "JUNIT_ description",
+      "parentPositionId": 1,
+      "lastUpdateDate": "2016-03-11T14:52:48.000+0000",
+      "path": "Organisation",
+      "address": "Organisation/Desk Showroom",
+      "stock": true
+    },
+    "useCount": 0,
+    "availabilityDate": null,
+    "calibrationDate": null,
+    "verificationFrequency": 0,
+    "description": "",
+    "useDate": null,
+    "status": null,
+    "picture": {
+      "pictureName": "picture.jpg",
+      "thumbnailName": "thumbnail.jpg",
+      "pictureSourceType": "MATERIAL",
+      "pictureSourceId": 1
+    },
+    "specificChecks": [],
+    "properties": [
+      {
+        "configuration": {
+          "id": 4,
+          "name": "lastMaintenanceDate",
+          "label": "Date de dernière maintenance",
+          "type": "DATE",
+          "control": "{\"controlType\":\"date\"}",
+          "options": [],
+          "displayed": true,
+          "editable": true
+        },
+        "name": "lastMaintenanceDate",
+        "value": ""
+      },
+      {
+        "configuration": {
+          "id": 1,
+          "name": "curState",
+          "label": "Etat courant",
+          "type": "STRING",
+          "control": "{\"controlType\":\"list\",\"options\":[{\"name\":\"En service\"},{\"name\":\"A vérifier\"},{\"name\":\"Hors service\"}]}",
+          "options": [],
+          "displayed": true,
+          "editable": true
+        },
+        "name": "curState",
+        "value": "Hors service"
+      },
+      {
+        "configuration": {
+          "id": 2,
+          "name": "lastCalibrationDate",
+          "label": "Date du dernier étalonnage",
+          "type": "DATE",
+          "control": "{\"controlType\":\"date\"}",
+          "options": [],
+          "displayed": true,
+          "editable": true
+        },
+        "name": "lastCalibrationDate",
+        "value": ""
+      },
+      {
+        "configuration": {
+          "id": 5,
+          "name": "nextMaintenanceDate",
+          "label": "Date de prochaine maintenance",
+          "type": "DATE",
+          "control": "{\"controlType\":\"date\"}",
+          "options": [],
+          "displayed": true,
+          "editable": true
+        },
+        "name": "nextMaintenanceDate",
+        "value": ""
+      },
+      {
+        "configuration": {
+          "id": 6,
+          "name": "maxUseCount",
+          "label": "Nombre maximum d utilisation",
+          "type": "INT",
+          "control": "{\"controlType\":\"numeric\"}",
+          "options": [],
+          "displayed": true,
+          "editable": true
+        },
+        "name": "maxUseCount",
+        "value": null
+      },
+      {
+        "configuration": {
+          "id": 3,
+          "name": "nextCalibrationDate",
+          "label": "Date de prochain étalonnage",
+          "type": "DATE",
+          "control": "{\"controlType\":\"date\"}",
+          "options": [],
+          "displayed": true,
+          "editable": true
+        },
+        "name": "nextCalibrationDate",
+        "value": "2016-03-23"
+      }
+    ],
+    "alerts": [
+      {
+        "id": 850,
+        "startDate": "2016-03-24T00:00:01.000+0000",
+        "control": 3,
+        "material": 1,
+        "user": 1,
+        "operationNumber": 13,
+        "isAcknowledged": false,
+        "acknowledger": 0,
+        "acknowledgmentDate": null,
+        "controlNumber": 3,
+        "controlName": "Date d’étalonnage dépassée",
+        "controlDescription": "Date d’étalonnage dépassée",
+        "alertLevel": 2,
+        "raisedByOnGoingOp": false,
+        "operationName": "Changement de jour",
+        "productCategoryName": null,
+        "productReferenceCode": "DB-1",
+        "productReferenceDesignation": "Drill box",
+        "userSticker": "admin",
+        "acknowledgerSticker": null
+      },
+      {
+        "id": 424,
+        "startDate": "2016-03-14T08:42:48.000+0000",
+        "control": 6,
+        "material": 1,
+        "user": 1,
+        "operationNumber": 12,
+        "isAcknowledged": false,
+        "acknowledger": 0,
+        "acknowledgmentDate": null,
+        "controlNumber": 6,
+        "controlName": "Matériel hors service",
+        "controlDescription": "Matériel hors service",
+        "alertLevel": 2,
+        "raisedByOnGoingOp": false,
+        "operationName": "Edition d'un matériel",
+        "productCategoryName": null,
+        "productReferenceCode": "DB-1",
+        "productReferenceDesignation": "Drill box",
+        "userSticker": "admin",
+        "acknowledgerSticker": null
+      }
+    ],
+    "files": []
+  }
+}

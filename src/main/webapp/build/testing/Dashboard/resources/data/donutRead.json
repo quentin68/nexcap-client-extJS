@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "total": 1,
+    "userMessage": "ACTION_WELL_COMPUTED",
+    "error": null,
+    "data": [ 
+        {
+            "id": 1,
+            "name": "indicator 1",
+            "title": "Mon indicator",
+            "iconName": null,
+            "color": null,
+            "authorName": "FARG_JUL",
+            "creationDate": "2015-02-10 22:10",
+            "indicatorType": "DONUT",
+            "dataBinding": "{\"statisticReferences\":[{\"statisticReference\":\"totalitemsinmaintenance\",\"label\":\"\",\"color\":\"#115fa6\"},{\"statisticReference\":\"totalitemsinservice\",\"label\":\"\",\"color\":\"#94ae0a\"}],\"size\":\"M\"}"
+        }
+    ]
+}

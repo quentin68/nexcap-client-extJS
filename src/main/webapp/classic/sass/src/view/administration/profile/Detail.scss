@@ -1,0 +1,131 @@
+
+
+
+@include extjs-button-small-ui(
+    $ui: 'user-detail',
+    $background-color : $db-color-ultra-light,
+    $background-color-over: $db-color-ultra-light,
+    $background-color-focus: $db-color-ultra-light, 
+    $background-color-pressed: $db-color-ultra-light,
+    $inner-border-color-focus: $db-color-ultra-light,
+    $inner-border-color-focus-pressed: $db-color-ultra-light,
+    $inner-border-color-focus-over: $db-color-ultra-light
+);
+
+
+
+@include extjs-panel-ui(
+    $ui: 'user-detail',
+    $ui-header-color: $db-color-medium-dark,
+    $ui-header-font-size: 20px,
+    $ui-header-line-height: 26px,
+    $ui-header-font-weight: normal,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 8px,
+    
+    $ui-header-background-color: $db-color-ultra-light,
+    $ui-header-padding: 4px 12px 4px 12px,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: #E1E2E3,//$db-color-light,
+    //$ui-header-inner-border-width :0 0 1px 0,  TODO
+    
+    $ui-body-background-color: $db-color-ultra-light
+    
+);
+
+
+.user-detail{
+    
+    .x-box-inner {
+        background: $db-color-medium-dark;
+        padding: 0;
+    }
+    
+    .x-toolbar-default {
+        padding: 0;
+        border-style: solid;
+        border-color: $db-color-medium-dark;
+        border-width: 0;
+        background-image: none;
+        background-color: $db-color-medium-dark;
+    }
+}
+
+.x-panel-header-title-user-detail > .x-title-icon-wrap-user-detail > .x-title-icon-user-detail {
+    font-family: FontAwesome;
+    color: red;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-user-detail.fa.fa-info{
+    font-family: FontAwesome;
+    color: #006699;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-user-detail.fa.fa-map-marker{
+    font-family: FontAwesome;
+    color: #339900;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-user-detail.fa.fa-envelope-o{
+    font-family: FontAwesome;
+    color: #FF0000;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-user-detail.fa.fa-check{
+    font-family: FontAwesome;
+    color: #FFDD00;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+//#751CD4;
+.x-title-icon.x-title-icon-user-detail.fa.fa-bolt{
+    font-family: FontAwesome;
+    color: #9C9C9C;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-text.x-title-text-user-detail.x-title-item{
+    //text-transform: uppercase;
+}
+
+.user-detail-title {
+    font-size: 24px;
+    line-height: 24px;
+    margin : 12px;
+}
+
+.user-detail-label {
+    font-size: 13px;
+    line-height: 18px;
+    padding-left: 24px;
+    vertical-align: top;
+}
+
+.user-detail-text {
+    font-size: 13px;
+    line-height: 18px;
+    padding-left: 12px;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+/*
+.x-btn-icon-el-dashboard-scene-small {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 20px;
+    margin-left: 0;
+}*/

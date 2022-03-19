@@ -1,0 +1,51 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id":1,
+            "propertyName": "ITEMS_BORROWED_COUNT",
+            "label": "Nombre d'outils empruntés",
+            "value": 57,
+            "valueType": "int",
+            "description": "Nombre d'outils emprunté, ni en étalonnage ni réservé.",
+            "iconName": "cloud-icon.png"
+        },
+        {
+            "id":2,
+            "propertyName": "ITEMS_HS_COUNT",
+            "label": "Outils hors service",
+            "value": 23,
+            "valueType": "int",
+            "description": "Dont l'état est HS",
+            "iconName": "cloud-icon.png"
+        },
+        {
+            "id":3,
+            "propertyName": "ITEMS_IN_SERVICE_COUNT",
+            "label": "Outils en service",
+            "value": 420,
+            "valueType": "int",
+            "description": "Aucune idée de ce qu'ils sont",
+            "iconName": "cloud-icon.png"
+        },
+        {
+            "id":4,
+            "propertyName": "ITEMS_OUT_COUNT",
+            "label": "Outils sortis",
+            "value": 72,
+            "valueType": "int",
+            "description": "Dans un lieu autre que leur lieu de stockage.",
+            "iconName": "cloud-icon.png"
+        },
+        {
+            "id":5,
+            "propertyName": "ITEMS_IN_COUNT",
+            "label": "Outils stockés",
+            "value": 236,
+            "valueType": "int",
+            "description": "Tous les outils enregistrés",
+            "iconName": "cloud-icon.png"
+        }
+
+    ] 
+}

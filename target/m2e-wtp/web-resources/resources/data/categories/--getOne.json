@@ -1,0 +1,80 @@
+{
+    "success": true,
+    "userMessage": "ACTION_WELL_COMPUTED",
+    "data": {
+        "id": 4,
+        "name": "Chisel",
+        "description": "",
+        "lastUpdateDate": "2016-02-12T15:10:54.000+0000",
+        "parentCategory": {
+                "id": 2,
+                "name": "Accessory",
+                "description": null,
+                "lastUpdateDate": null,
+                "parentCategory": null,
+                "subCategoryList": [],
+                "productReferenceIdList": [],
+                "picture": null,
+                "path": null,
+                "materialPropertiesList": []
+        },
+        "subCategoryList": [],
+        "productReferenceIdList": [19, 14],
+        "picture": {
+                "pictureName": "",
+                "thumbnailName": "",
+                "pictureSourceType": null,
+                "pictureSourceId": 0
+        },
+        "path": "Catégorie/Accessory",
+        "materialPropertiesList": [
+                {
+			"name": "maxUseCount",
+			"configuration": {
+                            "label": "Use count(max)",
+                            "type": "int",
+                            "owner": null
+                        }
+		}, {
+			"name": "nextMaintenanceDate",
+			"configuration": {
+                            "label": "Maintenance date",
+                            "type": "date",
+                            "owner": null 
+                        }
+		}, {
+			"name": "curState",
+                        "configuration": {
+                            "label": "Status",
+                            "type": "string",
+                            "owner": {
+                                "type": "category",
+                                "id": 1
+                            } 
+                        }
+		}, {
+			"name": "lastMaintenanceDate",
+			"configuration": {
+                            "label": "Last maintenance date",
+                            "type": "date",
+                            "owner": null
+                        }
+		}, {
+			"name": "nextCalibrationDate",
+			"configuration": {
+                            "label": "Cabibration date",
+                            "type": "date",
+                            "owner": null
+                        }
+		}, {
+			"name": "lastCalibrationDate",
+			"configuration": {
+                            "label": "Last calibration date",
+                            "type": "date",
+                            "owner": null
+                        }
+		}
+            ]
+        }
+    
+}

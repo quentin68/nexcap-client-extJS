@@ -1,0 +1,14 @@
+{
+   "success": true,
+   "error": null,
+   "message": null,
+   "total": 2,
+   "data": [   {
+      "date": "2016-03-15T09:29:58.231+0000",
+      "calculByValue": "NOW",
+      "value":       {
+         "totalitemsinservice": 123,
+         "itemsstockedcount": 229
+      }
+   }]
+}

@@ -1,0 +1,16 @@
+{
+    "success": true,
+    "total": 1,
+    "userMessage": "ACTION_WELL_COMPUTED",
+    "error": null,
+    "data": {
+            "id":1,
+            "name": "Statistiques",
+            "title": "Statistique Read",
+            "creationDate": "2016-01-01 12:12",
+            "authorName": "Joël",
+            "iconName": "default_icon.png",
+            "indicatorIds" : [1],
+            "configuration":"{\"backgroundColor\":\"#F4F4F4\"}"
+        }
+}

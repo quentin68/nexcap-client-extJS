@@ -1,0 +1,54 @@
+
+
+
+@include extjs-button-small-ui(
+    $ui: 'dashboard-scene',
+    $background-color : $db-color-ultra-light,
+    $background-color-over: $db-color-ultra-light,
+    $background-color-focus: $db-color-ultra-light, 
+    $background-color-pressed: $db-color-ultra-light,
+    $inner-border-color-focus: $db-color-ultra-light,
+    $inner-border-color-focus-pressed: $db-color-ultra-light,
+    $inner-border-color-focus-over: $db-color-ultra-light
+);
+
+
+@include extjs-panel-ui(
+    $ui: 'dashboard-scene',
+    $ui-header-color: $db-color-medium-dark,
+    $ui-header-font-size: 20px,
+    $ui-header-line-height: 26px,
+    $ui-header-font-weight: normal,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 8px,
+    
+    $ui-header-background-color: $db-color-ultra-light,
+    $ui-header-padding: 0 12px 0 12px,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: #E1E2E3,//$db-color-light,
+    //$ui-header-inner-border-width :0 0 2px 0,  TODO
+    
+    $ui-body-background-color: #F2F2F2
+    
+);
+
+.x-title-icon-dashboard-scene {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-btn-icon-el-dashboard-scene-small {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 20px;
+    margin-left: 0;
+}
+
+.btnAssignProp {
+    margin-right: 12px;
+}

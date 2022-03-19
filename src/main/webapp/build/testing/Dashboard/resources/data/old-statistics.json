@@ -1,0 +1,34 @@
+{
+    "success": true,
+    "data": [
+        {
+            "fields": [
+                {
+                    "name": "category",
+                    "type": "string",
+                    "label": "Days"
+                },
+                {
+                    "name": "number1",
+                    "type": "number",
+                    "label": "Emprunts"
+                },
+                {
+                    "name": "number2",
+                    "type": "number",
+                    "label": "Restitutions"
+                }
+            ],
+            "values": [
+                {"category": "-Lundi", "number1": 342,"number2": 354},
+                {"category": "-Mardi", "number1": 354, "number2": 367},
+                {"category": "-Mercredi", "number1": 243, "number2": 243},
+                {"category": "-Jeudi", "number1": 459,"number2": 456},
+                {"category": "-Vendredi", "number1": 376, "number2": 234},
+                {"category": "-samedi", "number1": 6,"number2": 6},
+                {"category": "-Dimanche", "number1": 24, "number2": 21}
+            ]
+        }
+                
+    ] 
+}

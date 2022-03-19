@@ -1,0 +1,63 @@
+
+
+.postit-panel {
+    background: $db-color-ultra-light;
+
+    .x-docked-top {
+        border-bottom-width: 1px !important;
+        //border-top-width: 1px !important;
+        border-style: solid;
+        border-color: $db-color-light;
+    }
+}
+
+.postit-image-container {
+    height: 88px;
+    width: 100px;
+    float: left;
+    text-align: center;
+    padding-top: 16px;
+}
+
+.postit-details-container {
+    color: $db-color-medium-dark;
+    line-height: 20px;
+    float: left;
+    padding: 20px;
+    height: 88px;
+
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    -o-hyphens: auto;
+    hyphens: auto;
+
+    :first-child{
+        margin-bottom: 4px;
+        font-size: 30px;
+    }
+}
+
+
+.postit-value {
+    font-size: 30px;
+    color: $db-color-medium-dark;
+    padding: 0;
+    border-top-style : hidden !important;
+    border-bottom-style : hidden !important;
+    border-left-style: hidden !important;
+    border-right-style: hidden !important;
+}
+
+.postit-label {
+    font-size: 14px;
+    color: $db-color-medium-dark;
+}
+
+.postit-textarea {
+    border-top-style : hidden !important;
+    border-bottom-style : hidden !important;
+    border-left-style: hidden !important;
+    border-right-style: hidden !important;
+    margin : 20;
+}

@@ -1,0 +1,146 @@
+
+/*
+$db-color-ultra-light : #FFFFFF;
+$db-color-light : #C2C6D6;
+$db-color-medium: #6A6D7E;
+$db-color-medium-dark: #494D60;
+$db-color-dark: #272A36;
+$db-color-ultra-dark: #000000;
+*/
+
+/**
+ * Generates a set of style rules for the "navigation" tab UI.
+ */
+
+@include extjs-panel-ui(
+    $ui: 'nav',
+    $ui-header-color: #FFFFFF,
+    $ui-header-font-size: 14px,
+    $ui-header-line-height: 32px,
+    $ui-header-font-weight: normal,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 8px,
+    
+    $ui-header-background-color: #272A36, 
+    $ui-header-padding: 0,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: #494D60,//$db-color-light,
+    //$ui-header-inner-border-width :0 0 1px 0,  //TODO
+    
+    $ui-body-background-color: #272A36
+    
+);
+
+@include extjs-button-large-ui(
+    $ui: 'nav',
+    $background-color : $db-color-dark,
+    $background-color-over: $db-color-dark,
+    $background-color-focus: $db-color-dark, 
+    $background-color-pressed: $db-color-dark,
+    $inner-border-color-focus: $db-color-dark,
+    $inner-border-color-focus-pressed: $db-color-dark,
+    $inner-border-color-focus-over: $db-color-dark
+);
+
+
+@include treelist-ui(
+    $ui: 'nav',
+
+    // Extra padding left/right
+    $padding: 0 10px,
+
+    // Black-ish background color
+    $background-color: #272A36,//#32404e,
+    $toolstrip-background-color: #272A36,// #32404e,
+
+    $tool-selected-color: #FFFFFF,//#f0f0f0,
+    $tool-selected-background-color: #5fa2dd,
+
+    $tool-float-indicator-width: 4px,
+    $tool-float-indicator-color: #5fa2dd,
+
+    // Darker background for expanded subtrees
+    $item-expanded-background-color: #272A36,//#2c3845,
+
+    // Taller line height
+    $item-line-height : 42px,//36px,
+
+    // Off-white text
+    $item-icon-color: #C2C6D6,//#ADB3B8,
+    $item-expander-color: #C2C6D6,//#ADB3B8,
+    $item-text-color: #C2C6D6,//#ADB3B8,
+
+    // Brighter when hovered
+    $row-over-background-color: #6A6D7E,//#4f606f,
+    $item-icon-over-color: #fff,
+    $item-expander-over-color: #fff,
+    $item-text-over-color: #fff,
+
+    $row-indicator-width: 6px,
+    $row-indicator-selected-color: #5fa2dd,
+    $row-indicator-selected-over-color: lighten(#5fa2dd, 10%),
+    $row-indicator-over-color: lighten(#5fa2dd, 10%),
+
+    // Various sizes for the pieces:
+    $item-icon-font-size: 18px,
+    $item-icon-width: 24px,
+    $item-expander-font-size: 16px,
+    $item-expander-width: 24px,
+
+    $row-selected-background-color: #494D60//#3f505f
+);
+
+
+.treelist-with-nav {
+    background-color: #272A36; //#32404e
+}
+
+
+.x-btn-nav-small {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 20px;
+    margin-right: 8px;
+}
+
+
+.icon-menu-dashboard { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_dashboard_off.png) !important;
+    background-size: contain;
+    height: 24px;
+    margin-top: 9px;
+}
+
+.icon-menu-settings { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_settings_off.png) !important;
+    background-size: 24px;
+    background-repeat: 'no-repeat';
+    height: 24px;
+    margin-top: 9px;
+}
+
+.icon-menu-search { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_search_off.png) !important;
+    background-size: contain;
+    height: 24px;
+    margin-top: 9px;
+}
+
+.icon-menu-administration { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_administration_off.png) !important;
+    background-size: contain;
+    height: 24px;
+    margin-top: 9px;
+}
+
+.icon-menu-notifications { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_notification_off.png) !important;
+    background-size: contain;
+    width: 24px;
+    height: 24px;
+    margin-top: 9px;
+}
+

@@ -1,0 +1,79 @@
+
+
+
+@include extjs-panel-ui(
+    $ui: 'bottom-menu',
+    $ui-border-width: 0,
+    $ui-border-color: $panel-header-border-color,
+    $ui-body-background-color: $db-color-dark
+);
+
+
+@include extjs-button-small-ui(
+    $ui: 'bottom-menu',
+    $background-color : $db-color-dark,
+    $background-color-over: $db-color-dark,
+    $background-color-focus: $db-color-dark, 
+    $background-color-pressed: $db-color-dark,
+    $inner-border-color-focus: $db-color-dark,
+    $inner-border-color-focus-pressed: $db-color-dark,
+    $inner-border-color-focus-over: $db-color-dark,
+    $border-color: $db-color-medium-dark
+
+);
+
+@include extjs-button-medium-ui(
+    $ui: 'bottom-menu',
+    $background-color : $db-color-dark,
+    $background-color-over: $db-color-dark,
+    $background-color-focus: $db-color-dark, 
+    $background-color-pressed: $db-color-dark,
+    $inner-border-color-focus: $db-color-dark,
+    $inner-border-color-focus-pressed: $db-color-dark,
+    $inner-border-color-focus-over: $db-color-dark,
+    $border-color: $db-color-medium-dark
+);
+
+
+@include extjs-toolbar-ui(
+    $ui: 'bottom-menu',
+    $scroller-glyph-color: #FFFFFF,
+    $background-color: $db-color-dark
+    
+);
+
+
+.x-title-text-accordion {
+    color: #FFFFFF;
+}
+
+x-panel-body x-panel-body-menu x-panel-body-menu x-panel-menu-outer-border-trbl {
+    border-color: #FF0000 !important;
+    border-width: 4px !important;
+}
+
+
+.icon-bottom-menu-dashboard { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_dashboard_off.png);
+    background-size: contain;
+}
+
+/*.icon-menu-settings { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_settings_off.png);
+    background-size: contain;
+}
+
+.icon-menu-search { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_search_off.png);
+    background-size: contain;
+}
+
+.icon-menu-administration { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_administration_off.png);
+    background-size: contain;
+}
+
+.icon-menu-notifications { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_notification_off.png);
+    background-size: contain;
+}*/

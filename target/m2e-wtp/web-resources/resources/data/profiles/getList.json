@@ -1,0 +1,347 @@
+{
+  "success": true,
+  "error": null,
+  "message": null,
+  "total": 5,
+  "data": [
+    {
+      "id": 1,
+      "description": "Administration",
+      "name": "Administration",
+      "lastUpdateDate": "2016-03-09T15:00:00.000+0000",
+      "features": [
+        {
+          "id": 52,
+          "name": "ALERT_ACKNOWLEDGEMENT"
+        },
+        {
+          "id": 43,
+          "name": "OP_MAINTENANCE"
+        },
+        {
+          "id": 44,
+          "name": "OP_CALIBRATION"
+        },
+        {
+          "id": 18,
+          "name": "HISTO_CONSUME_LIST"
+        },
+        {
+          "id": 26,
+          "name": "DEVICE_MAINTENANCE"
+        },
+        {
+          "id": 2,
+          "name": "USER_ADMIN"
+        },
+        {
+          "id": 35,
+          "name": "OP_MAINTAIN"
+        },
+        {
+          "id": 4,
+          "name": "REF_MAT_ADMIN"
+        },
+        {
+          "id": 25,
+          "name": "CUR_BORROW_INVENTORY"
+        },
+        {
+          "id": 34,
+          "name": "OP_EXECUTE"
+        },
+        {
+          "id": 46,
+          "name": "INTERVENTION_ORDER_ADMIN"
+        },
+        {
+          "id": 21,
+          "name": "HISTO_SEND_LIST"
+        },
+        {
+          "id": 36,
+          "name": "ASSIGN_PLANNED_OPERATIONS"
+        },
+        {
+          "id": 8,
+          "name": "PROFILE_ADMIN"
+        },
+        {
+          "id": 27,
+          "name": "STOCK_ADMIN"
+        },
+        {
+          "id": 16,
+          "name": "HISTO_RETURN_LIST"
+        },
+        {
+          "id": 6,
+          "name": "MAT_ADMIN"
+        },
+        {
+          "id": 19,
+          "name": "HISTO_RECEIVE_LIST"
+        },
+        {
+          "id": 53,
+          "name": "CUR_CALIBRATION_INVENTORY"
+        },
+        {
+          "id": 48,
+          "name": "HISTO_CALIBRATIONS_LIST"
+        },
+        {
+          "id": 15,
+          "name": "HISTO_BORROW_LIST"
+        },
+        {
+          "id": 31,
+          "name": "OP_DISSOCIATE_TAG"
+        },
+        {
+          "id": 32,
+          "name": "OP_IDENTIFY"
+        },
+        {
+          "id": 45,
+          "name": "SEARCH_MATERIAL"
+        },
+        {
+          "id": 22,
+          "name": "MAT_INVENTORY"
+        },
+        {
+          "id": 37,
+          "name": "READ_MAT_EXPIRATION_DATES"
+        },
+        {
+          "id": 33,
+          "name": "OP_LOCATE"
+        },
+        {
+          "id": 28,
+          "name": "PLANNED_OPERATIONS"
+        },
+        {
+          "id": 14,
+          "name": "OP_MOVE"
+        },
+        {
+          "id": 7,
+          "name": "OP_ASSOCIATE_TAG"
+        },
+        {
+          "id": 42,
+          "name": "HISTO_INVENTORY_LIST"
+        },
+        {
+          "id": 30,
+          "name": "HISTO_SPECIFIC_CHECK_LIST"
+        },
+        {
+          "id": 23,
+          "name": "MAT_BY_LOC_INVENTORY"
+        },
+        {
+          "id": 54,
+          "name": "CUR_MAINTENANCE_INVENTORY"
+        },
+        {
+          "id": 38,
+          "name": "MANAGE_DEVICE_UPDATES"
+        },
+        {
+          "id": 13,
+          "name": "OP_CONSUME"
+        },
+        {
+          "id": 3,
+          "name": "LOCATION_ADMIN"
+        },
+        {
+          "id": 41,
+          "name": "OP_INVENTORY"
+        },
+        {
+          "id": 11,
+          "name": "OP_BORROW"
+        },
+        {
+          "id": 9,
+          "name": "OP_SEND"
+        },
+        {
+          "id": 24,
+          "name": "CUR_SEND_INVENTORY"
+        },
+        {
+          "id": 20,
+          "name": "HISTO_ALL_LIST"
+        },
+        {
+          "id": 17,
+          "name": "HISTO_MOVING_LIST"
+        },
+        {
+          "id": 29,
+          "name": "OP_SPECIFIC_CHECK"
+        },
+        {
+          "id": 5,
+          "name": "CAT_MAT_ADMIN"
+        },
+        {
+          "id": 47,
+          "name": "HISTO_MAINTENANCES_LIST"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Supervision des historiques",
+      "name": "Supervision des historiques",
+      "lastUpdateDate": "2016-03-09T15:00:00.000+0000",
+      "features": []
+    },
+    {
+      "id": 3,
+      "description": "Supervision des inventaires",
+      "name": "Supervision des inventaires",
+      "lastUpdateDate": "2016-03-09T15:00:00.000+0000",
+      "features": [
+        {
+          "id": 22,
+          "name": "MAT_INVENTORY"
+        },
+        {
+          "id": 37,
+          "name": "READ_MAT_EXPIRATION_DATES"
+        },
+        {
+          "id": 18,
+          "name": "HISTO_CONSUME_LIST"
+        },
+        {
+          "id": 25,
+          "name": "CUR_BORROW_INVENTORY"
+        },
+        {
+          "id": 21,
+          "name": "HISTO_SEND_LIST"
+        },
+        {
+          "id": 42,
+          "name": "HISTO_INVENTORY_LIST"
+        },
+        {
+          "id": 30,
+          "name": "HISTO_SPECIFIC_CHECK_LIST"
+        },
+        {
+          "id": 23,
+          "name": "MAT_BY_LOC_INVENTORY"
+        },
+        {
+          "id": 54,
+          "name": "CUR_MAINTENANCE_INVENTORY"
+        },
+        {
+          "id": 16,
+          "name": "HISTO_RETURN_LIST"
+        },
+        {
+          "id": 41,
+          "name": "OP_INVENTORY"
+        },
+        {
+          "id": 19,
+          "name": "HISTO_RECEIVE_LIST"
+        },
+        {
+          "id": 53,
+          "name": "CUR_CALIBRATION_INVENTORY"
+        },
+        {
+          "id": 48,
+          "name": "HISTO_CALIBRATIONS_LIST"
+        },
+        {
+          "id": 24,
+          "name": "CUR_SEND_INVENTORY"
+        },
+        {
+          "id": 20,
+          "name": "HISTO_ALL_LIST"
+        },
+        {
+          "id": 15,
+          "name": "HISTO_BORROW_LIST"
+        },
+        {
+          "id": 17,
+          "name": "HISTO_MOVING_LIST"
+        },
+        {
+          "id": 47,
+          "name": "HISTO_MAINTENANCES_LIST"
+        },
+        {
+          "id": 32,
+          "name": "OP_IDENTIFY"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "description": "Opération",
+      "name": "Opération",
+      "lastUpdateDate": "2016-03-09T15:00:00.000+0000",
+      "features": [
+        {
+          "id": 41,
+          "name": "OP_INVENTORY"
+        },
+        {
+          "id": 11,
+          "name": "OP_BORROW"
+        },
+        {
+          "id": 9,
+          "name": "OP_SEND"
+        },
+        {
+          "id": 13,
+          "name": "OP_CONSUME"
+        },
+        {
+          "id": 32,
+          "name": "OP_IDENTIFY"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "description": "Maintenance",
+      "name": "Maintenance",
+      "lastUpdateDate": "2016-03-09T15:00:00.000+0000",
+      "features": [
+        {
+          "id": 26,
+          "name": "DEVICE_MAINTENANCE"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "description": "Système",
+      "name": "Système",
+      "lastUpdateDate": "2017-10-09T15:00:00.000+0000",
+      "features": [
+        {
+          "id": 55,
+          "name": "MANAGE_IMPORTS"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+[
+// ===================================================================
+// 	MATERIALS  
+// ===================================================================
+	{
+		"msgid": "Items administration",
+		"msgstr": "Items administration"
+	},
+// ===================================================================
+// 	REFERENCES  
+// ===================================================================
+	{
+		"msgid": "References administration",
+		"msgstr": "References administration"
+	},
+// ===================================================================
+// 	CATEGORIES  
+// ===================================================================
+	{
+		"msgid": "Categories administration",
+		"msgstr": "Categories administration"
+	},
+// ===================================================================
+// 	POSITIONS / LOCATIONS  
+// ===================================================================
+	{
+		"msgid": "Locations administration",
+		"msgstr": "Locations administration"
+	},
+// ===================================================================
+// 	USERS / PROFILES  
+// ===================================================================
+	{
+		"msgid": "Users administration",
+		"msgstr": "Users administration"
+	}, {
+		"msgid": "Profiles administration",
+		"msgstr": "Profiles administration"
+	},
+// ===================================================================
+// 	DEVICES
+// ===================================================================
+	{
+		"msgid": "Devices maintenance",
+		"msgstr": "Devices maintenance"
+	},{
+		"msgid": "Device updates",
+		"msgstr": "Device updates"
+	},
+// ===================================================================
+// 	ALERTS  
+// ===================================================================
+	{
+		"msgid": "Alerts acknowledgement",
+		"msgstr": "Alerts acknowledgement"
+	},
+// ===================================================================
+// 	LOGINGS  
+// ===================================================================
+	{
+		"msgid": "Loggings",
+		"msgstr": "Loggings"
+	}, { 
+		"msgid": "Logging of consumptions",
+		"msgstr": "Logging of consumptions"
+	}, {
+		"msgid": "Loggins of calibrations",
+		"msgstr": "Loggins of calibrations"
+	}, {
+		"msgid": "Movements",
+		"msgstr": "Movements"
+	}, {
+		"msgid": "Logging of receives",
+		"msgstr": "Logging of receives"
+	}, {
+		"msgid": "Logging of inventories",
+		"msgstr": "Logging of inventories"
+	}, {
+		"msgid": "Logging of borrows",
+		"msgstr": "Logging of borrows"
+	}, {
+		"msgid": "Logging of calibrations",
+		"msgstr": "Logging of calibrations"
+	}, {
+		"msgid": "Logging of movings",
+		"msgstr": "Logging of movings"
+	}, {
+		"msgid": "Logging of maintenances",
+		"msgstr": "Logging of maintenances"
+	}, {
+		"msgid": "Logging of specific checks",
+		"msgstr": "Logging of specific checks"
+	}, {
+		"msgid": "Logging of returns",
+		"msgstr": "Logging of returns"
+	},
+// ===================================================================
+// 	CALIBRATIONS  
+// ===================================================================
+	{
+		"msgid": "Calibrations",
+		"msgstr": "Calibrations"
+	},
+// ===================================================================
+// 	PLANIFICATIONS  / ASSIGNATIONS
+// ===================================================================
+	{
+		"msgid": "Planifications",
+		"msgstr": "Planifications"
+	},
+	{
+		"msgid": "Assignations",
+		"msgstr": "Assignations"
+	},
+// ===================================================================
+// 	STOCKS  
+// ===================================================================
+	{
+		"msgid": "Stock administration",
+		"msgstr": "Stock administration"
+	},
+// ===================================================================
+// 	INVENTORIES  
+// ===================================================================
+	{
+		"msgid": "Items inventory",
+		"msgstr": "Items inventory"
+	}, {
+		"msgid": "Inventory by location",
+		"msgstr": "Inventory by location"
+	}, {
+		"msgid": "Inventory by location",
+		"msgstr": "Inventory by location"
+	}, {
+		"msgid": "Calibrations inventory",
+		"msgstr": "Calibrations inventory"
+	}, {
+		"msgid": "Maintenance inventory",
+		"msgstr": "Maintenance inventory"
+	},
+// ===================================================================
+// 	OPERATIONS  
+// ===================================================================
+	{
+		"msgid": "Maintain",
+		"msgstr": "Maintain"
+	}, {
+		"msgid": "Send",
+		"msgstr": "Send"
+	}, {
+		"msgid": "Consumptions",
+		"msgstr": "Consumptions"
+	}, {
+		"msgid": "Borrowings",
+		"msgstr": "Borrowings"
+	}, {
+		"msgid": "Borrow",
+		"msgstr": "Borrow"
+	}, {
+		"msgid": "Sendings",
+		"msgstr": "Sendings"
+	}, {
+		"msgid": "Associate tag",
+		"msgstr": "Associate tag"
+	}, {
+		"msgid": "Identify",
+		"msgstr": "Identify"
+	}, {
+		"msgid": "Inventory",
+		"msgstr": "Inventory"
+	}, {
+		"msgid": "Execute",
+		"msgstr": "Execute"
+	}, {
+		"msgid": "Locate",
+		"msgstr": "Locate"
+	}, {
+		"msgid": "Maintenances",
+		"msgstr": "Maintenances"
+	}, {
+		"msgid": "Dissociate tag",
+		"msgstr": "Dissociate tag"
+	},
+// ===================================================================
+// 	EXPIRATIONS DATES  
+// ===================================================================
+	{
+		"msgid": "Expiration dates",
+		"msgstr": "Expiration dates"
+	},
+// ===================================================================
+// 	SEARCH  
+// ===================================================================
+	{
+		"msgid": "Search",
+		"msgstr": "Search"
+	},
+// ===================================================================
+// 	SPECIFIC CHECKS  
+// ===================================================================
+	{
+		"msgid": "Specific check",
+		"msgstr": "Specific check"
+	},
+// ===================================================================
+// 	INTERVENTION ORDER 
+// ===================================================================
+	{
+		"msgid": "Intervention orders",
+		"msgstr": "Intervention orders"
+	}
+]

@@ -1,0 +1,39 @@
+
+
+//$base-color: #272A36;
+
+
+$dashboard-color-dark: #272A36;
+$dashboard-color-light: #272A36;
+
+$panel-header-border-color: #494D60 ;
+
+
+//$tool-size
+
+/***************************************
+@class Ext.layout.container.Accordion 
+****************************************/
+ 
+$accordion-header-color: dynamic(#FFF);
+$accordion-header-background-color: dynamic($dashboard-color-dark);
+$accordion-header-over-background-color: #6A6D7E;
+$accordion-header-tool-size: dynamic($tool-size);
+$accordion-header-border-width: dynamic(0 0 1px 0);
+$accordion-header-border-color: dynamic($panel-header-border-color);
+$accordion-header-padding: dynamic(18px 12px);
+$accordion-header-font-weight: normal;
+$accordion-header-font-family: dynamic($font-family);
+$accordion-header-text-transform: dynamic(none);
+$accordion-body-border-width: dynamic(0);
+$accordion-background-color: dynamic(#fff);
+$accordion-padding: dynamic(0);
+$accordion-item-margin: dynamic(0);
+$accordion-tool-background-image: dynamic('tools/tool-sprites');
+$accordion-tool-glyph-color: dynamic(#C2C6D6);
+$accordion-tool-glyph-font-size: dynamic(12px);
+$accordion-tool-expand-glyph: dynamic($fa-var-plus $accordion-tool-glyph-font-size $font-icon-font-family);
+$accordion-tool-collapse-glyph: dynamic($fa-var-minus $accordion-tool-glyph-font-size $font-icon-font-family);
+
+#menuLogo{cursor:pointer !important;}
+

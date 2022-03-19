@@ -1,0 +1,29 @@
+
+//$db-form-default-label-color: #404040;
+
+@include extjs-checkbox-ui(
+
+    $ui: 'lineEditorCheckbox',
+    $ui-checkbox-glyph-focus-color: $db-form-default-label-color,
+    $ui-checkbox-glyph-color: $db-form-default-label-color
+
+);
+
+@include extjs-label-ui(
+
+    $ui: 'lineEditorCheckbox',
+    $ui-font-color: $db-form-default-label-color
+
+);
+
+.line-editor-fieldset {
+    background-color: #FFFFFF !important;
+    color: #FFFFF;
+    padding: 0;
+}
+
+
+.x-form-cb-label-after{
+    color: #404040;
+    font: 300 13px/17px "Open Sans","Helvetica Neue",helvetica,arial,verdana,sans-serif;
+}

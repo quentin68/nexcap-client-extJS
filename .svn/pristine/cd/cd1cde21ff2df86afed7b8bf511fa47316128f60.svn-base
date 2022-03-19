@@ -1,0 +1,76 @@
+
+
+
+@include extjs-panel-ui(
+    $ui: 'accordion',
+    $ui-header-color: #FFFFFF,
+    $ui-header-font-size: 14px,
+    $ui-header-line-height: 18px,
+    $ui-header-font-weight: normal,
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 8px,
+    $ui-header-background-color: #272A36, 
+    $ui-header-padding: 0,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    
+    $ui-body-background-color: #272A36
+    
+);
+
+
+
+@include extjs-panel-ui(
+    $ui: 'menu',
+    $ui-header-color: #FFFFFF,
+    $ui-header-font-size: 24px,
+    $ui-header-line-height: 24px,
+    $ui-header-font-weight: normal,
+    $ui-header-icon-spacing: 15px,
+    $ui-header-background-color: #272A36, 
+    $ui-header-padding: 12px,
+    $ui-header-text-margin: 0,
+    $ui-border-width: 0 1px 0 0,
+    $ui-border-color: $panel-header-border-color,
+    
+    $ui-body-background-color:  #272A36
+    
+);
+
+
+.x-title-text-accordion {
+    color: #FFFFFF;
+}
+
+x-panel-body x-panel-body-menu x-panel-body-menu x-panel-menu-outer-border-trbl {
+    border-color: #FF0000 !important;
+    border-width: 4px !important;
+}
+
+
+.icon-menu-dashboard { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_dashboard_off.png);
+    background-size: contain;
+    padding: 12px 10px;
+}
+
+.icon-menu-settings { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_settings_off.png);
+    background-size: contain;
+}
+
+.icon-menu-search { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_search_off.png);
+    background-size: contain;
+}
+
+.icon-menu-administration { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_administration_off.png);
+    background-size: contain;
+}
+
+.icon-menu-notifications { 
+    background-image: url(#{$context-path}/resources/images/icons/128/icon_notification_off.png);
+    background-size: contain;
+}

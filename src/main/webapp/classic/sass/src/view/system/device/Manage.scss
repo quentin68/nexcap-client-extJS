@@ -1,0 +1,259 @@
+
+@include extjs-button-small-ui(
+    $ui: 'manage',
+    $background-color : $db-color-ultra-light,
+    $background-color-over: $db-color-ultra-light,
+    $background-color-focus: $db-color-ultra-light, 
+    $background-color-pressed: $db-color-ultra-light,
+    $inner-border-color-focus: $db-color-ultra-light,
+    $inner-border-color-focus-pressed: $db-color-ultra-light,
+    $inner-border-color-focus-over: $db-color-ultra-light
+);
+
+@include extjs-panel-ui(
+    $ui: 'manage',
+    $ui-header-color: $db-color-ultra-light,//$db-color-medium-dark,
+    $ui-header-background-color: $db-color-ultra-light, //title
+
+    $ui-header-font-size: 20px,
+    $ui-header-line-height: 26px,
+    $ui-header-font-weight: normal,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 8px,
+
+
+    $ui-header-padding: 4px 12px 4px 12px,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: #E1E2E3,//$db-color-light,
+    /*$ui-header-inner-border-width :0 0 1px 0,*/   //TODO 2.2
+    
+    $ui-body-background-color: $db-color-ultra-light
+    
+);
+
+/*.x-splitter {
+    background-color: $exec-light-background !important;;  //TODO 2.2
+}*/
+
+.manage{
+
+    .x-box-inner {
+  
+        background: $db-color-ultra-light ;
+        padding: 0;
+    }
+    
+    .x-toolbar-default {
+        padding: 0;
+        border-style: solid;
+        border-color: $db-color-medium-dark;;
+        border-width: 0;
+        background-image: none;
+        background-color: $db-color-medium-dark;;
+    }
+}
+
+.x-panel-header-manage {
+    font-family: FontAwesome;
+    background-color: $db-color-medium; //tools header
+    font-size: 24px;
+    line-height: 24px;
+}
+
+
+
+.blueIcon {
+    color: #4c91c9;
+}
+
+.orangeIcon {
+    color: #FFC400;
+}
+
+.greenIcon {
+    color: #4ec94c;
+}
+
+.redIcon {
+    color: #FF0000;
+}
+
+.purpleIcon {
+    color: #b453f4;
+}
+
+.unsaturatedBlueIcon {
+    color:#006699;
+}
+
+
+/*.x-panel-header-title-manage > .x-title-icon-wrap-manage > .x-title-icon-manage {
+    font-family: FontAwesome;
+    color: red;
+    font-size: 24px;
+    line-height: 24px;
+}*/
+
+.x-title-icon.x-title-icon-manage.fa.fa-info {
+    font-family: FontAwesome;
+    color: $db-color-ultra-light;//#8cdcff;//#006699;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+
+.x-title-icon.x-title-icon-manage.x-fa.fa-exclamation-triangle {
+    font-family: FontAwesome;
+    color: #FFC400;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-stethoscope {
+    font-family: FontAwesome;
+    color: #cc0000;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+
+
+.x-title-icon.x-title-icon-manage.x-fa.fa-tag {
+    font-family: FontAwesome;
+    color: #0062FF;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+
+
+.x-title-icon.x-title-icon-manage.fa.fa-check-circle-o {
+    font-family: FontAwesome;
+    color: #299C13;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-list {
+    font-family: FontAwesome;
+    color: #F76D18; 
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-user-plus {
+    font-family: FontAwesome;
+    color: #17A026; //#FFC400;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-thumb-tack {
+    font-family: FontAwesome;
+    color: #DA128D;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+
+.x-title-icon.x-title-icon-manage.fa.fa-object-group {
+    font-family: FontAwesome;
+    color: #EDE427;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-tags {
+    font-family: FontAwesome;
+    color: #02C221;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-gears {
+    font-family: FontAwesome;
+    color: #6D05B7;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-trash {
+    font-family: FontAwesome;
+    color: #630608;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-exclamation {
+    font-family: FontAwesome;
+    color: #C70B0E;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-cogs {
+    font-family: FontAwesome;
+    color: $db-color-ultra-light;//#8eff75;//#31404f;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-icon.x-title-icon-manage.fa.fa-paw {
+    font-family: FontAwesome;
+    color: $db-color-ultra-light;//#ff2600;//#870808;
+    font-size: 24px;
+    line-height: 24px;
+}
+
+.x-title-text.x-title-text-manage.x-title-item {
+    //text-transform: uppercase;
+}
+
+.manage-title {
+    font-size: 24px;
+    line-height: 24px;
+    margin : 12px;
+}
+
+.manage-label {
+    font-size: 13px;
+    line-height: 18px;
+    padding-left: 24px;
+    vertical-align: top;
+}
+
+.manage-text {
+    font-size: 13px;
+    line-height: 18px;
+    padding-left: 12px;
+    font-weight: normal;
+    vertical-align: top;
+}
+
+/*
+.x-btn-icon-el-dashboard-scene-small {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 20px;
+    margin-left: 0;
+}*/
+
+.btn-manage-map {
+    margin-top: 10px !important;
+    background-color: #272A36 !important;
+    color: #FFFFFF !important;
+    width: 25px !important;
+    height: 25px !important;
+    max-height: 25px !important;
+    max-width: 25px !important;
+    min-height: 25px !important;
+    min-width: 25px !important;
+    float: left;
+}
+
+.detailTitle{
+    background:none !important;
+}

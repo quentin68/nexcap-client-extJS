@@ -1,0 +1,3317 @@
+{
+	"success": true,
+	"error": null,
+	"message": null,
+	"total": 33,
+	"data": [{
+		"id": 1,
+		"name": "Catégorie",
+		"description": null,
+		"lastUpdateDate": "2016-03-09T15:00:00.000+0000",
+		"parentCategory": null,
+		"subCategoryList": [{
+			"id": 17,
+			"name": "Monture",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:17:06.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 23,
+				"name": "Equaroriale",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:20:59.000+0000",
+				"parentCategory": {
+					"id": 17,
+					"name": "Monture",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Monture",
+				"materialPropertiesList": []
+			}, {
+				"id": 24,
+				"name": "Azimutale",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:21:13.000+0000",
+				"parentCategory": {
+					"id": 17,
+					"name": "Monture",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Monture",
+				"materialPropertiesList": []
+			}, {
+				"id": 332,
+				"name": "Fixe",
+				"description": "",
+				"lastUpdateDate": "2016-08-18T04:29:29.000+0000",
+				"parentCategory": {
+					"id": 17,
+					"name": "Monture",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Monture",
+				"materialPropertiesList": [{
+					"id": 28,
+					"name": "Propriété 2",
+					"label": "Propriété 2",
+					"type": "STRING",
+					"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"Propri\\u00e9t\\u00e9 2\",\"fieldLabel\":\"Propri\\u00e9t\\u00e9 2\",\"description\":\"Cool cool\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":true,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-textfield-1500-inputEl\":\"\"}}",
+					"options": [],
+					"editable": true,
+					"displayed": true
+				}]
+			}, {
+				"id": 333,
+				"name": "Table",
+				"description": "Avec propriétés",
+				"lastUpdateDate": "2016-08-18T04:33:33.000+0000",
+				"parentCategory": {
+					"id": 17,
+					"name": "Monture",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Monture",
+				"materialPropertiesList": [{
+					"id": 29,
+					"name": "Longueur",
+					"label": "Longueur",
+					"type": "FLOAT",
+					"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Longueur\",\"fieldLabel\":\"Longueur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1618-inputEl\":\"\"}}",
+					"options": [],
+					"editable": true,
+					"displayed": true
+				}, {
+					"id": 30,
+					"name": "Largeur",
+					"label": "Largeur",
+					"type": "FLOAT",
+					"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Largeur\",\"fieldLabel\":\"Largeur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1677-inputEl\":\"\"}}",
+					"options": [],
+					"editable": true,
+					"displayed": true
+				}, {
+					"id": 31,
+					"name": "Couleur",
+					"label": "Couleur",
+					"type": "STRING",
+					"control": "{\"field\":{\"fieldType\":\"tagfield\",\"name\":\"Couleur\",\"fieldLabel\":\"Couleur\",\"description\":\"\",\"width\":266,\"itemValues\":[\"Rouge\",\"Bleu\",\"Vert\",\"Kaki\",\"Cuisse de nymphe \\u00e9mue\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-combo-2050-inputEl\":\"\"}}",
+					"options": [],
+					"editable": true,
+					"displayed": true
+				}]
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 16,
+			"name": "Accessoire",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:16:48.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 35,
+				"name": "Pointeur polaire",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:33:28.000+0000",
+				"parentCategory": {
+					"id": 16,
+					"name": "Accessoire",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire",
+				"materialPropertiesList": []
+			}, {
+				"id": 19,
+				"name": "Bague T2",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:19:29.000+0000",
+				"parentCategory": {
+					"id": 16,
+					"name": "Accessoire",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire",
+				"materialPropertiesList": []
+			}, {
+				"id": 18,
+				"name": "Lentille de Barlow",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:23:41.000+0000",
+				"parentCategory": {
+					"id": 16,
+					"name": "Accessoire",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 31,
+					"name": "Coulant 50,8",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:30:15.000+0000",
+					"parentCategory": {
+						"id": 18,
+						"name": "Lentille de Barlow",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [{
+						"id": 34,
+						"name": "X5",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T06:30:54.000+0000",
+						"parentCategory": {
+							"id": 31,
+							"name": "Coulant 50,8",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+						"materialPropertiesList": []
+					}, {
+						"id": 32,
+						"name": "X2",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T06:30:29.000+0000",
+						"parentCategory": {
+							"id": 31,
+							"name": "Coulant 50,8",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+						"materialPropertiesList": []
+					}, {
+						"id": 33,
+						"name": "X3",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T06:30:41.000+0000",
+						"parentCategory": {
+							"id": 31,
+							"name": "Coulant 50,8",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+						"materialPropertiesList": []
+					}],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Accessoire/Lentille de Barlow",
+					"materialPropertiesList": []
+				}, {
+					"id": 30,
+					"name": "Coulant 31,75",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:29:20.000+0000",
+					"parentCategory": {
+						"id": 18,
+						"name": "Lentille de Barlow",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Accessoire/Lentille de Barlow",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire",
+				"materialPropertiesList": []
+			}, {
+				"id": 21,
+				"name": "Renvoi coudé",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:20:13.000+0000",
+				"parentCategory": {
+					"id": 16,
+					"name": "Accessoire",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire",
+				"materialPropertiesList": []
+			}, {
+				"id": 20,
+				"name": "Tube allonge",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:19:53.000+0000",
+				"parentCategory": {
+					"id": 16,
+					"name": "Accessoire",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire",
+				"materialPropertiesList": []
+			}, {
+				"id": 22,
+				"name": "Redresseur terrestre",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:20:28.000+0000",
+				"parentCategory": {
+					"id": 16,
+					"name": "Accessoire",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire",
+				"materialPropertiesList": []
+			}, {
+				"id": 9,
+				"name": "Oculaires",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:17:24.000+0000",
+				"parentCategory": {
+					"id": 16,
+					"name": "Accessoire",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 12,
+					"name": "f.7",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:13:50.000+0000",
+					"parentCategory": {
+						"id": 9,
+						"name": "Oculaires",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Accessoire/Oculaires",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 3,
+			"name": "Instrument d'observation",
+			"description": "Junit Description",
+			"lastUpdateDate": "2016-08-09T06:14:39.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 10,
+				"name": "Télescope",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:11:26.000+0000",
+				"parentCategory": {
+					"id": 3,
+					"name": "Instrument d'observation",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 27,
+					"name": "Newton",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:26:56.000+0000",
+					"parentCategory": {
+						"id": 10,
+						"name": "Télescope",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [{
+						"id": 219,
+						"name": "TRuc demo",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T12:25:34.000+0000",
+						"parentCategory": {
+							"id": 27,
+							"name": "Newton",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [{
+							"id": 220,
+							"name": "fezrezrez",
+							"description": "",
+							"lastUpdateDate": "2016-08-09T12:26:04.000+0000",
+							"parentCategory": {
+								"id": 219,
+								"name": "TRuc demo",
+								"description": null,
+								"lastUpdateDate": null,
+								"parentCategory": null,
+								"subCategoryList": [],
+								"productReferenceIdList": [],
+								"picture": null,
+								"path": null,
+								"materialPropertiesList": []
+							},
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": {
+								"pictureName": "",
+								"thumbnailName": "",
+								"pictureSourceType": null,
+								"pictureSourceId": 0
+							},
+							"path": "Catégorie/Instrument d'observation/Télescope/Newton/TRuc demo",
+							"materialPropertiesList": []
+						}],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Instrument d'observation/Télescope/Newton",
+						"materialPropertiesList": []
+					}],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Télescope",
+					"materialPropertiesList": []
+				}, {
+					"id": 29,
+					"name": "Maksutov",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:27:41.000+0000",
+					"parentCategory": {
+						"id": 10,
+						"name": "Télescope",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Télescope",
+					"materialPropertiesList": []
+				}, {
+					"id": 28,
+					"name": "Dobson",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:27:08.000+0000",
+					"parentCategory": {
+						"id": 10,
+						"name": "Télescope",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Télescope",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation",
+				"materialPropertiesList": []
+			}, {
+				"id": 11,
+				"name": "Lunette",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:11:54.000+0000",
+				"parentCategory": {
+					"id": 3,
+					"name": "Instrument d'observation",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 25,
+					"name": "Achromatique",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:25:05.000+0000",
+					"parentCategory": {
+						"id": 11,
+						"name": "Lunette",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Lunette",
+					"materialPropertiesList": []
+				}, {
+					"id": 26,
+					"name": "Apochromatique",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:25:24.000+0000",
+					"parentCategory": {
+						"id": 11,
+						"name": "Lunette",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [{
+						"id": 13,
+						"name": "Diamètre 80",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T06:34:49.000+0000",
+						"parentCategory": {
+							"id": 26,
+							"name": "Apochromatique",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+						"materialPropertiesList": []
+					}, {
+						"id": 14,
+						"name": "Diamètre 150",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T06:36:09.000+0000",
+						"parentCategory": {
+							"id": 26,
+							"name": "Apochromatique",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+						"materialPropertiesList": []
+					}, {
+						"id": 15,
+						"name": "Diamètre 300",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T06:36:44.000+0000",
+						"parentCategory": {
+							"id": 26,
+							"name": "Apochromatique",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+						"materialPropertiesList": []
+					}],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Lunette",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [1],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [2],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": null,
+		"materialPropertiesList": []
+	}, {
+		"id": 3,
+		"name": "Instrument d'observation",
+		"description": "Junit Description",
+		"lastUpdateDate": "2016-08-09T06:14:39.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 10,
+			"name": "Télescope",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:11:26.000+0000",
+			"parentCategory": {
+				"id": 3,
+				"name": "Instrument d'observation",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 27,
+				"name": "Newton",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:26:56.000+0000",
+				"parentCategory": {
+					"id": 10,
+					"name": "Télescope",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 219,
+					"name": "TRuc demo",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T12:25:34.000+0000",
+					"parentCategory": {
+						"id": 27,
+						"name": "Newton",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [{
+						"id": 220,
+						"name": "fezrezrez",
+						"description": "",
+						"lastUpdateDate": "2016-08-09T12:26:04.000+0000",
+						"parentCategory": {
+							"id": 219,
+							"name": "TRuc demo",
+							"description": null,
+							"lastUpdateDate": null,
+							"parentCategory": null,
+							"subCategoryList": [],
+							"productReferenceIdList": [],
+							"picture": null,
+							"path": null,
+							"materialPropertiesList": []
+						},
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": {
+							"pictureName": "",
+							"thumbnailName": "",
+							"pictureSourceType": null,
+							"pictureSourceId": 0
+						},
+						"path": "Catégorie/Instrument d'observation/Télescope/Newton/TRuc demo",
+						"materialPropertiesList": []
+					}],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Télescope/Newton",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Télescope",
+				"materialPropertiesList": []
+			}, {
+				"id": 29,
+				"name": "Maksutov",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:27:41.000+0000",
+				"parentCategory": {
+					"id": 10,
+					"name": "Télescope",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Télescope",
+				"materialPropertiesList": []
+			}, {
+				"id": 28,
+				"name": "Dobson",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:27:08.000+0000",
+				"parentCategory": {
+					"id": 10,
+					"name": "Télescope",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Télescope",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation",
+			"materialPropertiesList": []
+		}, {
+			"id": 11,
+			"name": "Lunette",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:11:54.000+0000",
+			"parentCategory": {
+				"id": 3,
+				"name": "Instrument d'observation",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 25,
+				"name": "Achromatique",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:25:05.000+0000",
+				"parentCategory": {
+					"id": 11,
+					"name": "Lunette",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Lunette",
+				"materialPropertiesList": []
+			}, {
+				"id": 26,
+				"name": "Apochromatique",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:25:24.000+0000",
+				"parentCategory": {
+					"id": 11,
+					"name": "Lunette",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 13,
+					"name": "Diamètre 80",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:34:49.000+0000",
+					"parentCategory": {
+						"id": 26,
+						"name": "Apochromatique",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+					"materialPropertiesList": []
+				}, {
+					"id": 14,
+					"name": "Diamètre 150",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:36:09.000+0000",
+					"parentCategory": {
+						"id": 26,
+						"name": "Apochromatique",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+					"materialPropertiesList": []
+				}, {
+					"id": 15,
+					"name": "Diamètre 300",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:36:44.000+0000",
+					"parentCategory": {
+						"id": 26,
+						"name": "Apochromatique",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Lunette",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [1],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 9,
+		"name": "Oculaires",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:17:24.000+0000",
+		"parentCategory": {
+			"id": 16,
+			"name": "Accessoire",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 12,
+			"name": "f.7",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:13:50.000+0000",
+			"parentCategory": {
+				"id": 9,
+				"name": "Oculaires",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire/Oculaires",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire",
+		"materialPropertiesList": []
+	}, {
+		"id": 10,
+		"name": "Télescope",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:11:26.000+0000",
+		"parentCategory": {
+			"id": 3,
+			"name": "Instrument d'observation",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 27,
+			"name": "Newton",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:26:56.000+0000",
+			"parentCategory": {
+				"id": 10,
+				"name": "Télescope",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 219,
+				"name": "TRuc demo",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T12:25:34.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Newton",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 220,
+					"name": "fezrezrez",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T12:26:04.000+0000",
+					"parentCategory": {
+						"id": 219,
+						"name": "TRuc demo",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Instrument d'observation/Télescope/Newton/TRuc demo",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Télescope/Newton",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Télescope",
+			"materialPropertiesList": []
+		}, {
+			"id": 29,
+			"name": "Maksutov",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:27:41.000+0000",
+			"parentCategory": {
+				"id": 10,
+				"name": "Télescope",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Télescope",
+			"materialPropertiesList": []
+		}, {
+			"id": 28,
+			"name": "Dobson",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:27:08.000+0000",
+			"parentCategory": {
+				"id": 10,
+				"name": "Télescope",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Télescope",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation",
+		"materialPropertiesList": []
+	}, {
+		"id": 11,
+		"name": "Lunette",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:11:54.000+0000",
+		"parentCategory": {
+			"id": 3,
+			"name": "Instrument d'observation",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 25,
+			"name": "Achromatique",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:25:05.000+0000",
+			"parentCategory": {
+				"id": 11,
+				"name": "Lunette",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Lunette",
+			"materialPropertiesList": []
+		}, {
+			"id": 26,
+			"name": "Apochromatique",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:25:24.000+0000",
+			"parentCategory": {
+				"id": 11,
+				"name": "Lunette",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 13,
+				"name": "Diamètre 80",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:34:49.000+0000",
+				"parentCategory": {
+					"id": 26,
+					"name": "Apochromatique",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+				"materialPropertiesList": []
+			}, {
+				"id": 14,
+				"name": "Diamètre 150",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:36:09.000+0000",
+				"parentCategory": {
+					"id": 26,
+					"name": "Apochromatique",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+				"materialPropertiesList": []
+			}, {
+				"id": 15,
+				"name": "Diamètre 300",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:36:44.000+0000",
+				"parentCategory": {
+					"id": 26,
+					"name": "Apochromatique",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Lunette",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation",
+		"materialPropertiesList": []
+	}, {
+		"id": 12,
+		"name": "f.7",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:13:50.000+0000",
+		"parentCategory": {
+			"id": 9,
+			"name": "Oculaires",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire/Oculaires",
+		"materialPropertiesList": []
+	}, {
+		"id": 13,
+		"name": "Diamètre 80",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:34:49.000+0000",
+		"parentCategory": {
+			"id": 26,
+			"name": "Apochromatique",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+		"materialPropertiesList": []
+	}, {
+		"id": 14,
+		"name": "Diamètre 150",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:36:09.000+0000",
+		"parentCategory": {
+			"id": 26,
+			"name": "Apochromatique",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+		"materialPropertiesList": []
+	}, {
+		"id": 15,
+		"name": "Diamètre 300",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:36:44.000+0000",
+		"parentCategory": {
+			"id": 26,
+			"name": "Apochromatique",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+		"materialPropertiesList": []
+	}, {
+		"id": 16,
+		"name": "Accessoire",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:16:48.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 35,
+			"name": "Pointeur polaire",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:33:28.000+0000",
+			"parentCategory": {
+				"id": 16,
+				"name": "Accessoire",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire",
+			"materialPropertiesList": []
+		}, {
+			"id": 19,
+			"name": "Bague T2",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:19:29.000+0000",
+			"parentCategory": {
+				"id": 16,
+				"name": "Accessoire",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire",
+			"materialPropertiesList": []
+		}, {
+			"id": 18,
+			"name": "Lentille de Barlow",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:23:41.000+0000",
+			"parentCategory": {
+				"id": 16,
+				"name": "Accessoire",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 31,
+				"name": "Coulant 50,8",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:30:15.000+0000",
+				"parentCategory": {
+					"id": 18,
+					"name": "Lentille de Barlow",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [{
+					"id": 34,
+					"name": "X5",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:30:54.000+0000",
+					"parentCategory": {
+						"id": 31,
+						"name": "Coulant 50,8",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+					"materialPropertiesList": []
+				}, {
+					"id": 32,
+					"name": "X2",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:30:29.000+0000",
+					"parentCategory": {
+						"id": 31,
+						"name": "Coulant 50,8",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+					"materialPropertiesList": []
+				}, {
+					"id": 33,
+					"name": "X3",
+					"description": "",
+					"lastUpdateDate": "2016-08-09T06:30:41.000+0000",
+					"parentCategory": {
+						"id": 31,
+						"name": "Coulant 50,8",
+						"description": null,
+						"lastUpdateDate": null,
+						"parentCategory": null,
+						"subCategoryList": [],
+						"productReferenceIdList": [],
+						"picture": null,
+						"path": null,
+						"materialPropertiesList": []
+					},
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": {
+						"pictureName": "",
+						"thumbnailName": "",
+						"pictureSourceType": null,
+						"pictureSourceId": 0
+					},
+					"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+					"materialPropertiesList": []
+				}],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire/Lentille de Barlow",
+				"materialPropertiesList": []
+			}, {
+				"id": 30,
+				"name": "Coulant 31,75",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:29:20.000+0000",
+				"parentCategory": {
+					"id": 18,
+					"name": "Lentille de Barlow",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire/Lentille de Barlow",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire",
+			"materialPropertiesList": []
+		}, {
+			"id": 21,
+			"name": "Renvoi coudé",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:20:13.000+0000",
+			"parentCategory": {
+				"id": 16,
+				"name": "Accessoire",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire",
+			"materialPropertiesList": []
+		}, {
+			"id": 20,
+			"name": "Tube allonge",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:19:53.000+0000",
+			"parentCategory": {
+				"id": 16,
+				"name": "Accessoire",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire",
+			"materialPropertiesList": []
+		}, {
+			"id": 22,
+			"name": "Redresseur terrestre",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:20:28.000+0000",
+			"parentCategory": {
+				"id": 16,
+				"name": "Accessoire",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire",
+			"materialPropertiesList": []
+		}, {
+			"id": 9,
+			"name": "Oculaires",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:17:24.000+0000",
+			"parentCategory": {
+				"id": 16,
+				"name": "Accessoire",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 12,
+				"name": "f.7",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:13:50.000+0000",
+				"parentCategory": {
+					"id": 9,
+					"name": "Oculaires",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire/Oculaires",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 17,
+		"name": "Monture",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:17:06.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 23,
+			"name": "Equaroriale",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:20:59.000+0000",
+			"parentCategory": {
+				"id": 17,
+				"name": "Monture",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Monture",
+			"materialPropertiesList": []
+		}, {
+			"id": 24,
+			"name": "Azimutale",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:21:13.000+0000",
+			"parentCategory": {
+				"id": 17,
+				"name": "Monture",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Monture",
+			"materialPropertiesList": []
+		}, {
+			"id": 332,
+			"name": "Fixe",
+			"description": "",
+			"lastUpdateDate": "2016-08-18T04:29:29.000+0000",
+			"parentCategory": {
+				"id": 17,
+				"name": "Monture",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Monture",
+			"materialPropertiesList": [{
+				"id": 28,
+				"name": "Propriété 2",
+				"label": "Propriété 2",
+				"type": "STRING",
+				"control": "{\"field\":{\"xtype\":\"textfield\",\"name\":\"Propri\\u00e9t\\u00e9 2\",\"fieldLabel\":\"Propri\\u00e9t\\u00e9 2\",\"description\":\"Cool cool\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":true,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-textfield-1500-inputEl\":\"\"}}",
+				"options": [],
+				"editable": true,
+				"displayed": true
+			}]
+		}, {
+			"id": 333,
+			"name": "Table",
+			"description": "Avec propriétés",
+			"lastUpdateDate": "2016-08-18T04:33:33.000+0000",
+			"parentCategory": {
+				"id": 17,
+				"name": "Monture",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Monture",
+			"materialPropertiesList": [{
+				"id": 29,
+				"name": "Longueur",
+				"label": "Longueur",
+				"type": "FLOAT",
+				"control": "{\"field\":{\"xtype\":\"numberfield\",\"name\":\"Longueur\",\"fieldLabel\":\"Longueur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1618-inputEl\":\"\"}}",
+				"options": [],
+				"editable": true,
+				"displayed": true
+			}, {
+				"id": 30,
+				"name": "Largeur",
+				"label": "Largeur",
+				"type": "FLOAT",
+				"control": "{\"field\":{\"xtype\":\"numberfield\",\"name\":\"Largeur\",\"fieldLabel\":\"Largeur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1677-inputEl\":\"\"}}",
+				"options": [],
+				"editable": true,
+				"displayed": true
+			}, {
+				"id": 31,
+				"name": "Couleur",
+				"label": "Couleur",
+				"type": "STRING",
+				"control": "{\"field\":{\"xtype\":\"tagfield\",\"name\":\"Couleur\",\"fieldLabel\":\"Couleur\",\"description\":\"\",\"width\":266,\"itemValues\":[\"Rouge\",\"Bleu\",\"Vert\",\"Kaki\",\"Cuisse de nymphe \\u00e9mue\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-combo-2050-inputEl\":\"\"}}",
+				"options": [],
+				"editable": true,
+				"displayed": true
+			}]
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 18,
+		"name": "Lentille de Barlow",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:23:41.000+0000",
+		"parentCategory": {
+			"id": 16,
+			"name": "Accessoire",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 31,
+			"name": "Coulant 50,8",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:30:15.000+0000",
+			"parentCategory": {
+				"id": 18,
+				"name": "Lentille de Barlow",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 34,
+				"name": "X5",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:30:54.000+0000",
+				"parentCategory": {
+					"id": 31,
+					"name": "Coulant 50,8",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+				"materialPropertiesList": []
+			}, {
+				"id": 32,
+				"name": "X2",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:30:29.000+0000",
+				"parentCategory": {
+					"id": 31,
+					"name": "Coulant 50,8",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+				"materialPropertiesList": []
+			}, {
+				"id": 33,
+				"name": "X3",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T06:30:41.000+0000",
+				"parentCategory": {
+					"id": 31,
+					"name": "Coulant 50,8",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire/Lentille de Barlow",
+			"materialPropertiesList": []
+		}, {
+			"id": 30,
+			"name": "Coulant 31,75",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:29:20.000+0000",
+			"parentCategory": {
+				"id": 18,
+				"name": "Lentille de Barlow",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire/Lentille de Barlow",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire",
+		"materialPropertiesList": []
+	}, {
+		"id": 19,
+		"name": "Bague T2",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:19:29.000+0000",
+		"parentCategory": {
+			"id": 16,
+			"name": "Accessoire",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire",
+		"materialPropertiesList": []
+	}, {
+		"id": 20,
+		"name": "Tube allonge",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:19:53.000+0000",
+		"parentCategory": {
+			"id": 16,
+			"name": "Accessoire",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire",
+		"materialPropertiesList": []
+	}, {
+		"id": 21,
+		"name": "Renvoi coudé",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:20:13.000+0000",
+		"parentCategory": {
+			"id": 16,
+			"name": "Accessoire",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire",
+		"materialPropertiesList": []
+	}, {
+		"id": 22,
+		"name": "Redresseur terrestre",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:20:28.000+0000",
+		"parentCategory": {
+			"id": 16,
+			"name": "Accessoire",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire",
+		"materialPropertiesList": []
+	}, {
+		"id": 23,
+		"name": "Equaroriale",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:20:59.000+0000",
+		"parentCategory": {
+			"id": 17,
+			"name": "Monture",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Monture",
+		"materialPropertiesList": []
+	}, {
+		"id": 24,
+		"name": "Azimutale",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:21:13.000+0000",
+		"parentCategory": {
+			"id": 17,
+			"name": "Monture",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Monture",
+		"materialPropertiesList": []
+	}, {
+		"id": 25,
+		"name": "Achromatique",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:25:05.000+0000",
+		"parentCategory": {
+			"id": 11,
+			"name": "Lunette",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Lunette",
+		"materialPropertiesList": []
+	}, {
+		"id": 26,
+		"name": "Apochromatique",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:25:24.000+0000",
+		"parentCategory": {
+			"id": 11,
+			"name": "Lunette",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 13,
+			"name": "Diamètre 80",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:34:49.000+0000",
+			"parentCategory": {
+				"id": 26,
+				"name": "Apochromatique",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+			"materialPropertiesList": []
+		}, {
+			"id": 14,
+			"name": "Diamètre 150",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:36:09.000+0000",
+			"parentCategory": {
+				"id": 26,
+				"name": "Apochromatique",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+			"materialPropertiesList": []
+		}, {
+			"id": 15,
+			"name": "Diamètre 300",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:36:44.000+0000",
+			"parentCategory": {
+				"id": 26,
+				"name": "Apochromatique",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Lunette/Apochromatique",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Lunette",
+		"materialPropertiesList": []
+	}, {
+		"id": 27,
+		"name": "Newton",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:26:56.000+0000",
+		"parentCategory": {
+			"id": 10,
+			"name": "Télescope",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 219,
+			"name": "TRuc demo",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T12:25:34.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Newton",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 220,
+				"name": "fezrezrez",
+				"description": "",
+				"lastUpdateDate": "2016-08-09T12:26:04.000+0000",
+				"parentCategory": {
+					"id": 219,
+					"name": "TRuc demo",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Instrument d'observation/Télescope/Newton/TRuc demo",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Télescope/Newton",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Télescope",
+		"materialPropertiesList": []
+	}, {
+		"id": 28,
+		"name": "Dobson",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:27:08.000+0000",
+		"parentCategory": {
+			"id": 10,
+			"name": "Télescope",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Télescope",
+		"materialPropertiesList": []
+	}, {
+		"id": 29,
+		"name": "Maksutov",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:27:41.000+0000",
+		"parentCategory": {
+			"id": 10,
+			"name": "Télescope",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Télescope",
+		"materialPropertiesList": []
+	}, {
+		"id": 30,
+		"name": "Coulant 31,75",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:29:20.000+0000",
+		"parentCategory": {
+			"id": 18,
+			"name": "Lentille de Barlow",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire/Lentille de Barlow",
+		"materialPropertiesList": []
+	}, {
+		"id": 31,
+		"name": "Coulant 50,8",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:30:15.000+0000",
+		"parentCategory": {
+			"id": 18,
+			"name": "Lentille de Barlow",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 34,
+			"name": "X5",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:30:54.000+0000",
+			"parentCategory": {
+				"id": 31,
+				"name": "Coulant 50,8",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+			"materialPropertiesList": []
+		}, {
+			"id": 32,
+			"name": "X2",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:30:29.000+0000",
+			"parentCategory": {
+				"id": 31,
+				"name": "Coulant 50,8",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+			"materialPropertiesList": []
+		}, {
+			"id": 33,
+			"name": "X3",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T06:30:41.000+0000",
+			"parentCategory": {
+				"id": 31,
+				"name": "Coulant 50,8",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire/Lentille de Barlow",
+		"materialPropertiesList": []
+	}, {
+		"id": 32,
+		"name": "X2",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:30:29.000+0000",
+		"parentCategory": {
+			"id": 31,
+			"name": "Coulant 50,8",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+		"materialPropertiesList": []
+	}, {
+		"id": 33,
+		"name": "X3",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:30:41.000+0000",
+		"parentCategory": {
+			"id": 31,
+			"name": "Coulant 50,8",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+		"materialPropertiesList": []
+	}, {
+		"id": 34,
+		"name": "X5",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:30:54.000+0000",
+		"parentCategory": {
+			"id": 31,
+			"name": "Coulant 50,8",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire/Lentille de Barlow/Coulant 50,8",
+		"materialPropertiesList": []
+	}, {
+		"id": 35,
+		"name": "Pointeur polaire",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T06:33:28.000+0000",
+		"parentCategory": {
+			"id": 16,
+			"name": "Accessoire",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessoire",
+		"materialPropertiesList": []
+	}, {
+		"id": 219,
+		"name": "TRuc demo",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T12:25:34.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Newton",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 220,
+			"name": "fezrezrez",
+			"description": "",
+			"lastUpdateDate": "2016-08-09T12:26:04.000+0000",
+			"parentCategory": {
+				"id": 219,
+				"name": "TRuc demo",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Instrument d'observation/Télescope/Newton/TRuc demo",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Télescope/Newton",
+		"materialPropertiesList": []
+	}, {
+		"id": 220,
+		"name": "fezrezrez",
+		"description": "",
+		"lastUpdateDate": "2016-08-09T12:26:04.000+0000",
+		"parentCategory": {
+			"id": 219,
+			"name": "TRuc demo",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Instrument d'observation/Télescope/Newton/TRuc demo",
+		"materialPropertiesList": []
+	}, {
+		"id": 332,
+		"name": "Fixe",
+		"description": "",
+		"lastUpdateDate": "2016-08-18T04:29:29.000+0000",
+		"parentCategory": {
+			"id": 17,
+			"name": "Monture",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Monture",
+		"materialPropertiesList": [{
+			"id": 28,
+			"name": "Propriété 2",
+			"label": "Propriété 2",
+			"type": "STRING",
+			"control": "{\"field\":{\"xtype\":\"textfield\",\"name\":\"Propri\\u00e9t\\u00e9 2\",\"fieldLabel\":\"Propri\\u00e9t\\u00e9 2\",\"description\":\"Cool cool\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":true,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-textfield-1500-inputEl\":\"\"}}",
+			"options": [],
+			"editable": true,
+			"displayed": true
+		}]
+	}, {
+		"id": 333,
+		"name": "Table",
+		"description": "Avec propriétés",
+		"lastUpdateDate": "2016-08-18T04:33:33.000+0000",
+		"parentCategory": {
+			"id": 17,
+			"name": "Monture",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Monture",
+		"materialPropertiesList": [{
+			"id": 29,
+			"name": "Longueur",
+			"label": "Longueur",
+			"type": "FLOAT",
+			"control": "{\"field\":{\"xtype\":\"numberfield\",\"name\":\"Longueur\",\"fieldLabel\":\"Longueur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1618-inputEl\":\"\"}}",
+			"options": [],
+			"editable": true,
+			"displayed": true
+		}, {
+			"id": 30,
+			"name": "Largeur",
+			"label": "Largeur",
+			"type": "FLOAT",
+			"control": "{\"field\":{\"xtype\":\"numberfield\",\"name\":\"Largeur\",\"fieldLabel\":\"Largeur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1677-inputEl\":\"\"}}",
+			"options": [],
+			"editable": true,
+			"displayed": true
+		}, {
+			"id": 31,
+			"name": "Couleur",
+			"label": "Couleur",
+			"type": "STRING",
+			"control": "{\"field\":{\"xtype\":\"tagfield\",\"name\":\"Couleur\",\"fieldLabel\":\"Couleur\",\"description\":\"\",\"width\":266,\"itemValues\":[\"Rouge\",\"Bleu\",\"Vert\",\"Kaki\",\"Cuisse de nymphe \\u00e9mue\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-combo-2050-inputEl\":\"\"}}",
+			"options": [],
+			"editable": true,
+			"displayed": true
+		}]
+	}]
+}

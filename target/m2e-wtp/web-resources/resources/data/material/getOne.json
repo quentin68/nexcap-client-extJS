@@ -1,0 +1,101 @@
+{
+	"success": true,
+	"total": 0,
+	"data": [{
+		"id": 1,
+		"name": "Drill Box #1",
+		"code": null,
+		"codeType": null,
+		"lastUpdateDate": "2016-06-08 11:51:30",
+		"lastActionUpdateDate": "2016-04-14 11:37:41",
+		"productReferenceId": 1,
+		"locationId": 6,
+		"assignedLocationId": 0,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "Contrôle de serrage du 16/03/2016 16:09:06:\n- dernier réalisé: 6.635 Nm\n- demandé: 5.0 Nm",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "image.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [{
+			"name": "maxUseCount",
+			"value": null
+		}, {
+			"name": "nextMaintenanceDate",
+			"value": ""
+		}, {
+			"name": "curState",
+			"value": "Hors service"
+		}, {
+			"name": "lastMaintenanceDate",
+			"value": ""
+		}, {
+			"name": "nextCalibrationDate",
+			"value": ""
+		}, {
+			"name": "lastCalibrationDate",
+			"value": ""
+		}],
+		"alerts": [{
+			"id": 424,
+			"startDate": "2016-03-14 09:42:48",
+			"control": 6,
+			"material": 1,
+			"user": 1,
+			"operationNumber": 12,
+			"isAcknowledged": false,
+			"acknowledger": 0,
+			"acknowledgmentDate": null,
+			"controlNumber": 6,
+			"controlName": "Matériel hors service",
+			"controlDescription": "Matériel hors service",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Edition d'un matériel",
+			"productCategoryName": "Box",
+			"productReferenceCode": "DB",
+			"productReferenceDesignation": "Drill box",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB",
+		"productReferenceDesignation": "Drill box",
+		"productCategoryId": 3,
+		"productCategoryName": "Box",
+		"locationName": "A2",
+		"locationPath": "Showroom Sophia/Store ",
+		"address": "Showroom Sophia/Store /A2",
+		"assignedAddress": "",
+		"assignedLocationName": null,
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": ["03.jpg", "fichier01.pdf", "fichier02.pdf"],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 6,
+		"productReference": 1,
+		"assignedLocation": 0,
+		"maxUseCount": null,
+		"nextMaintenanceDate": null,
+		"curState": "Hors service",
+		"lastMaintenanceDate": null,
+		"nextCalibrationDate": null,
+		"lastCalibrationDate": null
+	}],
+	"alerts": [],
+	"report": []
+}

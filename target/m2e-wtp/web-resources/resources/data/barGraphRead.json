@@ -1,0 +1,41 @@
+{
+    "success": true,
+    "data":{
+        "authorName":"Coll_Joe",
+        "creationDate": null,
+        "iconName":"",
+        "indicatorType":"BAR_GRAPH",
+        "name":"",
+        "title":"",
+
+        "dataBinding":{
+
+            "title":"Emprunts VS Restitutions",
+            "xTitle":"Jours",
+            "yTitle":"Nombre d'outils",
+            "width":750,
+            "height":400,
+            "statisticProperty":"total",
+            "periodFilter":"lastMonth",
+            "granularity":"day",
+
+            "filters":[
+                {"property":"address", "comparison":"EQ", "value":"Nexess/B13/armoire 1"}
+            ],
+
+            "statisticReferences":[
+                {
+                    "propertyName":"HISTORIC_BORROWS",
+                    "label":"Emprunts d'outils",
+                    "color":"#115fa6"
+                },
+                {
+                    "propertyName":"HISTORIC_RETURNS",
+                    "label":"Restitutions d'outils",
+                    "color":"#94ae0a"
+                }
+            ]
+        }
+    }
+}
+	

@@ -1,0 +1,105 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 déc. 2015, 16:26:37
+    Author     : PowerBook_Joel
+*/
+
+/*
+$db-color-ultra-light : #FFFFFF;
+$db-color-light : #C2C6D6;
+$db-color-normal: #6A6D7E;
+$db-color-medium-dark: #272A36;
+$db-color-dark: #272A36;
+$db-color-ultra-dark: #000000;
+*/
+
+
+@include extjs-display-field-ui(
+    $ui: 'menu-header',
+    //$ui-field-height: 80px,
+    $ui-color: #C2C6D6,
+    $ui-font-size: 24px,
+    //$ui-font-family: dynamic($font-family),
+    $ui-font-weight: normal
+    
+);
+
+@include extjs-panel-ui(
+    $ui: 'menu-header',
+    $ui-header-color: #FF0000,
+    $ui-header-font-size: 18px,
+    $ui-header-line-height: 18px,
+    $ui-header-font-weight: normal,
+
+    $ui-header-icon-spacing: 15px,
+    $ui-header-background-color: #272A36,
+    $ui-header-padding: 12px,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    
+    $ui-border-width: 0 0 1px 0,
+    $ui-border-color: $panel-header-border-color,
+    
+    $ui-body-background-color: #272A36
+);
+
+/*
+@include extjs-panel-ui(
+    $ui: 'power-off',
+    $ui-header-color: #FFFFFF,
+    $ui-header-font-size: 14px,
+    $ui-header-line-height: 32px,
+    $ui-header-font-weight: normal,
+    
+    $ui-header-icon-height: 18px,
+    $ui-header-icon-width: 18px,
+    $ui-header-icon-spacing: 8px,
+    
+    $ui-header-background-color: #272A36, 
+    $ui-header-padding: 0,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: #494D60,//$db-color-light,
+    $ui-header-inner-border-width :0 0 1px 0,
+    
+    $ui-body-background-color: #272A36
+    
+);
+*/
+
+/*
+.x-btn-icon-el.x-btn-icon-el-default-small.fa.fa-power-off  {
+    font-family: FontAwesome;
+    color: red;
+    font-size: 18px;
+    line-height: 18px;
+}
+*/
+
+@include extjs-button-small-ui(
+    $ui: 'menu-header',
+    $background-color : $db-color-dark,
+    $background-color-over: $db-color-dark,
+    $background-color-focus: $db-color-dark, 
+    $background-color-pressed: $db-color-dark,
+    $inner-border-color-focus: $db-color-dark,
+    $inner-border-color-focus-pressed: $db-color-dark,
+    $inner-border-color-focus-over: $db-color-dark
+);
+
+
+
+/*.x-form-display-field x-form-display-field-menu-header {
+    font-family: "Open Sans","Helvetica Neue",helvetica,arial,verdana,sans-serif;
+}*/
+
+/*.x-form-display-field x-form-display-field-menu-header {
+    content: "";
+    font-family: ext-watermark;
+}*/
+
+

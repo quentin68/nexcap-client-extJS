@@ -1,0 +1,207 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id":1,
+            "title": "Bâtiment 1 / atelier 1",
+            "picture": {
+                "imageSrc": "map/images/plan1.jpg",
+                "scalling": 0.6,
+                "translation": {
+                    "posX": -0.5,
+                    "posY": -1.5,
+                },
+                "rotation": {
+                    "degrees": -33.2,
+                    "centerX": 0.5,
+                    "centerY": 0.5
+                }
+            },
+            "geoLocArea": {
+                "width": 0.85,
+                "height": 0.78,
+                "posX": 0.12,
+                "posY": 0.09
+            },
+            "ItemsLayer": {
+                "name": "Articles",
+                "hidden": false,
+                "bulletsOption": [
+                    {
+                        "property": "properties.status",
+                        "value": "OK",
+                        "type": "GREEN_BULLET"
+                    },{
+                        "property": "properties.status",
+                        "value": "KO",
+                        "type": "RED_BULLET"
+                    },{
+                        "property": "properties.status",
+                        "value": "WARNING",
+                        "type": "ORANGE_BULLET"
+                    }
+                ],
+                "mapItems":[
+                    {
+                        "item": {
+                            "id": 12,
+                            "name": "Article 1",
+                            "address": "Bâtiment 1 / atelier 1",
+                            "referenceCode": "Container",
+                            "referenceDesignation": "Container",
+                            "properties": {
+                                "size": 4,
+                                "statut": "OK"
+                            },
+                            "alerts": []
+                        },
+                        "icon": "TOOL",
+                        "mapPosRecords": [
+                            {
+                                "date": "2017-04-05 12:05",
+                                "posX": 0.26,
+                                "posY": 0.35
+                            },{
+                                "date": "2017-05-12 08:33",
+                                "posX": 0.40,
+                                "posY": 0.35
+                            }
+                        ]
+                    },{
+                        "item": {
+                            "id": 125,
+                            "name": "Article 42",
+                            "address": "Bâtiment 1 / atelier 1",
+                            "referenceCode": "Container",
+                            "referenceDesignation": "Container",
+                            "properties": {
+                                "size": 4,
+                                "statut": "NOK"
+                            },
+                            "alerts": []
+                        },
+                        "icon": "TOOL",
+                        "mapPosRecords": [
+                            {
+                                "date": "2017-04-05 12:05",
+                                "posX": 0.36,
+                                "posY": 0.45
+                            }
+                        ]
+                    }
+                ]
+            },
+            "DevicesLayer": {
+                "name": "Armoires",
+                "hidden": false,
+                "bulletsOption": [
+                    {
+                        "property": "statistic.fod",
+                        "value": "false",
+                        "type": "GREEN_BULLET"
+                    },{
+                        "property": "statistic.fod",
+                        "value": "true",
+                        "type": "RED_BULLET"
+                    },{
+                        "property": "statistic.missingItemsCount",
+                        "value": 0,
+                        "operator": "GT",
+                        "type": "ORANGE_BULLET"
+                    }
+                ],
+                "mapDevices":[
+                    {
+                        "device": {
+                            "id": 1,
+                            "name": "Armoire 1",
+                            "type": "CABINET_XL",
+                            "address": "Bâtiment 1 / atelier 1",
+                            "statistics": {
+                                "presentItemsCount": 124,
+                                "missingItemsCount": 12,
+                                "borrowedItemsCount": 9,
+                                "fod": true 
+                            }
+                        },
+                        "icon": "TOOL",
+                        "mapPosRecords": [
+                            {
+                                "date": "2017-01-12 08:05",
+                                "posX": 0.36,
+                                "posY": 0.45
+                            }
+                        ]
+                    },{
+                        "device": {
+                            "id": 2,
+                            "name": "Armoire 2",
+                            "type": "CABINET_XL",
+                            "address": "Bâtiment 1 / atelier 1",
+                            "statistics": {
+                                "presentItemsCount": 321,
+                                "missingItemsCount": 0,
+                                "borrowedItemsCount": 12,
+                                "fod": false 
+                            }
+                        },
+                        "icon": "TOOL",
+                        "mapPosRecords": [
+                            {
+                                "date": "2017-04-05 12:05",
+                                "posX": 0.56,
+                                "posY": 0.58
+                            }
+                        ]
+                    }
+                    
+                ]
+            },
+            "LocationsLayer": {
+                "name": "Emplacements de stockage",
+                "hidden": false,
+                "mapLocations":[
+                    {
+                        "location":{
+                            "id": 23,
+                            "name": "Zone de stockage 1",
+                            "address": "Bâtiment 1/atelier 1/Zone de stockage 1",
+                            "statistic":{
+                                "itemsCount" : 458
+                            }
+                        },
+                        "width": 0.42,
+                        "height": 0.33,
+                        "posX": 0.56,
+                        "posY": 0.12
+                    }
+                ]
+            },
+            "LinkingZonesLayer": {
+                "name": "Détails",
+                "hidden": false,
+                "mapLinkingZones":[
+                    {
+                        "linkedMapId": 3,
+                        "label": "carte 3",
+                        "width": 0.16,
+                        "height": 0.15,
+                        "posX": 0.24,
+                        "posY": 0.12
+                    }
+                ]
+            },
+            "LabelsLayer": {
+                "name": "Labels",
+                "hidden": true,
+                "labels":[
+                    {
+                        "label": "Bâtiment 3",
+                        "posX": 0.24,
+                        "posY": 0.22
+                    }
+                ]
+            }
+        }
+    ] 
+}

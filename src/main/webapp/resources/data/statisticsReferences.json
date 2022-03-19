@@ -1,0 +1,151 @@
+{
+	"success": true,
+	"error": null,
+	"message": null,
+	"total": 9,
+	"data": [{
+		"id": 4,
+		"name": "itemsinmaintenancecount",
+		"shortDescription": "nbre materiel en maintenance",
+		"description": "nbre materiel en maintenance",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}, {
+			"calculByType": "DAY",
+			"label": "Jour"
+		}, {
+			"calculByType": "WEEK",
+			"label": "Semaine"
+		}, {
+			"calculByType": "MATERIAL_NAME",
+			"label": "Matériel"
+		}],
+		"filters": ["START_DATE", "END_DATE", "PERIOD"]
+	}, {
+		"id": 5,
+		"name": "itemsinservicecount",
+		"shortDescription": "nbre materiel en service",
+		"description": "nbre materiel en service",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}, {
+			"calculByType": "DAY",
+			"label": "Jour"
+		}, {
+			"calculByType": "WEEK",
+			"label": "Semaine"
+		}, {
+			"calculByType": "MATERIAL_NAME",
+			"label": "Matériel"
+		}],
+		"filters": ["START_DATE", "END_DATE"]
+	}, {
+		"id": 6,
+		"name": "itemsstockedcount",
+		"shortDescription": "nbremateriel en stock",
+		"description": "nbre materiel en stock",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}, {
+			"calculByType": "DAY",
+			"label": "Jour"
+		}, {
+			"calculByType": "WEEK",
+			"label": "Semaine"
+		}, {
+			"calculByType": "LOCATION_NAME",
+			"label": "Location"
+		}],
+		"filters": ["START_DATE", "END_DATE", "PERIOD", "LOCATION_ID"]
+	}, {
+		"id": 7,
+		"name": "itemsincalibrationcount",
+		"shortDescription": "nbre materiel en étalonnage",
+		"description": "nbremateriel en étalonnage",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}, {
+			"calculByType": "DAY",
+			"label": "Jour"
+		}, {
+			"calculByType": "WEEK",
+			"label": "Semaine"
+		}, {
+			"calculByType": "LOCATION_NAME",
+			"label": "Location"
+		}],
+		"filters": ["START_DATE", "END_DATE", "PERIOD", "LOCATION_ID"]
+	}, {
+		"id": 8,
+		"name": "itemsborrowedcount",
+		"shortDescription": "nbre d'opération d'emprunt",
+		"description": "nbre d'opération d'emprunt",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}, {
+			"calculByType": "DAY",
+			"label": "Jour"
+		}, {
+			"calculByType": "WEEK",
+			"label": "Semaine"
+		}, {
+			"calculByType": "MATERIAL_NAME",
+			"label": "Matériel"
+		}, {
+			"calculByType": "PRODUCTREFERENCE_CODE",
+			"label": "Réf produit"
+		}],
+		"filters": ["START_DATE", "END_DATE", "PERIOD", "LOCATION_ID", "LIMIT", "SORTED"]
+	}, {
+		"id": 9,
+		"name": "itemscalibrationdateexpiredcount",
+		"shortDescription": "nbre materiel dont la date de maintenance est depassée",
+		"description": "nbre materiel dont la date de maintenance est depassée",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}],
+		"filters": []
+	}, {
+		"id": 10,
+		"name": "itemsnearcalibrationdatecount",
+		"shortDescription": "nbre materiel proche de la date de maintenance",
+		"description": "nbre materiel proche de la date de maintenance",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}],
+		"filters": []
+	}, {
+		"id": 11,
+		"name": "itemskocount",
+		"shortDescription": "nbre materiel HS",
+		"description": "nbre materiel proche HS",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}, {
+			"calculByType": "LOCATION_NAME",
+			"label": "Location"
+		}],
+		"filters": []
+	}, {
+		"id": 12,
+		"name": "itemstoverifycount",
+		"shortDescription": "nbre materiel à vérifier",
+		"description": "nbre materiel à vérifier",
+		"calculBy": [{
+			"calculByType": "NOW",
+			"label": "Maintenant"
+		}, {
+			"calculByType": "LOCATION_NAME",
+			"label": "Location"
+		}],
+		"filters": []
+	}]
+}

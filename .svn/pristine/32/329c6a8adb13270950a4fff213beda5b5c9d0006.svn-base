@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+@include extjs-panel-ui(
+    $ui: 'dashboard-editor-menu',
+    $ui-border-width: 1px 0 0 0,
+    $ui-border-color: $panel-header-border-color,
+    $ui-body-background-color: $db-color-ultra-dark
+);
+
+
+@include extjs-button-large-ui(
+    $ui: 'dashboard-editor-menu-button',
+    $background-color : $db-color-ultra-dark,
+    $background-color-over: $db-color-ultra-dark,
+    $background-color-focus: $db-color-ultra-dark, 
+    $background-color-pressed: $db-color-ultra-dark,
+    $inner-border-color-focus: $db-color-ultra-dark,
+    $inner-border-color-focus-pressed: $db-color-ultra-dark,
+    $inner-border-color-focus-over: $db-color-ultra-dark
+
+);
+
+
+.icon-dashboard-menu-donut { 
+    background-image: url(#{$context-path}/resources/images/icons/64/icon_donut.png) !important;
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: center;
+}
+
+.icon-dashboard-menu-pie { 
+    background-image: url(#{$context-path}/resources/images/icons/64/icon_pie.png) !important;
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: center;
+}
+
+
+.icon-dashboard-menu-stackedbargraph { 
+    background-image: url(#{$context-path}/resources/images/icons/64/icon_graph.png) !important;
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: center;
+}
+
+.icon-dashboard-menu-bargraph { 
+    background-image: url(#{$context-path}/resources/images/icons/64/icon_bargraph.png) !important;
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: center;
+}
+
+.icon-dashboard-menu-verticalbargraph { 
+    background-image: url(#{$context-path}/resources/images/icons/64/icon_verticalbargraph.png) !important;
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: center;
+}
+
+.icon-dashboard-menu-postit { 
+    background-image: url(#{$context-path}/resources/images/icons/64/icon_postit.png) !important;
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: center;
+}
+
+.icon-dashboard-menu-line { 
+    background-image: url(#{$context-path}/resources/images/icons/64/icon_line.png) !important;
+    background-repeat: no-repeat;
+    background-size: 64px 64px;
+    background-position: center;
+}

@@ -1,0 +1,40 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id":1,
+            "name": "indicator 1",
+            "indicatorType": "POST_IT",
+            "title": "Mon indicateur 1",
+            "creationDate": "2016-01-01 12:12",
+            "authorName": "Jojo",
+            "iconName": "default_icon.png",
+            "dataBinding": "{\"size\" : \"M\",\"statisticReference\":\"totalitemsinservice\",\"label\": \"Saucisses 1\",\"value\": \"...\",\"icon\": \"/resources/images/icons/256/fa-hand-spock.png\",\"color\": \"green\"}"
+            
+        },
+        {
+            "id":2,
+            "name": "indicator 2",
+            "indicatorType": "POST_IT",
+            "title": "Mon indicateur 2",
+            "creationDate": "2016-01-01 12:12",
+            "authorName": "Jojo",
+            "iconName": "default_icon.png",
+            "dataBinding": "{\"size\" : \"M\",\"statisticReference\":\"itemsstockedcount\",\"label\": \"Saucisses 2\",\"value\": \"...\",\"icon\": \"/resources/images/icons/256/fa-hand-spock.png\",\"color\": \"orange\"}"
+            
+        },
+        {
+            "id": 3,
+            "name": "indicator 1",
+            "title": "Donut 1",
+            "iconName": null,
+            "color": null,
+            "authorName": "FARG_JUL",
+            "creationDate": "2015-02-10 22:10",
+            "indicatorType": "DONUT",
+            "dataBinding": "{\"statisticReferences\":[{\"statisticReference\":\"totalitemsinmaintenance\",\"label\":\"Maintenance\",\"color\":\"green\"},{\"statisticReference\":\"totalitemsinservice\",\"label\":\"En service\",\"color\":\"orange\"}],\"size\":\"M\"}"
+        }
+        
+
+    ] 
+}

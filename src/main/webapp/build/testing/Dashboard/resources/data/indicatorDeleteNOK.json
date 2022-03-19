@@ -1,0 +1,11 @@
+{"userMessage":
+            {"code":210,"message":"L'opération a été traitée.","name":"ACTION_WELL_COMPUTED"},
+    "success":true,
+    "total":0,
+    "data":[],
+    "alerts":[],
+    "report":[
+        {"id":45,"success":false,"nexError":"MATERIAL_LOCKED_BY_TASK",
+            "error":"Une opération planifiée utilise actuellement cet article. Pour le libérer, veuillez exécute ou supprimer l'opération planifiée s'y rapportant."
+        }
+]}

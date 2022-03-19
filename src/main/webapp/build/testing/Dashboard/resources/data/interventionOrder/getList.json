@@ -1,0 +1,55 @@
+{
+	"success": true,
+	"total": 6,
+	"data": [{
+		"id": 1,
+		"number": "Engine A320",
+		"label": "",
+		"description": "",
+		"opBorrowingIds": [],
+		"productReferenceIds": [1],
+		"lastUpdateDate": "2016-02-11 14:05:44"
+	}, {
+		"id": 2,
+		"number": "Wings A330",
+		"label": "",
+		"description": "",
+		"opBorrowingIds": [2653],
+		"productReferenceIds": [1],
+		"lastUpdateDate": "2016-02-11 13:56:42"
+	}, {
+		"id": 3,
+		"number": "Maintenance A380",
+		"label": "",
+		"description": "",
+		"opBorrowingIds": [],
+		"productReferenceIds": [1],
+		"lastUpdateDate": "2016-02-11 13:58:00"
+	}, {
+		"id": 5,
+		"number": "3037920165004",
+		"label": "Test lecteur optique",
+		"description": "",
+		"opBorrowingIds": [],
+		"productReferenceIds": [],
+		"lastUpdateDate": "2016-02-25 17:55:45"
+	}, {
+		"id": 7,
+		"number": "Aircelle test OI 286",
+		"label": "OI pour les tests d'aircelle",
+		"description": "",
+		"opBorrowingIds": [],
+		"productReferenceIds": [1],
+		"lastUpdateDate": "2016-03-23 10:07:11"
+	}, {
+		"id": 9,
+		"number": "test oi 2",
+		"label": "12345678",
+		"description": "blablalbla",
+		"opBorrowingIds": [],
+		"productReferenceIds": [1],
+		"lastUpdateDate": "2016-04-12 09:44:13"
+	}],
+	"alerts": [],
+	"report": []
+}

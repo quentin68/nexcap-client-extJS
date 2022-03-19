@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "total": 1,
+    "userMessage": "ACTION_WELL_COMPUTED",
+    "error": null,
+    "data": [ 
+        {
+            "id": 1,
+            "name": "indicator 1",
+            "title": "Mon indicator",
+            "iconName": null,
+            "color": null,
+            "authorName": "FARG_JUL",
+            "creationDate": "2015-02-10 22:10",
+            "indicatorType": "VERTICAL_BAR_GRAPH",
+            "dataBinding": "{\"size\" : \"M\",\"dataCollectionProperty\" : \"ITEMS_IN_SERVICE_COUNT\",\"label\": \"Saucisses\",\"value\": \"...\",\"icon\": \"/resources/images/icons/256/fa-hand-spock.png\",\"color\": \"#F4F4F4\"}",
+            "dashboardIds": [1]
+        }
+    ]
+}

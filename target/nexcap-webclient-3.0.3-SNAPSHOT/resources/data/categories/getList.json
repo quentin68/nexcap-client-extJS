@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "data": [
+        {"id": 1, "name": "Outil",    "description": "", "parentCategoryName": "", "parentCategoryId": null},
+        {"id": 2, "name": "Tournevis", "description": "", "parentCategoryName": "Outil", "parentCategoryId": 1},
+        {"id": 3, "name": "Pieces de rechange", "description":"Bla bla bla", "parentCategoryName": "", "parentCategoryName": "Outil", "parentCategoryId": 1},
+        {"id": 4, "name": "Consommable", "description": "Ne revient pas dans l'atelier", "parentCategoryName": "", "parentCategoryName": "Outil", "parentCategoryId": 1}
+    ],
+    "userMessage": {"message": "La catégorie de produit a bien été enregstrée !"},
+    "error": {"message": "L'enregistrement a échoué !"},
+    "total": 4
+    
+}

@@ -1,0 +1,296 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>fr.nexess</groupId>
+	<artifactId>nexcap-webclient</artifactId>
+	
+	<version>3.0.3-SNAPSHOT</version>
+	<packaging>war</packaging>
+
+
+	<name>WEB_CLIENT TRUNK</name>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.build.timestamp.format>yyyyMMdd</maven.build.timestamp.format>  				
+		<netbeans.hint.deploy.server>Tomcat</netbeans.hint.deploy.server>
+		<!-- Default Sencha Cmd build environment: development/testing/production -->
+		<sencha.env>testing</sencha.env>
+		<!-- Default Sencha Cmd directory -->
+		<sencha.cmd>d:/tools/Sencha/Cmd/7.0.5/</sencha.cmd>
+	</properties>
+
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>2.3.2</version>
+				<configuration>
+					<source>1.7</source>
+					<target>1.7</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.18.1</version>
+				<configuration>
+					<!-- Disable test phase (no tests to run) -->
+					<skipTests>true</skipTests>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-war-plugin</artifactId>
+				<version>2.1.1</version>
+				<configuration>
+					<failOnMissingWebXml>false</failOnMissingWebXml>
+					<!-- exclude the content of the build folder -->
+					<warSourceExcludes>**</warSourceExcludes>
+					<!-- packagingExcludes>.sencha/**,app/**,build/**,ext/**,overrides/**,packages/**,sass/**,bootstrap.css,bootstrap.js,bootstrap.json,build.xml,Readme.md</packagingExcludes -->
+					<webResources>
+						<resource>
+							<!-- add content of META-INF folder -->
+							<directory>src/main/webapp/META-INF</directory>
+							<targetPath>/META-INF</targetPath>
+						</resource>
+						<resource>
+							<!-- add content of WEB-INF folder -->
+							<directory>src/main/webapp/WEB-INF</directory>
+							<targetPath>/WEB-INF</targetPath>
+						</resource>
+						<resource>
+							<!-- add content of Sencha generated folder for the build env (prod/dev/test) -->
+							<directory>src/main/webapp/build/${sencha.env}/Dashboard</directory>
+							<excludes>
+								<exclude>**/Readme.md</exclude>
+							</excludes>
+							<targetPath>/</targetPath>
+						</resource>
+					</webResources>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-antrun-plugin</artifactId>
+				<version>1.5</version>
+				<executions>
+					<execution>
+						<id>sencha-build</id>
+						<phase>prepare-package</phase>
+						<configuration>
+							<target>
+								<property name="cmd.dir" value="${sencha.cmd}" />
+								<property name="sencha.locale" value="${cw.locale}" />
+								<echo>Sencha Cmd dir: ${cmd.dir}</echo>
+								<taskdef resource="com/sencha/ant/antlib.xml" classpath="${cmd.dir}/sencha.jar" loaderref="senchaloader" />
+								<echo>Start Sencha Cmd build</echo>
+								<x-sencha-init />
+								<x-sencha-command dir="${basedir}/src/main/webapp">
+									app
+									build
+									--clean
+									--environment
+									${sencha.env}
+								</x-sencha-command>
+								<!-- - -destination ${basedir}/src/main/webapp/build -->
+								<echo>End Sencha Cmd build process</echo>
+							</target>
+						</configuration>
+						<goals>
+							<goal>run</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-release-plugin</artifactId>
+				<version>2.5.3</version>
+				<configuration>
+					<tagBase>http://srvnexess01.nexess.local:81/svn/SFW102563-NEXCAP-WEBCLIENT/WEB-CLIENT-2/tags</tagBase>
+					<tagNameFormat>WEB-CLIENT-2_${maven.build.timestamp}_V@{project.version}</tagNameFormat>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
+					<preparationGoals>clean verify deploy</preparationGoals>
+				</configuration>
+			</plugin>					
+			
+		</plugins>
+	</build>
+
+	<profiles>
+		<!-- Profile used automatically when using NetBeans. -->
+		<profile>
+			<id>NetBeans</id>
+			<activation>
+				<property>
+					<name>netbeans.deploy</name>
+				</property>
+			</activation>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-war-plugin</artifactId>
+						<version>2.1.1</version>
+						<!-- Bypass configuration in non-profile build to include everything in webapp folder for Netbeans -->
+						<configuration combine.self="override">
+							<failOnMissingWebXml>false</failOnMissingWebXml>
+							<webResources>
+								<resource>
+									<!-- add content of META-INF folder -->
+									<directory>${project.basedir}/src/main/resources</directory>
+								</resource>
+								<resource>
+									<!-- enable the webapp resources filtering, in files src/main/webapp/WEB-INF/*.xml -->
+									<filtering>true</filtering>
+									<directory>src/main/webapp</directory>
+									<includes>
+										<include>**/*.xml</include>
+									</includes>
+								</resource>
+							</webResources>
+						</configuration>
+					</plugin>
+					<plugin>
+						<groupId>org.apache.maven.plugins</groupId>
+						<artifactId>maven-antrun-plugin</artifactId>
+						<version>1.5</version>
+						<executions>
+							<execution>
+								<id>sencha-build</id>
+								<!-- Disable sencha plugin on Netbeans -->
+								<phase>none</phase>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+
+		<!-- Integration Deployment Profile used by Jenkins to deploy on integration server. Run manually. -->
+		<profile>
+			<id>IntegrationDeployment</id>
+			<properties>
+				<sencha.env>testing</sencha.env>
+			</properties>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.tomcat.maven</groupId>
+						<artifactId>tomcat7-maven-plugin</artifactId>
+						<version>2.2</version>
+						<executions>
+							<execution>
+								<id>tomcat-run</id>
+								<goals>
+									<goal>redeploy-only</goal>
+								</goals>
+								<phase>package</phase>
+								<configuration>
+									<url>${tomcat.manager.url}</url>
+									<username>${tomcat.manager.login}</username>
+									<password>${tomcat.manager.password}</password>
+									<path>/web</path>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+
+		<!-- Production Deployment Profile used by Jenkins to deploy on integration server. Run manually. -->
+		<profile>
+			<id>ProductionDeployment</id>
+			<properties>
+				<sencha.env>production</sencha.env>
+			</properties>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>org.apache.tomcat.maven</groupId>
+						<artifactId>tomcat7-maven-plugin</artifactId>
+						<version>2.2</version>
+						<executions>
+							<execution>
+								<id>tomcat-run</id>
+								<goals>
+									<goal>redeploy-only</goal>
+								</goals>
+								<phase>package</phase>
+								<configuration>
+									<url>${tomcat.manager.url}</url>
+									<username>${tomcat.manager.login}</username>
+									<password>${tomcat.manager.password}</password>
+									<path>/web</path>
+								</configuration>
+							</execution>
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
+
+		<!-- Development profile -->
+		<profile>
+			<id>dev</id>
+			<properties>
+				<sencha.env>development</sencha.env>
+			</properties>
+		</profile>
+
+		<!-- Test profile -->
+		<profile>
+			<id>test</id>
+			<properties>
+				<sencha.env>testing</sencha.env>
+			</properties>
+		</profile>
+
+		<!-- Production profile -->
+		<profile>
+			<id>prod</id>
+			<properties>
+				<sencha.env>production</sencha.env>
+			</properties>
+		</profile>
+	</profiles>
+
+	<repositories>
+		<repository>
+			<id>jenkins</id>
+			<name>jenkins-releases</name>
+			<url>http://192.168.62.12:8081/artifactory/repo</url>
+		</repository>
+	</repositories>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.1</version>
+		</dependency>
+	</dependencies>
+
+	<distributionManagement>
+		<repository>
+			<id>artifactory-nexess-release</id>
+			<url>http://192.168.62.12:8081/artifactory/libs-release-local</url>
+		</repository>
+		<snapshotRepository>
+			<id>artifactory-nexess-snapshot</id>
+			<url>http://192.168.62.12:8081/artifactory/libs-snapshot-local</url>
+		</snapshotRepository>
+	</distributionManagement>
+	
+	<!-- ###########################################################-->
+	<!-- ##############TODO: CHANGE FOR RELEASE PREPARE NEW BRANCH################-->
+	<!-- ###########################################################-->
+	
+	<scm>
+		<developerConnection>scm:svn:http://srvnexess01.nexess.local:81/svn/SFW102563-NEXCAP-WEBCLIENT/WEB-CLIENT-2/trunk</developerConnection>
+	</scm>	
+</project>

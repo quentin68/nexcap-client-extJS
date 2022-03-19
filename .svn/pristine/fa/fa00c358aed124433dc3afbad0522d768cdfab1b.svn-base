@@ -1,0 +1,33 @@
+{
+  "name": "WEBCLIENT-2",
+  "version": "2.2.0",
+  "description": "Test scripts for WEBCLIENT-2",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start",
+    "jenkins": "karma start karma_ci.conf.js"
+  },
+  "author": "Geraldine",
+  "devDependencies": {
+    "jasmine": "^2.6.0",
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-coverage": "^1.1.1",
+    "karma-firefox-launcher": "^1.0.1",
+    "karma-html-reporter": "^0.2.7",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-html-reporter": "^0.2.2",
+    "karma-junit-reporter": "^1.2.0",
+    "karma-phantomjs-launcher": "^1.0.4"
+  },
+  "dependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "svn",
+    "url": "http://srvnexess01.nexess.local:81/viewvc/SFW102563-NEXCAP-WEBCLIENT/WEB-CLIENT-2/"
+  }
+}

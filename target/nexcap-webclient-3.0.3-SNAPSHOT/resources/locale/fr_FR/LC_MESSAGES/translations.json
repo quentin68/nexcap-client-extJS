@@ -1,0 +1,209 @@
+// fr_FR
+
+// ===================================================================
+// 	MATERIALS  
+// ===================================================================
+	{
+		"msgid": "Items administration",
+		"msgstr": "Gestion des articles"
+	},
+// ===================================================================
+// 	REFERENCES  
+// ===================================================================
+	{
+		"msgid": "References administration",
+		"msgstr": "Gestion des références"
+	},
+// ===================================================================
+// 	CATEGORIES  
+// ===================================================================
+	{
+		"msgid": "Categories administration",
+		"msgstr": "Gestion des catégories"
+	},
+// ===================================================================
+// 	POSITIONS / LOCATIONS  
+// ===================================================================
+	{
+		"msgid": "Locations administration",
+		"msgstr": "Gestion des Emplacements"
+	},
+// ===================================================================
+// 	USERS / PROFILES  
+// ===================================================================
+	{
+		"msgid": "Users administration",
+		"msgstr": "Gestion des utilisateurs"
+	}, {
+		"msgid": "Profiles administration",
+		"msgstr": "Gestion des profils"
+	},
+// ===================================================================
+// 	DEVICES
+// ===================================================================
+	{
+		"msgid": "Devices maintenance",
+		"msgstr": "Périphériques"
+	},{
+		"msgid": "Device updates",
+		"msgstr": "Mises à jour"
+	},
+// ===================================================================
+// 	ALERTS  
+// ===================================================================
+	{
+		"msgid": "Alerts acknowledgement",
+		"msgstr": "Alertes"
+	},
+// ===================================================================
+// 	LOGINGS  
+// ===================================================================
+	{
+		"msgid": "Loggings",
+		"msgstr": "Historiques"
+	}, { 
+		"msgid": "Logging of consumptions",
+		"msgstr": "Consommations"
+	}, {
+		"msgid": "Movements",
+		"msgstr": "Mouvements"
+	}, {
+		"msgid": "Logging of receives",
+		"msgstr": "Réceptions"
+	}, {
+		"msgid": "Logging of inventories",
+		"msgstr": "Inventaires"
+	}, {
+		"msgid": "Logging of borrows",
+		"msgstr": "Emprunts"
+	}, {
+		"msgid": "Logging of calibrations",
+		"msgstr": "Etalonnages"
+	}, {
+		"msgid": "Logging of movings",
+		"msgstr": "Déplacements"
+	}, {
+		"msgid": "Logging of maintenances",
+		"msgstr": "Maintenances"
+	}, {
+		"msgid": "Logging of specific checks",
+		"msgstr": "Contrôles spécifiques"
+	}, {
+		"msgid": "Logging of returns",
+		"msgstr": "Retours"
+	},
+// ===================================================================
+// 	CALIBRATIONS  
+// ===================================================================
+	{
+		"msgid": "Calibrations",
+		"msgstr": "Etalonnages"
+	},
+// ===================================================================
+// 	PLANIFICATIONS  / ASSIGNATIONS
+// ===================================================================
+	{
+		"msgid": "Planifications",
+		"msgstr": "Planifications"
+	},
+	{
+		"msgid": "Assignations",
+		"msgstr": "Assignations"
+	},
+// ===================================================================
+// 	STOCKS  
+// ===================================================================
+	{
+		"msgid": "Stock administration",
+		"msgstr": "Gestion des stocks"
+	},
+// ===================================================================
+// 	INVENTORIES  
+// ===================================================================
+	{
+		"msgid": "Items inventory",
+		"msgstr": "Articles"
+	}, {
+		"msgid": "Inventory by location",
+		"msgstr": "Par emplacement"
+	}, {
+		"msgid": "Inventories",
+		"msgstr": "Inventaires"
+	}, {
+		"msgid": "Calibrations inventory",
+		"msgstr": "Etalonnages"
+	}, {
+		"msgid": "Maintenance inventory",
+		"msgstr": "Maintenance"
+	},
+// ===================================================================
+// 	OPERATIONS  
+// ===================================================================
+	{
+		"msgid": "Maintain",
+		"msgstr": "Maintenance"
+	}, {
+		"msgid": "Send",
+		"msgstr": "Envoyer"
+	}, {
+		"msgid": "Consumptions",
+		"msgstr": "Consommations"
+	}, {
+		"msgid": "Borrowings",
+		"msgstr": "Emprunts"
+	}, {
+		"msgid": "Borrow",
+		"msgstr": "Emprunter"
+	}, {
+		"msgid": "Sendings",
+		"msgstr": "Envois"
+	}, {
+		"msgid": "Associate tag",
+		"msgstr": "Association de tag"
+	}, {
+		"msgid": "Identify",
+		"msgstr": "Identifier"
+	}, {
+		"msgid": "Inventory",
+		"msgstr": "Inventaire"
+	}, {
+		"msgid": "Execute",
+		"msgstr": "Réaliser"
+	}, {
+		"msgid": "Locate",
+		"msgstr": "Localiser"
+	}, {
+		"msgid": "Maintenances",
+		"msgstr": "Maintenances"
+	}, {
+		"msgid": "Dissociate tag",
+		"msgstr": "Dissociation de tag"
+	},
+// ===================================================================
+// 	EXPIRATIONS DATES  
+// ===================================================================
+	{
+		"msgid": "Expiration dates",
+		"msgstr": "Dates d'échéances"
+	},
+// ===================================================================
+// 	SEARCH  
+// ===================================================================
+	{
+		"msgid": "Search",
+		"msgstr": "Rechercher"
+	},
+// ===================================================================
+// 	SPECIFIC CHECKS  
+// ===================================================================
+	{
+		"msgid": "Specific check",
+		"msgstr": "Contrôles spécifiques"
+	},
+// ===================================================================
+// 	INTERVENTION ORDER 
+// ===================================================================
+	{
+		"msgid": "Intervention orders",
+		"msgstr": "Ordres d'intervention"
+	}

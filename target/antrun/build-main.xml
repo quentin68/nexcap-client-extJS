@@ -1,0 +1,17 @@
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+ <property name="cmd.dir" value="d:/tools/Sencha/Cmd/7.0.5/"/>
+ <property name="sencha.locale" value="${cw.locale}"/>
+ <echo>Sencha Cmd dir: ${cmd.dir}</echo>
+ <taskdef resource="com/sencha/ant/antlib.xml" classpath="${cmd.dir}/sencha.jar" loaderref="senchaloader"/>
+ <echo>Start Sencha Cmd build</echo>
+ <x-sencha-init/>
+ <x-sencha-command dir="D:\apps\NEXESS\WebClient NEXCAP/src/main/webapp">app
+									build
+									--clean
+									--environment
+									testing</x-sencha-command>
+ <echo>End Sencha Cmd build process</echo>
+</target>
+
+</project>

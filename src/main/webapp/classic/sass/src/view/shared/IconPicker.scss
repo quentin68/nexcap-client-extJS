@@ -1,0 +1,32 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 janv. 2016, 16:13:03
+    Author     : PowerBook_Joel
+*/
+
+@include extjs-panel-ui(
+
+    $ui: 'icon-picker',
+    $ui-header-color: $db-color-light,
+    $ui-header-font-size: 16px,
+    $ui-header-line-height: 18px,
+    $ui-header-font-weight: bold,
+    
+    $ui-header-icon-height: 24px,
+    $ui-header-icon-width: 24px,
+    $ui-header-icon-spacing: 4px,
+    
+    $ui-header-background-color: $db-color-dark, 
+    $ui-header-padding: 0 12px 0 12px,
+    $ui-header-text-margin: 0,
+    $ui-header-noborder-adjust: false,
+    $ui-header-inner-border-color: $db-color-dark,
+    //$ui-header-inner-border-width :0 0 1px 0, //TODO
+    
+    $ui-body-background-color: $db-color-dark
+
+);

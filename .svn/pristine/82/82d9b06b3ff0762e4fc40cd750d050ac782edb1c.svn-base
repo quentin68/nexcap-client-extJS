@@ -1,0 +1,51 @@
+{
+    "success": true,
+    "data":{
+        "id": 32,
+        "authorName":"Joel",
+        "creationDate": "2016-01-01 12:12",
+        "iconName":"",
+        "indicatorType":"LINE",
+        "name":"",
+        "title":"Indicator Line",
+
+        "dataBinding":{
+            
+            "size":"M",
+            "height":400,
+
+            "xTitle":"Echantillon",
+            "yTitle":"Valeur",
+            
+            "statisticProperty":"total",
+            "periodFilter":"lastMonth",
+            "granularity":"day",
+
+            "filters":[
+                {"property":"address", "comparison":"EQ", "value":"Nexess/B13/armoire 1"}
+            ],
+
+            "statisticReferences":[
+                {
+                    "name":"HISTORIC_BORROWS",
+                    "xField": "name",
+                    "yField": "v1",
+                    "label":"Statistic 1",
+                    "color":"red",
+                    "smooth": true,
+                    "marker": false
+                },
+                {
+                    "name":"HISTORIC_RETURNS",
+                    "xField": "name",
+                    "yField": "v2",
+                    "label":"Statistic 2",
+                    "color":"orange",
+                    "smooth": false,
+                    "marker": true
+                }
+            ]
+        }
+    }
+}
+	

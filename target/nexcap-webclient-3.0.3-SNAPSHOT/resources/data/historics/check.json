@@ -1,0 +1,25 @@
+{
+	"success": true,
+	"total": 1,
+	"data": [{
+		"id": 1,
+		"type": 0,
+		"name": "Junit_Name",
+		"deviceName": "JUNIT device",
+		"operator": "admin",
+		"executionDate": "2017-09-01 00:00:00",
+		"materialName": "Junit_material_Name",
+		"productCategoryName": "TEST_SL",
+		"productReferenceCode": "[\"EmbIP1_TEST\"]",
+		"productReferenceDesignation": "[\"Emb_TEST_IP1\"]",
+		"isRight": true,
+		"fields": "[{\"type\":\"paragraph\",\"title\":\"Etalonnage\",\"controls\":[{\"propertyName\":\"nextCalibrationDate\",\"controlType\":\"date\",\"label\":\"Date d'étalonnage\",\"value\":\"2016-04-17\"}]}]",
+		"pictureNames": ["JUNIT_name_specificCheck.jpg", "JUNIT_name_specificCheck.jpg"],
+		"attachments": [{
+			"label": "JUNIT_label",
+			"filenames": ["JUNIT_name_specificCheck_file.pdf"]
+		}]
+	}],
+	"alerts": [],
+	"report": []
+}

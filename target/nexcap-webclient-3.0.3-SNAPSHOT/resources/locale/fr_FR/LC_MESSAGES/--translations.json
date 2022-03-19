@@ -1,0 +1,1408 @@
+[
+
+    // ===================================================================
+    // SHARED
+    // ===================================================================
+    {
+            "msgid": "",
+            "msgstr": ""
+    }, {
+            "msgid": ":",
+            "msgstr": " :"
+    }, 
+    // ===================================================================
+    // SPECIFIC CONTROLS
+    // ===================================================================
+    {
+            "msgid": "Acknowledging non compliant controls",
+            "msgstr": "Acquittement des contrôles non conformes"
+    }, {
+            "msgid": "Acknowledge",
+            "msgstr": "Acquitter"    
+    }, {
+            "msgid": "Acknowledge a non compliant control",
+            "msgstr": "Acquiter un contrôle non-conforme"
+    }, 
+    // ===================================================================
+    // GENERAL MENU  
+    // ===================================================================
+    {
+            "msgid": "Items administration",
+            "msgstr": "Administration des articles"
+    }, {
+            "msgid": "Categories administration",
+            "msgstr": "Administration des catégories"
+    }, {
+            "msgid": "Locations administration",
+            "msgstr": "Administration des emplacements"
+    }, {
+            "msgid": "Packages administration",
+            "msgstr": "Administration des mises à jour"
+    }, {
+            "msgid": "Devices administration",
+            "msgstr": "Administration des périphériques"
+    }, {
+            "msgid": "User Profiles administration",
+            "msgstr": "Administration des profils"
+    }, {
+            "msgid": "References administration",
+            "msgstr": "Administration des références"
+    }, {
+            "msgid": "Users administration",
+            "msgstr": "Administration des utilisateurs"
+    },
+    // ===================================================================
+    // DEVICES UPDATING
+    // ===================================================================
+    {
+            "msgid": "Assign devices to a package",
+            "msgstr": "Affecter des périphériques à une mise à jour"
+    }, {
+            "msgid": "Select targeted devices",
+            "msgstr": "Sélection des périphériques à mettre à jour"
+    }, {
+            "msgid": "Devices inventory",
+            "msgstr": "Liste des périphériques"
+    }, {
+            "msgid": "IpAddress",
+            "msgstr": "Adresse IP"
+    }, {
+            "msgid": "Delete a package",
+            "msgstr": "Supprimer une mise à jour"
+    }, {
+            "msgid": "Address",
+            "msgstr": "Adresse"
+    }, {
+            "msgid": "Delivery address",
+            "msgstr": "Adresse de livraison"
+    }, 
+    // ===================================================================
+    // PLAN TASK
+    // ===================================================================
+    {
+            "msgid": "Scheduled tasks assignement",
+            "msgstr": "Affectation des tâches planifiées"
+    }, {
+            "msgid": "Assign",
+            "msgstr": "Affecter"
+    }, {
+            "msgid": "Assign tasks to a recipient",
+            "msgstr": "Affecter des tâches à un destinaire"
+    }, {
+            "msgid": "Display",
+            "msgstr": "Afficher"
+    }, {
+            "msgid": "Display datasheet",
+            "msgstr": "Afficher la fiche d'information"
+    }, {
+            "msgid": "Add",
+            "msgstr": "Ajouter"
+    }, {
+            "msgid": "Associate",
+            "msgstr": "Associer"
+    }, {
+            "msgid": "Dissociate",
+            "msgstr": "Dissocier"
+    }, {
+            "msgid": "Add an item",
+            "msgstr": "Ajouter un article"
+    }, {
+            "msgid": "Duplicate an item",
+            "msgstr": "Dupliquer un article"
+    }, {
+            "msgid": "Duplicate a reference",
+            "msgstr": "Dupliquer une référence"
+    }, {
+            "msgid": "_copy",
+            "msgstr": "_copie"
+    }, {
+            "msgid": "Add a field",
+            "msgstr": "Ajouter un champ"
+    }, {
+            "msgid": "Add a descriptive field",
+            "msgstr": "Ajouter un champ descriptif"
+    }, {
+            "msgid": "Add a location",
+            "msgstr": "Ajouter un emplacement"
+    }, {
+            "msgid": "Add a package",
+            "msgstr": "Ajouter une mise à jour"
+    }, {
+            "msgid": "Add a user profile",
+            "msgstr": "Ajouter un profil"
+    }, {
+            "msgid": "Add a stock level monitoring",
+            "msgstr": "Ajouter un suivi sur un niveau de stock"
+    }, {
+            "msgid": "Add a user",
+            "msgstr": "Ajouter un utilisateur"
+    }, {
+            "msgid": "Activated",
+            "msgstr": "Activé"
+    }, {
+            "msgid": "Add a category",
+            "msgstr": "Ajouter une catégorie"
+    }, {
+            "msgid": "Add a position",
+            "msgstr": "Ajouter une localisation"
+    }, {
+            "msgid": "Select a position",
+            "msgstr": "Selectionner une localisation"
+    }, {
+            "msgid": "Add an attached file",
+            "msgstr": "Ajouter une pièce jointe"
+    }, {
+            "msgid": "Add a reference",
+            "msgstr": "Ajouter une référence"
+    }, {
+            "msgid": "Previous password",
+            "msgstr": "Ancien mot de passe"
+    }, {
+            "msgid": "Cancel",
+            "msgstr": "Annuler"
+    }, {
+            "msgid": "Item",
+            "msgstr": "Article"
+    }, {
+            "msgid": "Items",
+            "msgstr": "Articles"
+    }, {
+            "msgid": "to",
+            "msgstr": "au"
+    }, {
+            "msgid": "At least one threshold must be filled",
+            "msgstr": "Au moins l'un des 2 seuils doit être renseigné"
+    }, {
+            "msgid": "Authorized",
+            "msgstr": "Autorisé"
+    }, {
+            "msgid": "Authorize",
+            "msgstr": "Autoriser"
+    }, {
+            "msgid": "Authorize a device",
+            "msgstr": "Autoriser un périphérique"
+    }, {
+            "msgid": "Welcome in Nexcap",
+            "msgstr": "Bienvenue dans NexCap"
+    }, {
+            "msgid": "Specifications",
+            "msgstr": "Caractéristiques"
+    }, {
+            "msgid": "Categories",
+            "msgstr": "Catégories"
+    }, {
+            "msgid": "Category",
+            "msgstr": "Catégorie"
+    }, {
+            "msgid": "Parent category",
+            "msgstr": "Catégorie parente"
+    }, {
+            "msgid": "Upper category",
+            "msgstr": "Catégorie supérieure"
+    }, {
+            "msgid": "This field can only contain alphanumeric characters.",
+            "msgstr": "Ce champ ne peut contenir que des caractères alphanumériques."
+    }, {
+            "msgid": "Unknown address.",
+            "msgstr": "Adresse inconnue."
+    }, {
+            "msgid": "Unknown item.",
+            "msgstr": "Article inconnu."
+    }, {
+            "msgid": "End",
+            "msgstr": "Clore"
+    }, {
+            "msgid": "End a completed task",
+            "msgstr": "Clore une tâche réalisée"
+    }, {
+            "msgid": "Code",
+            "msgstr": "Code"
+    }, {
+            "msgid": "Ref. Code",
+            "msgstr": "Code Réf."
+    }, {
+            "msgid": "Reference code",
+            "msgstr": "Code référence"
+    }, {
+            "msgid": "Ref. description",
+            "msgstr": "Ref. description"
+    }, {
+            "msgid": "ID codes",
+            "msgstr": "Codes identifiants"
+    }, {
+            "msgid": "Comment",
+            "msgstr": "Commentaire"
+    }, {
+            "msgid": "Comments",
+            "msgstr": "Commentaires"
+    }, {
+            "msgid": "Activated account",
+            "msgstr": "Compte activé"
+    }, {
+            "msgid": "Password confirmation",
+            "msgstr": "Confirmation du mot de passe"
+    }, {
+            "msgid": "Compliant",
+            "msgstr": "Conforme"
+    }, {
+            "msgid": "Compliance",
+            "msgstr": "Conformité"
+    }, {
+            "msgid": "Control compliance",
+            "msgstr": "Conformité du contrôle"
+    }, {
+            "msgid": "Sign in",
+            "msgstr": "Connexion"
+    }, {
+            "msgid": "Control",
+            "msgstr": "Contrôle"
+    }, {
+            "msgid": "Create scheduled tasks",
+            "msgstr": "Créer des tâches planifiées"
+    }, {
+            "msgid": "Criticality",
+            "msgstr": "Criticité"
+    }, {
+            "msgid": "Date",
+            "msgstr": "Date"
+    }, {
+            "msgid": "Calibration date",
+            "msgstr": "Date d'étalonnage"
+    }, {
+            "msgid": "Execution date",
+            "msgstr": "Date d'éxécution"
+    }, {
+            "msgid": "Creation date",
+            "msgstr": "Date de création"
+    }, {
+            "msgid": "Creation",
+            "msgstr": "Création"
+    }, {
+            "msgid": "Date of expiration",
+            "msgstr": "Date de fin de validité"
+    }, {
+            "msgid": "Transfer date",
+            "msgstr": "Date de transfert"
+    }, {
+            "msgid": "Date of control",
+            "msgstr": "Date du contrôle"
+    }, {
+            "msgid": "Expiration date",
+            "msgstr": "Date limite d'utilisation"
+    }, {
+            "msgid": "Logout",
+            "msgstr": "Déconnexion"
+    }, {
+            "msgid": "Last movement",
+            "msgstr": "Dernier mouvement"
+    }, {
+            "msgid": "Last transfer",
+            "msgstr": "Dernier transfert"
+    }, {
+            "msgid": "Last controls",
+            "msgstr": "Derniers contrôles"
+    }, {
+            "msgid": "Description",
+            "msgstr": "Description"
+    }, {
+            "msgid": "Designation",
+            "msgstr": "Désignation"
+    }, {
+            "msgid": "Designation Ref.",
+            "msgstr": "Désignation Réf."
+    }, {
+            "msgid": "Ref. designation",
+            "msgstr": "Réf. désignation"
+    }, {
+            "msgid": "Recipient",
+            "msgstr": "Destinataire"
+    }, {
+            "msgid": "Destination",
+            "msgstr": "Destination"
+    }, {
+            "msgid": "Sending Number",
+            "msgstr": "Numéro d'expédition"
+    }, {
+            "msgid": "Expected destination",
+            "msgstr": "Destination prévue"
+    }, {
+            "msgid": "This task can not be changed because it has been uploaded to the device!",
+            "msgstr": "Cette tâche ne peut être modifiée car elle a été transférée !"
+    }, {
+            "msgid": "from",
+            "msgstr": "du"
+    }, {
+            "msgid": "Term",
+            "msgstr": "Echéance"
+    }, {
+            "msgid": "Edit",
+            "msgstr": "Editer"
+    }, {
+            "msgid": "Edit an item",
+            "msgstr": "Editer un article"
+    }, {
+            "msgid": "Edit items",
+            "msgstr": "Editer des articles"
+    }, {
+            "msgid": "Do you really want to delete those items?",
+            "msgstr": "Voulez-vous vraiment effacer ces éléments ?"
+    }, {
+            "msgid": "Do you really want to update those items?",
+            "msgstr": "Voulez-vous vraiment mettre à jour ces articles ?"
+    }, {
+            "msgid": "Do you really want to update this item?",
+            "msgstr": "Voulez-vous vraiment mettre à jour cet article ?"
+    }, {
+            "msgid": "Do you really want to delete those references?",
+            "msgstr": "Voulez-vous vraiment effacer ces références ?"
+    }, {
+            "msgid": "Edit a location",
+            "msgstr": "Editer un emplacement"
+    }, {
+            "msgid": "Edit a user profile",
+            "msgstr": "Editer un profil"
+    }, {
+            "msgid": "Edit a stock level monitoring",
+            "msgstr": "Editer un suivi sur un niveau de stock"
+    }, {
+            "msgid": "Edit a user",
+            "msgstr": "Editer un utilisateur"
+    }, {
+            "msgid": "Edit users",
+            "msgstr": "Editer plusieurs utilisateurs"
+    }, {
+            "msgid": "Edit a category",
+            "msgstr": "Editer une catégorie"
+    }, {
+            "msgid": "Edit a position",
+            "msgstr": "Editer une localisation"
+    }, {
+            "msgid": "Edit a reference",
+            "msgstr": "Editer une référence"
+    }, {
+            "msgid": "Edit references",
+            "msgstr": "Editer plusieurs références"
+    }, {
+            "msgid": "Location",
+            "msgstr": "Emplacement"
+    }, {
+            "msgid": "Original location",
+            "msgstr": "Emplacement d'origine"
+    }, {
+            "msgid": "Original address",
+            "msgstr": "Provenance"
+    }, {
+            "msgid": "Final location",
+            "msgstr": "Emplacement final"
+    }, {
+            "msgid": "Locations",
+            "msgstr": "Emplacements"
+    }, {
+            "msgid": "Borrower",
+            "msgstr": "Emprunteur"
+    }, {
+            "msgid": "Save",
+            "msgstr": "Enregistrer"
+    }, {
+            "msgid": "Enter firsts characters to search",
+            "msgstr": "Entrez les premiers caractères pour lancer la recherche"
+    }, {
+            "msgid": "State",
+            "msgstr": "Etat"
+    }, {
+            "msgid": "Export",
+            "msgstr": "Exporter"
+    }, {
+            "msgid": "Export to file",
+            "msgstr": "Exporter dans un fichier"
+    }, {
+            "msgid": "Manufacturer",
+            "msgstr": "Fabricant"
+    }, {
+            "msgid": "Close",
+            "msgstr": "Fermer"
+    }, {
+            "msgid": "Borrowing information record",
+            "msgstr": "Fiche d'information d'un emprunt"
+    }, {
+            "msgid": "Shipping information record",
+            "msgstr": "Fiche d'information d'un envoi"
+    }, {
+            "msgid": "Item information record",
+            "msgstr": "Fiche d'information de l'article"
+    }, {
+            "msgid": "Reference card",
+            "msgstr": "Fiche référence"
+    }, {
+            "msgid": "Item properties",
+            "msgstr": "Fiche article"
+    }, {
+            "msgid": "Reference information record",
+            "msgstr": "Fiche d'information de la référence"
+    }, {
+            "msgid": "Location information record",
+            "msgstr": "Fiche d'information de l'emplacement"
+    }, {
+            "msgid": "Position information record",
+            "msgstr": "Fiche d'information de la localisation"
+    }, {
+            "msgid": "Position information card",
+            "msgstr": "Fiche de la localisation"
+    }, {
+            "msgid": "Scheduled task information record",
+            "msgstr": "Fiche d'information de la tâche planifiée"
+    }, {
+            "msgid": "Filter",
+            "msgstr": "Filtrer"
+    }, {
+            "msgid": "Features",
+            "msgstr": "Fonctionnalités"
+    }, {
+            "msgid": "Frequency verification (days)",
+            "msgstr": "Fréquence de vérification (jours)"
+    }, {
+            "msgid": "Group",
+            "msgstr": "Groupe"
+    }, {
+            "msgid": "Logging of consumptions",
+            "msgstr": "Historique des consommations"
+    }, {
+            "msgid": "Logging of provisions",
+            "msgstr": "Historique des approvisionnements"
+    }, {
+            "msgid": "Logging of controls",
+            "msgstr": "Historique des contrôles"
+    }, {
+            "msgid": "Logging of displacements",
+            "msgstr": "Historique des déplacements"
+    }, {
+            "msgid": "Logging of borrowings",
+            "msgstr": "Historique des emprunts"
+    }, {
+            "msgid": "Logging of shippings",
+            "msgstr": "Historique des envois"
+    }, {
+            "msgid": "Logging of movements",
+            "msgstr": "Historique des mouvements"
+    }, {
+            "msgid": "Logging of receipts",
+            "msgstr": "Historique des réceptions"
+    }, {
+            "msgid": "Logging of returns",
+            "msgstr": "Historique des restitutions"
+    }, {
+            "msgid": "Logging of maintenances",
+            "msgstr": "Historique des opérations maintenance"
+    }, {
+            "msgid": "Logging of calibrations",
+            "msgstr": "Historiques des étalonnages"
+    }, {
+            "msgid": "Login",
+            "msgstr": "Login"
+    }, {
+            "msgid": "Identifier",
+            "msgstr": "Identifiant"
+    }, {
+            "msgid": "Information",
+            "msgstr": "Informations"
+    }, {
+            "msgid": "Additional information",
+            "msgstr": "Informations complémentaires"
+    }, {
+            "msgid": "Traceability information",
+            "msgstr": "Informations de traçabilité"
+    }, {
+            "msgid": "Setup",
+            "msgstr": "Installer"
+    }, {
+            "msgid": "Location inventory",
+            "msgstr": "Inventaire des emplacements"
+    }, {
+            "msgid": "Item inventory",
+            "msgstr": "Inventaire du matériel"
+    }, {
+            "msgid": "Inventoried items management",
+            "msgstr": "Gestion des articles inventoriés"
+    }, {
+            "msgid": "Label",
+            "msgstr": "Libellé"
+    }, {
+            "msgid": "Item properties",
+            "msgstr": "Lire la fiche"
+    }, {
+            "msgid": "Reference properties",
+            "msgstr": "Lire la fiche"
+    }, {
+            "msgid": "List of current borrowings",
+            "msgstr": "Liste des emprunts en cours"
+    }, {
+            "msgid": "List of current shippings",
+            "msgstr": "Liste des envois en cours"
+    }, {
+            "msgid": "List of current calibrations",
+            "msgstr": "Liste des étalonnages en cours"
+    }, {
+            "msgid": "List of current maintenances",
+            "msgstr": "Liste des maintenances en cours"
+    }, {
+            "msgid": "Position",
+            "msgstr": "Localisation"
+    }, {
+            "msgid": "Parent position",
+            "msgstr": "Localisation parente"
+    }, {
+            "msgid": "Positions",
+            "msgstr": "Localisations"
+    }, {
+            "msgid": "Password",
+            "msgstr": "Mot de passe"
+    }, {
+            "msgid": "Number of pending tasks",
+            "msgstr": "Nb tâches en attente"
+    }, {
+            "msgid": "Number of tasks transferred",
+            "msgstr": "Nb tâches transférées"
+    }, {
+            "msgid": "Last name",
+            "msgstr": "Nom"
+    }, {
+            "msgid": "Name",
+            "msgstr": "Nom"
+    }, {
+            "msgid": "No",
+            "msgstr": "Non"
+    }, {
+            "msgid": "Non-compliant",
+            "msgstr": "Non Conforme"
+    }, {
+            "msgid": "New password",
+            "msgstr": "Nouveau mot de passe"
+    }, {
+            "msgid": "Operator",
+            "msgstr": "Opérateur"
+    }, {
+            "msgid": "Operation",
+            "msgstr": "Opération"
+    }, {
+            "msgid": "Yes",
+            "msgstr": "Oui"
+    }, {
+            "msgid": "Open",
+            "msgstr": "Ouvrir"
+    }, {
+            "msgid": "Open attached file",
+            "msgstr": "Ouvrir la pièce jointe"
+    }, {
+            "msgid": "Open control report",
+            "msgstr": "Ouvrir le rapport de contrôle"
+    }, {
+            "msgid": "No picture available",
+            "msgstr": "Pas de photo disponible"
+    }, {
+            "msgid": "Devices",
+            "msgstr": "Périphériques"
+    }, {
+            "msgid": "Device",
+            "msgstr": "Périphérique"
+    }, {
+            "msgid": "Pictures",
+            "msgstr": "Photos"
+    }, {
+            "msgid": "Attached files",
+            "msgstr": "Pièces jointes"
+    }, {
+            "msgid": "Scheduler",
+            "msgstr": "Planificateur"
+    }, {
+            "msgid": "Tasks scheduling",
+            "msgstr": "Planification de tâches"
+    }, {
+            "msgid": "Schedule",
+            "msgstr": "Planifier"
+    }, {
+            "msgid": "Schedule tasks",
+            "msgstr": "Planifier des tâches"
+    }, {
+            "msgid": "Deadline",
+            "msgstr": "Date limite"
+    }, {
+            "msgid": "Contact",
+            "msgstr": "Correspondant"
+    }, {
+            "msgid": "Previous",
+            "msgstr": "Précédent"
+    }, {
+            "msgid": "First name",
+            "msgstr": "Prénom"
+    }, {
+            "msgid": "Profiles",
+            "msgstr": "Profils"
+    }, {
+            "msgid": "Profile",
+            "msgstr": "Profil"
+    }, {
+            "msgid": "Origin",
+            "msgstr": "Provenance"
+    }, {
+            "msgid": "Quantity",
+            "msgstr": "Quantité"
+    }, {
+            "msgid": "Control report",
+            "msgstr": "Rapport de contrôle"
+    }, {
+            "msgid": "Receipt of an item",
+            "msgstr": "Réception d'un matériel"
+    }, {
+            "msgid": "Receipt of items",
+            "msgstr": "Reception de matériel"
+    }, {
+            "msgid": "Receive",
+            "msgstr": "Réceptionner"
+    }, {
+            "msgid": "Receipt an item",
+            "msgstr": "Réceptionner un matériel"
+    }, {
+            "msgid": "Search in progress...",
+            "msgstr": "Recherche en cours..."
+    }, {
+            "msgid": "References",
+            "msgstr": "Références"
+    }, {
+            "msgid": "Reference",
+            "msgstr": "Référence"
+    }, {
+            "msgid": "Binded references",
+            "msgstr": "Références associées"
+    }, {
+            "msgid": "References selection",
+            "msgstr": "Sélection des références"
+    }, {
+            "msgid": "Operation type",
+            "msgstr": "Opération"
+    }, {
+            "msgid": "Reset",
+            "msgstr": "Reset"
+    }, {
+            "msgid": "Profiles selection",
+            "msgstr": "Sélection des profils"
+    }, {
+            "msgid": "Select",
+            "msgstr": "Sélectionner"
+    }, {
+            "msgid": "Select an item",
+            "msgstr": "Sélectionnez un article"
+    }, {
+            "msgid": "Select a device",
+            "msgstr": "Sélectionnez un périphérique"
+    }, {
+            "msgid": "Select a type of action",
+            "msgstr": "Sélectionnez un type d'action"
+    }, {
+            "msgid": "Select an address",
+            "msgstr": "Sélectionnez une adresse."
+    }, {
+            "msgid": "Lower threshold",
+            "msgstr": "Seuil bas"
+    }, {
+            "msgid": "Higher threshold",
+            "msgstr": "Seuil haut"
+    }, {
+            "msgid": "The start date must be earlier than the end date",
+            "msgstr": "La date de début doit être antérieur à la date de fin"
+    }, {
+            "msgid": "Next",
+            "msgstr": "Suite"
+    }, {
+            "msgid": "Deadlines tracking",
+            "msgstr": "Suivi des dates d'échéance"
+    }, {
+            "msgid": "Monitoring of stock levels",
+            "msgstr": "Suivi des niveaux de stock"
+    }, {
+            "msgid": "Delete",
+            "msgstr": "Supprimer"
+    }, {
+            "msgid": "Delete an item",
+            "msgstr": "Supprimer un article"
+    }, {
+            "msgid": "Delete a location",
+            "msgstr": "Supprimer un emplacement"
+    }, {
+            "msgid": "Delete a device",
+            "msgstr": "Supprimer un périphérique"
+    }, {
+            "msgid": "Delete a user profile",
+            "msgstr": "Supprimer un profil"
+    }, {
+            "msgid": "Delete a stock level monitoring",
+            "msgstr": "Supprimer un suivi sur un niveau de stock"
+    }, {
+            "msgid": "Delete a user",
+            "msgstr": "Supprimer un utilisateur"
+    }, {
+            "msgid": "Delete a category",
+            "msgstr": "Supprimer une catégorie"
+    }, {
+            "msgid": "Delete an attached file",
+            "msgstr": "Supprimer une pièce jointe"
+    }, {
+            "msgid": "Delete a reference",
+            "msgstr": "Supprimer une référence"
+    }, {
+            "msgid": "Delete a scheduled task (not assigned)",
+            "msgstr": "Supprimer une tâche planifiée (non affectée)"
+    }, {
+            "msgid": "Edit a scheduled task (not transferred)",
+            "msgstr": "Modifier une tâche planifiée (non affectée)"
+    }, {
+            "msgid": "Scheduled task",
+            "msgstr": "Tâche planifiée"
+    }, {
+            "msgid": "Tasks",
+            "msgstr": "Tâches"
+    }, {
+            "msgid": "Transfer of planned tasks",
+            "msgstr": "Transfert de taches planifiées"
+    }, {
+            "msgid": "Task successfully assigned",
+            "msgstr": "L'affectation a bien été effectuée !"
+    }, {
+            "msgid": "Time",
+            "msgstr": "Heure"
+    }, {
+            "msgid": "Type",
+            "msgstr": "Type"
+    }, {
+            "msgid": "Deadline type",
+            "msgstr": "Type d'échéance"
+    }, {
+            "msgid": "Code type",
+            "msgstr": "Type de code"
+    }, {
+            "msgid": "Control type",
+            "msgstr": "Type de contrôle"
+    }, {
+            "msgid": "Item types",
+            "msgstr": "Types d'articles"
+    }, {
+            "msgid": "A location",
+            "msgstr": "Un emplacement"
+    }, {
+            "msgid": "A position",
+            "msgstr": "Une localisation"
+    }, {
+            "msgid": "Unit",
+            "msgstr": "Unité"
+    }, {
+            "msgid": "Users",
+            "msgstr": "Utilisateurs"
+    }, {
+            "msgid": "User",
+            "msgstr": "Utilisateur"
+    }, {
+            "msgid": "Validate",
+            "msgstr": "Valider"
+    }, {
+            "msgid": "Version",
+            "msgstr": "Version"
+    }, {
+            "msgid": "Targeted version",
+            "msgstr": "Version de la mise à jour"
+    }, {
+            "msgid": "Original version",
+            "msgstr": "Version de départ"
+    }, {
+            "msgid": "Server version",
+            "msgstr": "Serveurs compatibles"
+    }, {
+            "msgid": "Please enter your login!",
+            "msgstr": "Veuillez saisir votre login !"
+    }, {
+            "msgid": "Please enter your password!",
+            "msgstr": "Veuillez saisir votre mot de passe !"
+    }, {
+            "msgid": "Do you really want to delete this location",
+            "msgstr": "Voulez-vous vraiment supprimer cet emplacement"
+    }, {
+            "msgid": "Do you really want to delete those address?",
+            "msgstr": "Voulez-vous vraiment supprimer ces adresses ?"
+    }, {
+            "msgid": "Do you want to delete this address",
+            "msgstr": "Voulez-vous vraiment supprimer cette adresse"
+    }, {
+            "msgid": "File must be in .pdf format.",
+            "msgstr": "Le fichier doit être au format pdf."
+    }, {
+            "msgid": "Select a package update in .zip format",
+            "msgstr": "Sélectionner un package de mise à jour au format .zip"
+    }, {
+            "msgid": "Connecting to server",
+            "msgstr": "Connexion au serveur ..."
+    }, {
+            "msgid": "The lower threshold must be less than or equal to the upper threshold.",
+            "msgstr": "Le seuil bas doit être inférieur ou égal au seuil haut."
+    }, {
+            "msgid": "This item is not present to any address.",
+            "msgstr": "Cette référence n'est présente à aucune adresse."
+    }, {
+            "msgid": "No picture",
+            "msgstr": "Aucune photo"
+    }, {
+            "msgid": "Warning",
+            "msgstr": "Attention"
+    }, {
+            "msgid": "At least one stock level has been found out of threshold limits!",
+            "msgstr": "Au moins un niveau de stock non conforme a été constaté !"
+    }, {
+            "msgid": "Please check the status of inventory levels for more information",
+            "msgstr": "Veuillez consulter le suivi de niveaux de stock pour plus d'informations"
+    }, {
+            "msgid": "Failed to process",
+            "msgstr": "Echec de la procédure"
+    }, {
+            "msgid": "Warning , this task is already uploaded to the device,",
+            "msgstr": "Attention, cette tâche est déjà transférée sur le périphérique,"
+    }, {
+            "msgid": "do you really want to continue this task?",
+            "msgstr": "désirez-vous vraiment la reprendre ?"
+    }, {
+            "msgid": "If Yes, the task will be deleted from the device after synchronization.",
+            "msgstr": "Si oui, la tâche sera supprimée du périphérique après synchronisation."
+    }, {
+            "msgid": "You have been logout",
+            "msgstr": "Vous avez été deconnecté..."
+    }, {
+            "msgid": "Your session has expired, you need to login again!",
+            "msgstr": "Votre session a expiré, vous devez vous reconnecter !"
+    }, {
+            "msgid": "First, select a file in the previous field",
+            "msgstr": "Veuillez d'abord sélectionner un fichier dans le champ précédent"
+    }, {
+            "msgid": "Recording is not possible : the form contains errors.",
+            "msgstr": "L'enregistrement est impossible car le formulaire comporte des erreurs."
+    }, {
+            "msgid": "No element selected",
+            "msgstr": "Il n'y a pas d'élément sélectionné !"
+    }, {
+            "msgid": "The form can not be sent : errors detected.",
+            "msgstr": "Le formulaire ne peut être envoyé car il comporte des erreurs."
+    }, {
+            "msgid": "Connection Problem",
+            "msgstr": "Problème de connexion"
+    }, {
+            "msgid": "Error",
+            "msgstr": "Erreur"
+    }, {
+            "msgid": "Connection failed with server!",
+            "msgstr": "Problème de communication avec le serveur !"
+    }, {
+            "msgid": "Error: incorrect login and / or password.",
+            "msgstr": "Erreur : Login et/ou mot de passe incorrect."
+    }, {
+            "msgid": "Error: account disabled.",
+            "msgstr": "Erreur : compte désactivé."
+    }, {
+            "msgid": "Location information card",
+            "msgstr": "Fiche de l'emplacement"
+    }, {
+            "msgid": "Loading...",
+            "msgstr": "Chargement en cours..."
+    }, {
+            "msgid": "Do you really want to delete this device",
+            "msgstr": "Voulez-vous vraiment supprimer le périphérique"
+    }, {
+            "msgid": "Export failed !",
+            "msgstr": "L'exportation a échoué !"
+    }, {
+            "msgid": "Export successful !",
+            "msgstr": "Exportation réussie !"
+    }, {
+            "msgid": "Information card is displayed in the presence of a location",
+            "msgstr": "La fiche d'information n'est affichée qu'en présence d'un emplacement."
+    }, {
+            "msgid": "An attachment field is not valid",
+            "msgstr": "Un champ pièce jointe n'est pas valide"
+    }, {
+            "msgid": "Do you really want to delete this item:",
+            "msgstr": "Voulez-vous vraiment supprimer cet article :"
+    }, {
+            "msgid": "Do you really want to delete this mission?",
+            "msgstr": "Voulez-vous vraiment supprimer cette mission ?"
+    }, {
+            "msgid": "Do you really want to delete the package update",
+            "msgstr": "Voulez-vous vraiment supprimer le package de mise à jour"
+    }, {
+            "msgid": "This record is a success!",
+            "msgstr": "L'enregistrement est un succès !"
+    }, {
+            "msgid": "Do you want to assign these tasks to a recipient?",
+            "msgstr": "Voulez-vous affecter les tâches à un périphérique ?"
+    }, {
+            "msgid": "Do you really want to delete this task?",
+            "msgstr": "Voulez-vous vraiment supprimer cette tâche ?"
+    }, {
+            "msgid": "Do you really want to end this task?",
+            "msgstr": "Voulez-vous vraiment clôturer cette tâche ?"
+    }, {
+            "msgid": "Tasks allocation",
+            "msgstr": "Affectation des tâches planifiées"
+    }, {
+            "msgid": "Do you really want to delete this category",
+            "msgstr": "Voulez-vous vraiment supprimer la catégorie"
+    }, {
+            "msgid": "Do you really want to delete this description field:",
+            "msgstr": "Voulez-vous vraiment supprimer le champ descriptif :"
+    }, {
+            "msgid": "Do you really want to delete this reference:",
+            "msgstr": "Voulez-vous vraiment supprimer la référence :"
+    }, {
+            "msgid": "Do you really want to delete this user profile",
+            "msgstr": "Voulez-vous vraiment supprimer le profil"
+    }, {
+            "msgid": "Do you really want to delete this user requirement",
+            "msgstr": "Voulez-vous vraiment supprimer le mode d'utilisation"
+    }, {
+            "msgid": "Do you really want to delete the monitoring stock level on this reference:",
+            "msgstr": "Voulez-vous vraiment supprimer le suivi de niveau de stock sur la référence :"
+    }, {
+            "msgid": "Do you really want to delete this user",
+            "msgstr": "Voulez-vous vraiment supprimer l'utilisateur"
+    }, {
+            "msgid": "There are no reports associated with this control!",
+            "msgstr": "Il n'y a pas de rapport associé à ce contrôle !"
+    }, {
+            "msgid": "This label already exists!",
+            "msgstr": "Ce label existe déjà !"
+    }, {
+            "msgid": "Users profiles allocation",
+            "msgstr": "Affectation des profils aux utilisateurs"
+    }, {
+            "msgid": "Devices access allocation",
+            "msgstr": "Affectation des accès aux périphériques"
+    },
+    // ===================================================================
+    // Menu Bar   
+    // ===================================================================
+    {
+            "msgid": "Management",
+            "msgstr": "Gestion"
+    }, {
+            "msgid": "Scheduling",
+            "msgstr": "Planification"
+    }, {
+            "msgid": "Assignement",
+            "msgstr": "Affectation"
+    }, {
+            "msgid": "Deadlines",
+            "msgstr": "Echéances"
+    }, {
+            "msgid": "Non-critical",
+            "msgstr": "Echéance non critique"
+    }, {
+            "msgid": "Approaching",
+            "msgstr": "Echéance proche"
+    }, {
+            "msgid": "Exceeded",
+            "msgstr": "Echéance dépassée"
+    }, {
+            "msgid": "Stock level",
+            "msgstr": "Niveau de stock"
+    }, {
+            "msgid": "Receipt",
+            "msgstr": "Réception"
+    }, {
+            "msgid": "Controls validation",
+            "msgstr": "Validation contrôles"
+    }, {
+            "msgid": "Inventories",
+            "msgstr": "Inventaires"
+    }, {
+            "msgid": "Current shippings",
+            "msgstr": "Envois en cours"
+    }, {
+            "msgid": "Current borrowings",
+            "msgstr": "Emprunts en cours"
+    }, {
+            "msgid": "Current calibrations",
+            "msgstr": "Etalonnages en cours"
+    }, {
+            "msgid": "Current maintenances",
+            "msgstr": "Maintenances en cours"
+    }, {
+            "msgid": "Loggings",
+            "msgstr": "Historiques"
+    }, {
+            "msgid": "Controls",
+            "msgstr": "Contrôles"
+    }, {
+            "msgid": "Movements",
+            "msgstr": "Mouvements"
+    }, {
+            "msgid": "Displacements",
+            "msgstr": "Déplacements"
+    }, {
+            "msgid": "Shippings",
+            "msgstr": "Envois"
+    }, {
+            "msgid": "Receipts",
+            "msgstr": "Réceptions"
+    }, {
+            "msgid": "Borrowings",
+            "msgstr": "Emprunts"
+    }, {
+            "msgid": "Returns",
+            "msgstr": "Restitutions"
+    }, {
+            "msgid": "Consumptions",
+            "msgstr": "Consommations"
+    }, {
+            "msgid": "Provisions",
+            "msgstr": "Approvisionnements"
+    }, {
+            "msgid": "Maintenance Op",
+            "msgstr": "Maintenance"
+    }, {
+            "msgid": "Maintenance Returns",
+            "msgstr": "Retours Maintenance"
+    }, {
+            "msgid": "Calibration",
+            "msgstr": "Etalonnage"
+    }, {
+            "msgid": "Calibration Returns",
+            "msgstr": "retours Etalonnage"
+    }, {
+            "msgid": "Administration",
+            "msgstr": "Administration"
+    }, {
+            "msgid": "Maintenance",
+            "msgstr": "Maintenance"
+    }, {
+            "msgid": "Packages",
+            "msgstr": "Packages"
+    }, 
+    // ===================================================================
+    // Login / Logout  
+    // ===================================================================
+    {
+            "msgid": "This field can only contain integers.",
+            "msgstr": "Ce champ ne peut contenir que des nombres entiers."
+    }, {
+            "msgid": "Unknown error",
+            "msgstr": "Erreur inconnue"
+    }, {
+            "msgid": "Error: This password is already in use!",
+            "msgstr": "Erreur : Ce mot de passe a déjà été utilisé !"
+    }, {
+            "msgid": "Error: The new password is missing.",
+            "msgstr": "Erreur : Le nouveau mot de passe n'est pas renseigné."
+    }, {
+            "msgid": "Error: Wrong new password.",
+            "msgstr": "Erreur : Le nouveau mot de passe est incorrect."
+    }, {
+            "msgid": "Error: Passwords are not the same!",
+            "msgstr": "Erreur : Les mots de passe ne sont pas identiques !"
+    }, {
+            "msgid": "Please log in to access NexCap solution",
+            "msgstr": "Veuillez vous identifier pour accéder à l'application NexCap"
+    }, {
+            "msgid": "Authentication",
+            "msgstr": "Authentification"
+    }, {
+            "msgid": "Enter a new password",
+            "msgstr": "Entrez un nouveau mot de passe"
+    }, {
+            "msgid": "Password update",
+            "msgstr": "Changement de mot de passe"
+    }, {
+            "msgid": "Choose a new password",
+            "msgstr": "Choisissez un nouveau mot de passe"
+    }, {
+            "msgid": "Item sets",
+            "msgstr": "Lots de matériel"
+    }, {
+            "msgid": "Item set",
+            "msgstr": "Lot de matériel"
+    }, {
+            "msgid": "All",
+            "msgstr": "Tous"
+    }, {
+            "msgid": "Select an attached file",
+            "msgstr": "Sélectionner une pièce jointe"
+    }, {
+            "msgid": "Success",
+            "msgstr": "Succès"
+    }, {
+            "msgid": "Operation successfull!",
+            "msgstr": "L'opération a bien été effectuée !"
+    }, {
+            "msgid": "Do you really want to delete this intervention order:",
+            "msgstr": "Voulez-vous vraiment supprimer cet ordre d'intervention :"
+    }, {
+            "msgid": "located:",
+            "msgstr": "à l'adresse :"
+    }, {
+            "msgid": "Add an intervention order",
+            "msgstr": "Ajouter un ordre d'intervention"
+    }, {
+            "msgid": "WO number",
+            "msgstr": "Numéro OI"
+    }, {
+            "msgid": "Edit an intervention order",
+            "msgstr": "Editer un ordre d'intervention"
+    }, {
+            "msgid": "Delete an intervention order",
+            "msgstr": "Supprimer un ordre d'intervention"
+    }, {
+            "msgid": "Management of intervention orders",
+            "msgstr": "Gestion des ordres d'intervention"
+    }, {
+            "msgid": "Intervention orders",
+            "msgstr": "Ordres d'intervention"
+    }, {
+            "msgid": "Step 1/3: Select items to displace.",
+            "msgstr": "Etape 1/3 : Sélectionnez les articles à déplacer."
+    }, {
+            "msgid": "Results",
+            "msgstr": "Résultats"
+    }, {
+            "msgid": "No result!",
+            "msgstr": "Aucun résultat !"
+    }, {
+            "msgid": "Step 2/3: Select a destination.",
+            "msgstr": "Etape 2/3 : Sélectionnez la destination."
+    }, {
+            "msgid": "Step 3/3: Entering comments.",
+            "msgstr": "Etape 3/3 : Saisie des informations."
+    }, {
+            "msgid": "Access card",
+            "msgstr": "Carte d'accès"
+    }, {
+            "msgid": "Badge number",
+            "msgstr": "Numéro de badge"
+    }, {
+            "msgid": "Where do you want to assign this device?",
+            "msgstr": "Où voulez vous affecter ce périphérique ?"
+    }, {
+            "msgid": "This device is already authorized!",
+            "msgstr": "Ce périphérique est déjà autorisé !"
+    }, {
+            "msgid": "Authorized Locations",
+            "msgstr": "Emplacements autorisés"
+    }, {
+            "msgid": "Logging of inventories",
+            "msgstr": "Historique des inventaires"
+    }, 
+    // ===================================================================
+    // Inventory management 
+    // ===================================================================
+    {
+            "msgid": "Inventory items",
+            "msgstr": "Articles inventoriés"
+    }, {
+            "msgid": "Validate address",
+            "msgstr": "Valider l'adresse d'inventaire"
+    }, {
+            "msgid": "Date of inventory",
+            "msgstr": "Date inventaire"
+    }, {
+            "msgid": "Present items",
+            "msgstr": "Articles présents"
+    }, {
+            "msgid": "Missing items",
+            "msgstr": "Articles absents"
+    }, {
+            "msgid": "Expected items",
+            "msgstr": "Articles attendus"
+    }, {
+            "msgid": "Foreign items",
+            "msgstr": "Articles intrus"
+    }, {
+            "msgid": "Scanned",
+            "msgstr": "Scanné"
+    }, {
+            "msgid": "Expected",
+            "msgstr": "Attendu"
+    }, {
+            "msgid": "Foreign",
+            "msgstr": "Intrus"
+    }, {
+            "msgid": "Missing",
+            "msgstr": "Absent"
+    }, {
+            "msgid": "Present",
+            "msgstr": "Présent"
+    }, {
+            "msgid": "Moved",
+            "msgstr": "Déplacé"
+    }, {
+            "msgid": "Move",
+            "msgstr": "Déplacer"
+    }, {
+            "msgid": "Move an item",
+            "msgstr": "Déplacer un article"
+    }, {
+            "msgid": "Open inventory report",
+            "msgstr": "Ouvrir le rapport d'inventaire"
+    }, {
+            "msgid": "Inventory report",
+            "msgstr": "Rapport d'inventaire"
+    }, {
+            "msgid": "Recorded address",
+            "msgstr": "Adresse enregistrée"
+    }, {
+            "msgid": "Inventory address",
+            "msgstr": "Adresse d'inventaire"
+    }, {
+            "msgid": "Inventory date",
+            "msgstr": "Date d'inventaire"
+    }, {
+            "msgid": "Result",
+            "msgstr": "Résultat"
+    }, {
+            "msgid": "Attachments",
+            "msgstr": "Pièces jointes"
+    }, 
+    // ===================================================================
+    // Materials management  
+    // ===================================================================
+    {
+            "msgid": "Status",
+            "msgstr": "Statut"
+    }, {
+            "msgid": "Materials",
+            "msgstr": "Matériels"
+    }, {
+            "msgid": "Use count",
+            "msgstr": "Nombre d'utilisations"
+    }, {
+            "msgid": "Use count.short",
+            "msgstr": "Nb. utilisation"
+    }, {
+            "msgid": "Reset use count",
+            "msgstr": "Réinitialiser le nombre d'utilisations"
+    }, {
+            "msgid": "Assigned location",
+            "msgstr": "Emplacement de stockage"
+    }, {
+            "msgid": "Alert",
+            "msgstr": "Anomalie"
+    }, {
+            "msgid": "Alerts",
+            "msgstr": "Anomalies"
+    }, {
+            "msgid": "Operations",
+            "msgstr": "Opérations"
+    }, {
+            "msgid": "Items alerts dashboard",
+            "msgstr": "Tableau de bord des articles en anomalies"
+    }, {
+            "msgid": "Operations alerts dashboard",
+            "msgstr": "Tableau de bord des opérations en anomalies"
+    }, {
+            "msgid": "Open alert",
+            "msgstr": "Ouvrir l'anomalie"
+    }, {
+            "msgid": "Acknowledged an alert",
+            "msgstr": "Acquitter une anomalie"
+    }, {
+            "msgid": "Alert already resolved!",
+            "msgstr": "Anomalie déjà résolue!"
+    }, {
+            "msgid": "Alert already akcnowledged!",
+            "msgstr": "Anomalie déjà acquittée"
+    }, {
+            "msgid": "Alert datasheet",
+            "msgstr": "Fiche de vie de l'anomalie"
+    }, {
+            "msgid": "Acknowledged by",
+            "msgstr": "Acquitée par"
+    }, {
+            "msgid": "Acknowledgement date",
+            "msgstr": "Acquittée le"
+    }, {
+            "msgid": "Resolve date",
+            "msgstr": "Résolue le"
+    }, {
+            "msgid": "Acknowledgement/Resolution",
+            "msgstr": "Acquittement/Résolution"
+    }, {
+            "msgid": "Acknowledged",
+            "msgstr": "Acquittées"
+    }, {
+            "msgid": "Resolved",
+            "msgstr": "Résolues"
+    }, {
+            "msgid": "Current",
+            "msgstr": "En cours"
+    }, {
+            "msgid": "Resolution",
+            "msgstr": "Résolution"
+    }, 
+    // ===================================================================
+    // FEATURES 
+    // ===================================================================
+    {
+            "msgid": "LEAVE_TO_CALIBRATION",
+            "msgstr": "Départ en étalonnage"
+    }, {
+            "msgid": "RETURN_FROM_CALIBRATION",
+            "msgstr": "Retour d'étalonnage"
+    }, {
+            "msgid": "LEAVE_TO_MAINTENANCE",
+            "msgstr": "Départ en maintenance"
+    }, {
+            "msgid": "RETURN_FROM_MAINTENANCE",
+            "msgstr": "Retour de maintenance"
+    }, {
+            "msgid": "Before scanning RFID tag, place your cursor in the above code textfield",
+            "msgstr": "Avant de scanner le tag RFID, placer votre curseur dans le champ texte ci-dessus"
+    }, {
+            "msgid": "Assigned locations",
+            "msgstr": "Emplacements de stockage"
+    }, {
+            "msgid": "Location selection",
+            "msgstr": "Selection d'un emplacement"
+    }, {
+            "msgid": "A default location already exist for this position",
+            "msgstr": "Un emplacement de stockage existe déjà pour cette localisation"
+    }, {
+            "msgid": "Attachments",
+            "msgstr": "Pièces jointes"
+    }, {
+            "msgid": "No files",
+            "msgstr": "Aucun fichier"
+    }, {
+            "msgid": "Double-click for download file",
+            "msgstr": "Double-cliquez sur l'image pour la télécharger"
+    }, 
+    // ===================================================================
+    // REQUIREMENTS  
+    // ===================================================================
+    {
+            "msgid": "Requirements selection",
+            "msgstr": "Modes d'utilisation"
+    }, 
+    // ===================================================================
+    // COUNTER  
+    // ===================================================================
+    {
+            "msgid": "Warehouse",
+            "msgstr": "Magasin"
+    }, {
+            "msgid": "Recommended location",
+            "msgstr": "Emplacement de stockage"
+    }, 
+    // ===================================================================
+    // THUMBNAILS 
+    // ===================================================================
+    {
+            "msgid": "Image editor",
+            "msgstr": "Edition de l'icone"
+    }, {
+            "msgid": "Select image",
+            "msgstr": "Selectionnez une image"
+    }, {
+            "msgid": "This file must be an image (.jpg, .png, .gif).",
+            "msgstr": "Le fichier doit être au format image (.jpg, .png, .gif)."
+    }
+]

@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+
+
+@include extjs-toolbar-ui(
+    $ui: 'dashboard-editor-menu-toolbar',
+    $border-width: 1px 0 0 0,
+    $border-color: $panel-header-border-color,
+    $background-color: #272A36
+);
+
+@include extjs-button-small-ui(
+    $ui: 'dashboard-editor-menu-icon',
+    $background-color : $db-color-dark,
+    $background-color-over: $db-color-dark,
+    $background-color-focus: $db-color-dark, 
+    $background-color-pressed: $db-color-dark,
+    $inner-border-color-focus: $db-color-dark,
+    $inner-border-color-focus-pressed: $db-color-dark,
+    $inner-border-color-focus-over: $db-color-dark
+);
+
+.x-btn-icon-el-dashboard-editor-menu-icon-small {
+    font-family: FontAwesome;
+    color: $db-color-light;
+    font-size: 16px;
+}
+
+.icon-dashboard-menu-create { 
+    background-image: url(#{$context-path}/resources/images/icons/256/fa-plus.png) !important;  //#{$context-path}/
+    background-repeat: no-repeat;
+    background-size: 24px 24px;
+    background-position: center;
+}

@@ -1,0 +1,342 @@
+{
+	"success": true,
+	"error": null,
+	"message": null,
+	"total": 36,
+	"data": [{
+		"id": 1,
+		"name": "curState",
+		"label": "Etat courant",
+		"type": "STRING",
+		"control": "{\"controlType\":\"list\",\"options\":[{\"name\":\"En service\"},{\"name\":\"A vérifier\"},{\"name\":\"Hors service\"}]}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 2,
+		"name": "lastCalibrationDate",
+		"label": "Date du dernier étalonnage",
+		"type": "DATE",
+		"control": "{\"controlType\":\"date\"}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 3,
+		"name": "nextCalibrationDate",
+		"label": "Date de prochain étalonnage",
+		"type": "DATE",
+		"control": "{\"controlType\":\"date\"}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 4,
+		"name": "lastMaintenanceDate",
+		"label": "Date de dernière maintenance",
+		"type": "DATE",
+		"control": "{\"controlType\":\"date\"}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 5,
+		"name": "nextMaintenanceDate",
+		"label": "Date de prochaine maintenance",
+		"type": "DATE",
+		"control": "{\"controlType\":\"date\"}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 6,
+		"name": "maxUseCount",
+		"label": "Nombre maximum d utilisation",
+		"type": "INT",
+		"control": "{\"controlType\":\"numeric\"}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 7,
+		"name": "Marque",
+		"label": "Marque",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"Marque\",\"fieldLabel\":\"Marque\",\"description\":\"\",\"minLength\":1,\"maxLength\":50,\"width\":200,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 8,
+		"name": "Longueur",
+		"label": "Longueur",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Longueur\",\"fieldLabel\":\"Longueur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 9,
+		"name": "Largeur",
+		"label": "Largeur",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Largeur\",\"fieldLabel\":\"Largeur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 10,
+		"name": "Poids",
+		"label": "Poids",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Poids\",\"fieldLabel\":\"Poids\",\"description\":\"En gramme \\u00e0 la gravit\\u00e9 0\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 11,
+		"name": "Masse",
+		"label": "Masse",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Masse\",\"fieldLabel\":\"Masse\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"fieldType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 12,
+		"name": "Type",
+		"label": "Type",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"radio\",\"name\":\"Type\",\"fieldLabel\":\"Type\",\"description\":\"\",\"orientation\":\"vertical\",\"itemValues\":[\"Refex\",\"Bridge\",\"Compact\",\"Sport\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"radio\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 14,
+		"name": "Poids 2",
+		"label": "Poids 2",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Poids 2\",\"fieldLabel\":\"Poids 2\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 15,
+		"name": "Nombre de batteries",
+		"label": "Nombre de batteries",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Nombre de batteries\",\"fieldLabel\":\"Nombre de batteries\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 16,
+		"name": "Chargeur",
+		"label": "Chargeur",
+		"type": "BOOLEAN",
+		"control": "{\"field\":{\"fieldType\":\"checkbox\",\"name\":\"Chargeur\",\"fieldLabel\":\"Chargeur\",\"description\":\"\",\"checked\":true,\"dataType\":\"BOOLEAN\",\"vtype\":null},\"configuration\":{\"controlType\":\"checkbox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 17,
+		"name": "Date d'achat",
+		"label": "Date d'achat",
+		"type": "DATE",
+		"control": "{\"field\":{\"fieldType\":\"datefield\",\"name\":\"Date d'achat\",\"fieldLabel\":\"Date d'achat\",\"description\":\"\",\"width\":250,\"limitToCurrentDate\":true,\"dataType\":\"DATE\",\"vtype\":null},\"configuration\":{\"controlType\":\"datefield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 18,
+		"name": "Objectif",
+		"label": "Objectif",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"Objectif\",\"fieldLabel\":\"Objectif\",\"description\":\"\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 19,
+		"name": "Déclencheur à distance",
+		"label": "Déclencheur à distance",
+		"type": "BOOLEAN",
+		"control": "{\"field\":{\"fieldType\":\"checkbox\",\"name\":\"D\\u00e9clencheur \\u00e0 distance\",\"fieldLabel\":\"D\\u00e9clencheur \\u00e0 distance\",\"description\":\"\",\"checked\":false,\"dataType\":\"BOOLEAN\",\"vtype\":null},\"configuration\":{\"fieldType\":\"checkbox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 20,
+		"name": "Diamètre",
+		"label": "Diamètre",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Diam\\u00e8tre\",\"fieldLabel\":\"Diam\\u00e8tre\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 21,
+		"name": "Matière",
+		"label": "Matière",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"combobox\",\"name\":\"Mati\\u00e8re\",\"fieldLabel\":\"Mati\\u00e8re\",\"description\":\"\",\"width\":300,\"itemValues\":[\"Fibre de carbonne\",\"Synth\\u00e9tique\",\"Feuilles de cocotier\",\"Coton\",\"Paille\",\"Film anti-UV\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 22,
+		"name": "Couleur",
+		"label": "Couleur",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"combobox\",\"name\":\"Couleur\",\"fieldLabel\":\"Couleur\",\"description\":\"\",\"width\":300,\"itemValues\":[\"Outremer\",\"Navet\",\"Pervenche\",\"Indigo\",\"Cuisse de nymphe \\u00e9mue\",\"Neige\",\"Beigeasse\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 23,
+		"name": "Anti UV",
+		"label": "Anti UV",
+		"type": "BOOLEAN",
+		"control": "{\"field\":{\"fieldType\":\"checkbox\",\"name\":\"Anti UV\",\"fieldLabel\":\"Anti UV\",\"description\":\"\",\"checked\":false,\"dataType\":\"BOOLEAN\",\"vtype\":null},\"configuration\":{\"controlType\":\"checkbox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 24,
+		"name": "Profondeur max",
+		"label": "Profondeur max",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Profondeur max\",\"fieldLabel\":\"Profondeur max\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":1,\"allowDecimals\":false,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 25,
+		"name": "Filtre magenta",
+		"label": "Filtre magenta",
+		"type": "BOOLEAN",
+		"control": "{\"field\":{\"fieldType\":\"checkbox\",\"name\":\"Filtre magenta\",\"fieldLabel\":\"Filtre magenta\",\"description\":\"\",\"checked\":false,\"dataType\":\"BOOLEAN\",\"vtype\":null},\"configuration\":{\"controlType\":\"checkbox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 26,
+		"name": "Avec floteur",
+		"label": "Avec floteur",
+		"type": "BOOLEAN",
+		"control": "{\"field\":{\"fieldType\":\"checkbox\",\"name\":\"Avec floteur\",\"fieldLabel\":\"Avec floteur\",\"description\":\"\",\"checked\":true,\"dataType\":\"BOOLEAN\",\"vtype\":null},\"configuration\":{\"controlType\":\"checkbox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 28,
+		"name": "Couleur du boitier",
+		"label": "Couleur du boitier",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"combobox\",\"name\":\"Couleur du boitier\",\"fieldLabel\":\"Couleur du boitier\",\"description\":\"\",\"width\":300,\"itemValues\":[\"Noir\",\"Blanc\",\"Rouge\",\"Orange\",\"Bleu\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 29,
+		"name": "taille",
+		"label": "taille",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"combobox\",\"name\":\"taille\",\"fieldLabel\":\"taille\",\"description\":\"\",\"width\":300,\"itemValues\":[\"xs\",\"s\",\"m\",\"l\",\"xl\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 30,
+		"name": "mon label",
+		"label": "mon label",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"combobox\",\"name\":\"mon label\",\"fieldLabel\":\"mon label\",\"description\":\"\",\"width\":500,\"itemValues\":[\"aaaaaaaa\",\"bbbbbbb\",\"ccccccccc\",\"dddddd\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 31,
+		"name": "dsqdsq",
+		"label": "dsqdsq",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"dsqdsq\",\"fieldLabel\":\"dsqdsq\",\"description\":\"dsq\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 32,
+		"name": "Test Karine",
+		"label": "Test Karine",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"Test Karine\",\"fieldLabel\":\"Test Karine\",\"description\":\"\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 35,
+		"name": "test",
+		"label": "test",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"test\",\"fieldLabel\":\"test\",\"description\":\"test\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 36,
+		"name": "erer",
+		"label": "erer",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"erer\",\"fieldLabel\":\"erer\",\"description\":\"erer\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 37,
+		"name": "proptest",
+		"label": "proptest",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"proptest\",\"fieldLabel\":\"proptest\",\"description\":\"\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 38,
+		"name": "Test Karine2",
+		"label": "Test Karine2",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"Test Karine2\",\"fieldLabel\":\"Test Karine2\",\"description\":\"\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 41,
+		"name": "Test Nouveau Karine",
+		"label": "Test Nouveau Karine",
+		"type": "STRING",
+		"control": "{\"field\":{\"fieldType\":\"textfield\",\"name\":\"Test Nouveau Karine\",\"fieldLabel\":\"Test Nouveau Karine\",\"description\":\"\",\"minLength\":1,\"maxLength\":50,\"width\":150,\"alphanumeric\":false,\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"textfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	}, {
+		"id": 42,
+		"name": "tutu",
+		"label": "tutu",
+		"type": "FLOAT",
+		"control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"tutu\",\"fieldLabel\":\"tutu\",\"description\":\"fredfred\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+		"options": [],
+		"displayed": true,
+		"editable": true
+	},{
+            "id": 43,
+            "name": "couleurs dispo",
+            "label": "couleurs dispo",
+            "type": "STRING",
+            "displayed": true,
+            "editable": true,
+            "control": "{\"field\":{\"fieldType\":\"combobox\",\"name\":\"couleurs dispo\",\"fieldLabel\":\"couleurs dispo\",\"description\":\"\",\"width\":400,\"itemValues\":[\"Rouge\",\"Bleu\",\"Vert\",\"Jaune\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true}}",
+            "options": [],
+            "description": "",
+            "valorisation": "items"
+    }]
+}

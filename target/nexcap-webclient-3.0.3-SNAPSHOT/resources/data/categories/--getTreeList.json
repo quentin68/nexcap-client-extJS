@@ -1,0 +1,3209 @@
+{
+	"success": true,
+	"error": null,
+	"message": null,
+	"total": 44,
+	"data": [{
+		"id": 1,
+		"name": "Catégorie",
+		"description": null,
+		"lastUpdateDate": "2016-03-09T15:00:00.000+0000",
+		"parentCategory": null,
+		"subCategoryList": [{
+			"id": 35,
+			"name": "Torque Wrench",
+			"description": "",
+			"lastUpdateDate": "2016-03-11T15:23:42.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 36,
+				"name": "Electrical Torque Wrench",
+				"description": "",
+				"lastUpdateDate": "2016-03-11T15:28:33.000+0000",
+				"parentCategory": {
+					"id": 35,
+					"name": "Torque Wrench",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [410, 411, 409, 190, 191, 412, 188, 193, 192],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Torque Wrench",
+				"materialPropertiesList": []
+			}, {
+				"id": 47,
+				"name": "Mecanical Torque Wrench",
+				"description": "",
+				"lastUpdateDate": "2016-03-11T15:28:45.000+0000",
+				"parentCategory": {
+					"id": 35,
+					"name": "Torque Wrench",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [186, 187, 200, 195, 194],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Torque Wrench",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 2,
+			"name": "Accessory",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:02.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 3,
+				"name": "Box",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:02.000+0000",
+				"parentCategory": {
+					"id": 2,
+					"name": "Accessory",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [2],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessory",
+				"materialPropertiesList": []
+			}, {
+				"id": 4,
+				"name": "Chisel",
+				"description": "",
+				"lastUpdateDate": "2016-02-12T15:10:54.000+0000",
+				"parentCategory": {
+					"id": 2,
+					"name": "Accessory",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [19, 14],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessory",
+				"materialPropertiesList": []
+			}, {
+				"id": 5,
+				"name": "Handel",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:04.000+0000",
+				"parentCategory": {
+					"id": 2,
+					"name": "Accessory",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [16],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessory",
+				"materialPropertiesList": []
+			}, {
+				"id": 6,
+				"name": "Rod",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:04.000+0000",
+				"parentCategory": {
+					"id": 2,
+					"name": "Accessory",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [18],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessory",
+				"materialPropertiesList": []
+			}, {
+				"id": 7,
+				"name": "Wire Brush",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+				"parentCategory": {
+					"id": 2,
+					"name": "Accessory",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [20],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessory",
+				"materialPropertiesList": []
+			}, {
+				"id": 42,
+				"name": "ToolBox",
+				"description": "",
+				"lastUpdateDate": "2016-02-22T17:11:28.000+0000",
+				"parentCategory": {
+					"id": 2,
+					"name": "Accessory",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Accessory",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 38,
+			"name": "Test Tool",
+			"description": "",
+			"lastUpdateDate": "2016-05-10T14:58:06.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 39,
+				"name": "Test Wrench",
+				"description": null,
+				"lastUpdateDate": "2016-02-09T09:44:11.000+0000",
+				"parentCategory": {
+					"id": 38,
+					"name": "Test Tool",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [210],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Test Tool",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 20,
+			"name": "Inspection Tools",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 21,
+				"name": "Mirror",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+				"parentCategory": {
+					"id": 20,
+					"name": "Inspection Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [153],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Inspection Tools",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 52,
+			"name": "Demo",
+			"description": "",
+			"lastUpdateDate": "2016-05-20T08:54:21.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [429],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 22,
+			"name": "Metrology",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 51,
+				"name": "Ammeter",
+				"description": "",
+				"lastUpdateDate": "2016-04-15T08:39:06.000+0000",
+				"parentCategory": {
+					"id": 22,
+					"name": "Metrology",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [423],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Metrology",
+				"materialPropertiesList": []
+			}, {
+				"id": 23,
+				"name": "Multimeter",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+				"parentCategory": {
+					"id": 22,
+					"name": "Metrology",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [155],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Metrology",
+				"materialPropertiesList": []
+			}, {
+				"id": 24,
+				"name": "Measureing",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+				"parentCategory": {
+					"id": 22,
+					"name": "Metrology",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [424, 156, 158],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Metrology",
+				"materialPropertiesList": []
+			}, {
+				"id": 26,
+				"name": "Thermometer",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+				"parentCategory": {
+					"id": 22,
+					"name": "Metrology",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [161],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Metrology",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 8,
+			"name": "Cutting Tools",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 9,
+				"name": "Cutter",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+				"parentCategory": {
+					"id": 8,
+					"name": "Cutting Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [22, 24],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Cutting Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 10,
+				"name": "Saw",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+				"parentCategory": {
+					"id": 8,
+					"name": "Cutting Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [23],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Cutting Tools",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 34,
+				"name": "Clamp",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:36.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Pneumatic Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [185],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Pneumatic Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 32,
+				"name": "Air Screwdriver",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:34.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Pneumatic Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [173],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Pneumatic Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 33,
+				"name": "Air Impact Wrench",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:35.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Pneumatic Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [175, 174],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Pneumatic Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 29,
+				"name": "Air Hammer",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:27.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Pneumatic Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [167],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Pneumatic Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 28,
+				"name": "Air Die Grinder",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Pneumatic Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [162],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Pneumatic Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 31,
+				"name": "Air Riveter ",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:34.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Pneumatic Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [169],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Pneumatic Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 30,
+				"name": "Air Drill",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:27.000+0000",
+				"parentCategory": {
+					"id": 27,
+					"name": "Pneumatic Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [168, 176, 182],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Pneumatic Tools",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [421, 422],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 11,
+			"name": "Electric Tools",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 12,
+				"name": "Light",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+				"parentCategory": {
+					"id": 11,
+					"name": "Electric Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [25],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Electric Tools",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 13,
+			"name": "Hand Tools",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 17,
+				"name": "Pliers",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:14.000+0000",
+				"parentCategory": {
+					"id": 13,
+					"name": "Hand Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [425, 85, 87, 86, 83, 418, 94, 89, 90],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Hand Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 16,
+				"name": "Hammer",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:14.000+0000",
+				"parentCategory": {
+					"id": 13,
+					"name": "Hand Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [80, 78],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Hand Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 19,
+				"name": "Socket wrench",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:23.000+0000",
+				"parentCategory": {
+					"id": 13,
+					"name": "Hand Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [152, 147, 148, 149, 150, 151],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Hand Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 18,
+				"name": "Screw driver",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:17.000+0000",
+				"parentCategory": {
+					"id": 13,
+					"name": "Hand Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [103, 115, 131, 132],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Hand Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 14,
+				"name": "Wrench",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+				"parentCategory": {
+					"id": 13,
+					"name": "Hand Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [69, 70, 71, 65, 67, 76, 77, 75, 26, 29, 28, 102, 35, 100, 98, 38, 99, 39, 42, 40, 46, 45, 51, 50, 48, 428, 54, 56, 63, 420, 61],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Hand Tools",
+				"materialPropertiesList": []
+			}, {
+				"id": 15,
+				"name": "File",
+				"description": null,
+				"lastUpdateDate": "2016-01-20T10:49:13.000+0000",
+				"parentCategory": {
+					"id": 13,
+					"name": "Hand Tools",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [72, 74],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Hand Tools",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}, {
+			"id": 44,
+			"name": "Consummable",
+			"description": "",
+			"lastUpdateDate": "2016-03-11T15:16:55.000+0000",
+			"parentCategory": {
+				"id": 1,
+				"name": "Catégorie",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [{
+				"id": 48,
+				"name": "Screw",
+				"description": "",
+				"lastUpdateDate": "2016-03-11T16:19:26.000+0000",
+				"parentCategory": {
+					"id": 44,
+					"name": "Consummable",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [408, 407],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Consummable",
+				"materialPropertiesList": []
+			}, {
+				"id": 45,
+				"name": "Washers",
+				"description": "",
+				"lastUpdateDate": "2016-03-11T16:22:12.000+0000",
+				"parentCategory": {
+					"id": 44,
+					"name": "Consummable",
+					"description": null,
+					"lastUpdateDate": null,
+					"parentCategory": null,
+					"subCategoryList": [],
+					"productReferenceIdList": [],
+					"picture": null,
+					"path": null,
+					"materialPropertiesList": []
+				},
+				"subCategoryList": [],
+				"productReferenceIdList": [404],
+				"picture": {
+					"pictureName": "",
+					"thumbnailName": "",
+					"pictureSourceType": null,
+					"pictureSourceId": 0
+				},
+				"path": "Catégorie/Consummable",
+				"materialPropertiesList": []
+			}],
+			"productReferenceIdList": [415],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [1],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": null,
+		"materialPropertiesList": []
+	}, {
+		"id": 2,
+		"name": "Accessory",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:02.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 3,
+			"name": "Box",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:02.000+0000",
+			"parentCategory": {
+				"id": 2,
+				"name": "Accessory",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [2],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessory",
+			"materialPropertiesList": []
+		}, {
+			"id": 4,
+			"name": "Chisel",
+			"description": "",
+			"lastUpdateDate": "2016-02-12T15:10:54.000+0000",
+			"parentCategory": {
+				"id": 2,
+				"name": "Accessory",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [19, 14],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessory",
+			"materialPropertiesList": []
+		}, {
+			"id": 5,
+			"name": "Handel",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:04.000+0000",
+			"parentCategory": {
+				"id": 2,
+				"name": "Accessory",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [16],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessory",
+			"materialPropertiesList": []
+		}, {
+			"id": 6,
+			"name": "Rod",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:04.000+0000",
+			"parentCategory": {
+				"id": 2,
+				"name": "Accessory",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [18],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessory",
+			"materialPropertiesList": []
+		}, {
+			"id": 7,
+			"name": "Wire Brush",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+			"parentCategory": {
+				"id": 2,
+				"name": "Accessory",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [20],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessory",
+			"materialPropertiesList": []
+		}, {
+			"id": 42,
+			"name": "ToolBox",
+			"description": "",
+			"lastUpdateDate": "2016-02-22T17:11:28.000+0000",
+			"parentCategory": {
+				"id": 2,
+				"name": "Accessory",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Accessory",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 3,
+		"name": "Box",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:02.000+0000",
+		"parentCategory": {
+			"id": 2,
+			"name": "Accessory",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [2],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessory",
+		"materialPropertiesList": []
+	}, {
+		"id": 4,
+		"name": "Chisel",
+		"description": "",
+		"lastUpdateDate": "2016-02-12T15:10:54.000+0000",
+		"parentCategory": {
+			"id": 2,
+			"name": "Accessory",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [19, 14],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessory",
+		"materialPropertiesList": []
+	}, {
+		"id": 5,
+		"name": "Handel",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:04.000+0000",
+		"parentCategory": {
+			"id": 2,
+			"name": "Accessory",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [16],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessory",
+		"materialPropertiesList": []
+	}, {
+		"id": 6,
+		"name": "Rod",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:04.000+0000",
+		"parentCategory": {
+			"id": 2,
+			"name": "Accessory",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [18],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessory",
+		"materialPropertiesList": []
+	}, {
+		"id": 7,
+		"name": "Wire Brush",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+		"parentCategory": {
+			"id": 2,
+			"name": "Accessory",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [20],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessory",
+		"materialPropertiesList": []
+	}, {
+		"id": 8,
+		"name": "Cutting Tools",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 9,
+			"name": "Cutter",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+			"parentCategory": {
+				"id": 8,
+				"name": "Cutting Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [22, 24],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Cutting Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 10,
+			"name": "Saw",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+			"parentCategory": {
+				"id": 8,
+				"name": "Cutting Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [23],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Cutting Tools",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 9,
+		"name": "Cutter",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+		"parentCategory": {
+			"id": 8,
+			"name": "Cutting Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [22, 24],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Cutting Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 10,
+		"name": "Saw",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:05.000+0000",
+		"parentCategory": {
+			"id": 8,
+			"name": "Cutting Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [23],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Cutting Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 11,
+		"name": "Electric Tools",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 12,
+			"name": "Light",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+			"parentCategory": {
+				"id": 11,
+				"name": "Electric Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [25],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Electric Tools",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 12,
+		"name": "Light",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+		"parentCategory": {
+			"id": 11,
+			"name": "Electric Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [25],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Electric Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 13,
+		"name": "Hand Tools",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 17,
+			"name": "Pliers",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:14.000+0000",
+			"parentCategory": {
+				"id": 13,
+				"name": "Hand Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [425, 85, 87, 86, 83, 418, 94, 89, 90],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Hand Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 16,
+			"name": "Hammer",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:14.000+0000",
+			"parentCategory": {
+				"id": 13,
+				"name": "Hand Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [80, 78],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Hand Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 19,
+			"name": "Socket wrench",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:23.000+0000",
+			"parentCategory": {
+				"id": 13,
+				"name": "Hand Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [152, 147, 148, 149, 150, 151],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Hand Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 18,
+			"name": "Screw driver",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:17.000+0000",
+			"parentCategory": {
+				"id": 13,
+				"name": "Hand Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [103, 115, 131, 132],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Hand Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 14,
+			"name": "Wrench",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+			"parentCategory": {
+				"id": 13,
+				"name": "Hand Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [69, 70, 71, 65, 67, 76, 77, 75, 26, 29, 28, 102, 35, 100, 98, 38, 99, 39, 42, 40, 46, 45, 51, 50, 48, 428, 54, 56, 63, 420, 61],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Hand Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 15,
+			"name": "File",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:13.000+0000",
+			"parentCategory": {
+				"id": 13,
+				"name": "Hand Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [72, 74],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Hand Tools",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 14,
+		"name": "Wrench",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:06.000+0000",
+		"parentCategory": {
+			"id": 13,
+			"name": "Hand Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [69, 70, 71, 65, 67, 76, 77, 75, 26, 29, 28, 102, 35, 100, 98, 38, 99, 39, 42, 40, 46, 45, 51, 50, 48, 428, 54, 56, 63, 420, 61],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Hand Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 15,
+		"name": "File",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:13.000+0000",
+		"parentCategory": {
+			"id": 13,
+			"name": "Hand Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [72, 74],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Hand Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 16,
+		"name": "Hammer",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:14.000+0000",
+		"parentCategory": {
+			"id": 13,
+			"name": "Hand Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [80, 78],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Hand Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 17,
+		"name": "Pliers",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:14.000+0000",
+		"parentCategory": {
+			"id": 13,
+			"name": "Hand Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [425, 85, 87, 86, 83, 418, 94, 89, 90],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Hand Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 18,
+		"name": "Screw driver",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:17.000+0000",
+		"parentCategory": {
+			"id": 13,
+			"name": "Hand Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [103, 115, 131, 132],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Hand Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 19,
+		"name": "Socket wrench",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:23.000+0000",
+		"parentCategory": {
+			"id": 13,
+			"name": "Hand Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [152, 147, 148, 149, 150, 151],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Hand Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 20,
+		"name": "Inspection Tools",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 21,
+			"name": "Mirror",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+			"parentCategory": {
+				"id": 20,
+				"name": "Inspection Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [153],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Inspection Tools",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 21,
+		"name": "Mirror",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+		"parentCategory": {
+			"id": 20,
+			"name": "Inspection Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [153],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Inspection Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 22,
+		"name": "Metrology",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 51,
+			"name": "Ammeter",
+			"description": "",
+			"lastUpdateDate": "2016-04-15T08:39:06.000+0000",
+			"parentCategory": {
+				"id": 22,
+				"name": "Metrology",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [423],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Metrology",
+			"materialPropertiesList": []
+		}, {
+			"id": 23,
+			"name": "Multimeter",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+			"parentCategory": {
+				"id": 22,
+				"name": "Metrology",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [155],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Metrology",
+			"materialPropertiesList": []
+		}, {
+			"id": 24,
+			"name": "Measureing",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+			"parentCategory": {
+				"id": 22,
+				"name": "Metrology",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [424, 156, 158],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Metrology",
+			"materialPropertiesList": []
+		}, {
+			"id": 26,
+			"name": "Thermometer",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+			"parentCategory": {
+				"id": 22,
+				"name": "Metrology",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [161],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Metrology",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 23,
+		"name": "Multimeter",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+		"parentCategory": {
+			"id": 22,
+			"name": "Metrology",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [155],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Metrology",
+		"materialPropertiesList": []
+	}, {
+		"id": 24,
+		"name": "Measureing",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:25.000+0000",
+		"parentCategory": {
+			"id": 22,
+			"name": "Metrology",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [424, 156, 158],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Metrology",
+		"materialPropertiesList": []
+	}, {
+		"id": 26,
+		"name": "Thermometer",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+		"parentCategory": {
+			"id": 22,
+			"name": "Metrology",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [161],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Metrology",
+		"materialPropertiesList": []
+	}, {
+		"id": 27,
+		"name": "Pneumatic Tools",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 34,
+			"name": "Clamp",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:36.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Pneumatic Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [185],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Pneumatic Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 32,
+			"name": "Air Screwdriver",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:34.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Pneumatic Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [173],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Pneumatic Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 33,
+			"name": "Air Impact Wrench",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:35.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Pneumatic Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [175, 174],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Pneumatic Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 29,
+			"name": "Air Hammer",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:27.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Pneumatic Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [167],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Pneumatic Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 28,
+			"name": "Air Die Grinder",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Pneumatic Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [162],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Pneumatic Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 31,
+			"name": "Air Riveter ",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:34.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Pneumatic Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [169],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Pneumatic Tools",
+			"materialPropertiesList": []
+		}, {
+			"id": 30,
+			"name": "Air Drill",
+			"description": null,
+			"lastUpdateDate": "2016-01-20T10:49:27.000+0000",
+			"parentCategory": {
+				"id": 27,
+				"name": "Pneumatic Tools",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [168, 176, 182],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Pneumatic Tools",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [421, 422],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 28,
+		"name": "Air Die Grinder",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:26.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [162],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Pneumatic Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 29,
+		"name": "Air Hammer",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:27.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [167],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Pneumatic Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 30,
+		"name": "Air Drill",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:27.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [168, 176, 182],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Pneumatic Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 31,
+		"name": "Air Riveter ",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:34.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [169],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Pneumatic Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 32,
+		"name": "Air Screwdriver",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:34.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [173],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Pneumatic Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 33,
+		"name": "Air Impact Wrench",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:35.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [175, 174],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Pneumatic Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 34,
+		"name": "Clamp",
+		"description": null,
+		"lastUpdateDate": "2016-01-20T10:49:36.000+0000",
+		"parentCategory": {
+			"id": 27,
+			"name": "Pneumatic Tools",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [185],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Pneumatic Tools",
+		"materialPropertiesList": []
+	}, {
+		"id": 35,
+		"name": "Torque Wrench",
+		"description": "",
+		"lastUpdateDate": "2016-03-11T15:23:42.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 36,
+			"name": "Electrical Torque Wrench",
+			"description": "",
+			"lastUpdateDate": "2016-03-11T15:28:33.000+0000",
+			"parentCategory": {
+				"id": 35,
+				"name": "Torque Wrench",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [410, 411, 409, 190, 191, 412, 188, 193, 192],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Torque Wrench",
+			"materialPropertiesList": []
+		}, {
+			"id": 47,
+			"name": "Mecanical Torque Wrench",
+			"description": "",
+			"lastUpdateDate": "2016-03-11T15:28:45.000+0000",
+			"parentCategory": {
+				"id": 35,
+				"name": "Torque Wrench",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [186, 187, 200, 195, 194],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Torque Wrench",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 36,
+		"name": "Electrical Torque Wrench",
+		"description": "",
+		"lastUpdateDate": "2016-03-11T15:28:33.000+0000",
+		"parentCategory": {
+			"id": 35,
+			"name": "Torque Wrench",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [410, 411, 409, 190, 191, 412, 188, 193, 192],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Torque Wrench",
+		"materialPropertiesList": []
+	}, {
+		"id": 38,
+		"name": "Test Tool",
+		"description": "",
+		"lastUpdateDate": "2016-05-10T14:58:06.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 39,
+			"name": "Test Wrench",
+			"description": null,
+			"lastUpdateDate": "2016-02-09T09:44:11.000+0000",
+			"parentCategory": {
+				"id": 38,
+				"name": "Test Tool",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [210],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Test Tool",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 39,
+		"name": "Test Wrench",
+		"description": null,
+		"lastUpdateDate": "2016-02-09T09:44:11.000+0000",
+		"parentCategory": {
+			"id": 38,
+			"name": "Test Tool",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [210],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Test Tool",
+		"materialPropertiesList": []
+	}, {
+		"id": 42,
+		"name": "ToolBox",
+		"description": "",
+		"lastUpdateDate": "2016-02-22T17:11:28.000+0000",
+		"parentCategory": {
+			"id": 2,
+			"name": "Accessory",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Accessory",
+		"materialPropertiesList": []
+	}, {
+		"id": 44,
+		"name": "Consummable",
+		"description": "",
+		"lastUpdateDate": "2016-03-11T15:16:55.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [{
+			"id": 48,
+			"name": "Screw",
+			"description": "",
+			"lastUpdateDate": "2016-03-11T16:19:26.000+0000",
+			"parentCategory": {
+				"id": 44,
+				"name": "Consummable",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [408, 407],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Consummable",
+			"materialPropertiesList": []
+		}, {
+			"id": 45,
+			"name": "Washers",
+			"description": "",
+			"lastUpdateDate": "2016-03-11T16:22:12.000+0000",
+			"parentCategory": {
+				"id": 44,
+				"name": "Consummable",
+				"description": null,
+				"lastUpdateDate": null,
+				"parentCategory": null,
+				"subCategoryList": [],
+				"productReferenceIdList": [],
+				"picture": null,
+				"path": null,
+				"materialPropertiesList": []
+			},
+			"subCategoryList": [],
+			"productReferenceIdList": [404],
+			"picture": {
+				"pictureName": "",
+				"thumbnailName": "",
+				"pictureSourceType": null,
+				"pictureSourceId": 0
+			},
+			"path": "Catégorie/Consummable",
+			"materialPropertiesList": []
+		}],
+		"productReferenceIdList": [415],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}, {
+		"id": 45,
+		"name": "Washers",
+		"description": "",
+		"lastUpdateDate": "2016-03-11T16:22:12.000+0000",
+		"parentCategory": {
+			"id": 44,
+			"name": "Consummable",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [404],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Consummable",
+		"materialPropertiesList": []
+	}, {
+		"id": 47,
+		"name": "Mecanical Torque Wrench",
+		"description": "",
+		"lastUpdateDate": "2016-03-11T15:28:45.000+0000",
+		"parentCategory": {
+			"id": 35,
+			"name": "Torque Wrench",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [186, 187, 200, 195, 194],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Torque Wrench",
+		"materialPropertiesList": []
+	}, {
+		"id": 48,
+		"name": "Screw",
+		"description": "",
+		"lastUpdateDate": "2016-03-11T16:19:26.000+0000",
+		"parentCategory": {
+			"id": 44,
+			"name": "Consummable",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [408, 407],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Consummable",
+		"materialPropertiesList": []
+	}, {
+		"id": 51,
+		"name": "Ammeter",
+		"description": "",
+		"lastUpdateDate": "2016-04-15T08:39:06.000+0000",
+		"parentCategory": {
+			"id": 22,
+			"name": "Metrology",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [423],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie/Metrology",
+		"materialPropertiesList": []
+	}, {
+		"id": 52,
+		"name": "Demo",
+		"description": "",
+		"lastUpdateDate": "2016-05-20T08:54:21.000+0000",
+		"parentCategory": {
+			"id": 1,
+			"name": "Catégorie",
+			"description": null,
+			"lastUpdateDate": null,
+			"parentCategory": null,
+			"subCategoryList": [],
+			"productReferenceIdList": [],
+			"picture": null,
+			"path": null,
+			"materialPropertiesList": []
+		},
+		"subCategoryList": [],
+		"productReferenceIdList": [429],
+		"picture": {
+			"pictureName": "",
+			"thumbnailName": "",
+			"pictureSourceType": null,
+			"pictureSourceId": 0
+		},
+		"path": "Catégorie",
+		"materialPropertiesList": []
+	}]
+}

@@ -1,0 +1,46 @@
+
+
+.x-tabbar .x-tab {
+    .x-button-icon {
+        text-align: center;
+        &:before {
+            font-family: FontAwesome;
+            font-size: 1.2em;
+            line-height: 1.2em;
+            vertical-align: middle;
+        }
+    }
+
+    &.x-tab-icon .x-button-label {
+        padding: 0;
+        top: 0;
+        vertical-align: middle;
+    }
+}
+
+
+
+.icon-menu-dashboard { 
+    background-image: images/icons/128/icon_dashboard_off.png;
+    background-size: contain;
+}
+
+.icon-menu-settings { 
+    background-image: images/icons/128/icon_settings_off.png;
+    background-size: contain;
+}
+
+.icon-menu-search { 
+    background-image: images/icons/128/icon_search_off.png;
+    background-size: contain;
+}
+
+.icon-menu-administration { 
+    background-image: images/icons/128/icon_administration_off.png;
+    background-size: contain;
+}
+
+.icon-menu-notifications { 
+    background-image: images/icons/128/icon_notification_off.png;
+    background-size: contain;
+}
