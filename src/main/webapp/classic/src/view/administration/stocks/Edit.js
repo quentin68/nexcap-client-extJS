@@ -131,7 +131,26 @@ Ext.define('Dashboard.view.administration.stocks.Edit', {
                     fieldLabel: getText('Safe threshold'),
                     anchor: '50%',
                     allowBlank: false,
-                    minValue: 0
+                    minValue: 0,
+                    blankText : getText('At least one threshold must be filled'),
+                                validator: function (value) {
+                                    var secuValue = parseInt(value, 10);
+                                    var minValItem = Ext.ComponentQuery.query('[name=minLevel]');
+                                    var thisField = Ext.ComponentQuery.query('[name=secuLevel]');
+                                    thisField = thisField[thisField.length - 1];
+                                    thisField.setValue(secuValue);
+                                    
+                                    minValItem = minValItem[minValItem.length - 1];
+                                    var minValue = parseInt(minValItem.getRawValue(), 10);
+                                    
+                                    minValItem.clearInvalid();
+                                    thisField.clearInvalid();
+                                    // No problem with bounderies
+                                    if (isNaN(secuValue) || isNaN(secuValue)) {
+                                        return true;
+                                    }
+                                    return (secuValue >= minValue) ? true : getText('Min value can\'t be greater than Secu value');
+                                }
                 },
 			
 			{	

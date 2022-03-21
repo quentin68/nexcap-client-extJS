@@ -368,28 +368,38 @@ Ext.define('Dashboard.view.shared.viewList.Grid', {
                 }
                 return '';
             } else {
-                var isGreen = null;
-
                 switch (entityName) {
                     case 'administration.Stocks' :
-                        isGreen = record.data.levelIsCorrect;
-                        break;
-                    case 'historic.Check' :
-                        isGreen = record.data.isRight;
-                        break;
-                    case 'system.Device' :
-                        isGreen = record.data.authorized;
-                        break;
-                }
-
-                if (isGreen !== null) {
-                    if (isGreen) {
-                        return 'greenRow'; // css class
-                    } else {
-                        return 'redRow'; // css class
-                    }
-                }
-            }
+	                    var minLevel = record.data.minLevel;
+	                    var maxLevel = record.data.maxLevel;
+	                    var secuLevel = record.data.secuLevel;
+	                    var quantity = parseInt(record.data.quantity, 10);
+	                    var address =  record.data.address;
+	                    var adressValid = record.data.valid;
+	                    console.log(address);
+	                    console.log(adressValid);
+	              		 if(address!=null && address!=="" && !adressValid)
+	                		return 'blueRow';
+	                	if((minLevel ==null && maxLevel ==null && secuLevel ==null) ||  minLevel<secuLevel && secuLevel<quantity && quantity<maxLevel)                    
+	                    	 return 'greenRow';
+	                   	else  if(minLevel!=null && maxLevel!=null && secuLevel!=null)
+						{
+	                   		if(minLevel<quantity && quantity<secuLevel && secuLevel<maxLevel)
+	                   		 	return 'yellowRow';
+	                   		else if(quantity<minLevel || maxLevel<quantity)
+	                   		 	return 'redRow'              
+	                	}
+					break;
+                
+                case 'historic.Check' :
+                    isGreen = record.data.isRight;
+                    break;
+                case 'system.Device' :
+                    isGreen = record.data.authorized;
+                    break;
+			                }
+			
+			            }
             return '';
         } catch (ex) {
             Dashboard.tool.Utilities.info('[ViewList.Grid.getRowColorClass] error : ' + ex);

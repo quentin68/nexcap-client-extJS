@@ -23,13 +23,14 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
     referencesStore: null,
 
     initComponent: function (){
-
+	console.log("ini");
         this.title = getText('Create a stock level monitoring');
 
         this.categoriesStore = Ext.create('Dashboard.store.Categories', {
             autoLoad: false
         });
 
+		console.log( this.categoriesStore);
         this.referencesStore = Ext.create('Dashboard.store.References', {
             autoLoad: false,
             listeners: {
@@ -62,6 +63,8 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
                     xtype: 'autocompleteComboBox',
                     name: 'productCategory',
                     fieldLabel: getText('Category'),
+                    id: 'productCategoryBox',
+                    forceSelection:false,
                     displayField: 'name',
                     valueField: 'id',
                     allowBlank: false,
@@ -96,6 +99,7 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
                     xtype: 'autocompleteComboBox',
                     name: 'productReferenceId',
                     fieldLabel: getText('Reference'),
+                    id: 'productReferenceBox',
                     displayField: 'referenceCode',
                     queryParam: false, // to remove param "query"
                     valueField: 'id',
@@ -195,7 +199,25 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
                     fieldLabel: getText('Safe threshold'),
                     anchor: '50%',
                     allowBlank: false,
-                    minValue: 0
+                    minValue: 0,
+                    validator: function (value) {
+                                    var secuValue = parseInt(value, 10);
+                                    var minValItem = Ext.ComponentQuery.query('[name=minLevel]');
+                                    var thisField = Ext.ComponentQuery.query('[name=secuLevel]');
+                                    thisField = thisField[thisField.length - 1];
+                                    thisField.setValue(secuValue);
+                                    
+                                    minValItem = minValItem[minValItem.length - 1];
+                                    var minValue = parseInt(minValItem.getRawValue(), 10);
+                                    
+                                    minValItem.clearInvalid();
+                                    thisField.clearInvalid();
+                                    // No problem with bounderies
+                                    if (isNaN(secuValue) || isNaN(secuValue)) {
+                                        return true;
+                                    }
+                                    return (secuValue >= minValue) ? true : getText('Min value can\'t be greater than Secu value');
+                                }
                 }
                 ]
         };
@@ -242,10 +264,8 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
      * @argument {comboBox} ctrl ComboBox
      */
     updateComboBox: function (ctrl){
-        var productCategoryCombo = Ext.ComponentQuery.query('combobox[name=productCategory]')[0];
-        var productReferenceCombo = Ext.ComponentQuery.query('combobox[name=productReferenceId]')[0];
-        // var addressCombo = Ext.ComponentQuery.query('combobox[name=locationId]')[0];
-
+        var productCategoryCombo = Ext.getCmp('productCategoryBox');
+        var productReferenceCombo = Ext.getCmp('productReferenceBox');
         switch (ctrl.name) {
             // Filter productReference combo box depending on category selected
             case 'productCategory':
@@ -270,6 +290,11 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
                 // Fill category if refrence selected 
                 var referenceId = productReferenceCombo.getValue();
                 var reference = productReferenceCombo.findRecordByValue(referenceId).data;
+                var categ = {
+        			id : reference.productCategory.id,
+        			name : reference.productCategory.name
+    			};
+                this.categoriesStore.add(categ);
                 productCategoryCombo.setValue(reference.productCategory.id);
                 break;
         }

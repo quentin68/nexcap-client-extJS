@@ -2085,7 +2085,12 @@ Ext.define('Dashboard.store.locale.TranslationsFR', {
         }, {
             "msgid": "Min value can't be greater than Max value",
             "msgstr": "La valeur minimale ne peut pas être supérieure à la valeur maximale"
-        }, {
+        },       
+        {
+            "msgid": "Min value can't be greater than Secu value",
+            "msgstr": "La valeur minimale ne peut pas être supérieure à la valeur de sécurité"
+        },
+         {
             "msgid": "Are you sure?",
             "msgstr": "Etes-vous certain ?"
         }, {
