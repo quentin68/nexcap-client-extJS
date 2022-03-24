@@ -18,7 +18,7 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
     iconCls: 'fa fa-battery-half',
 
     record: null,
-    locationsStore: null,
+    addressStore: null,
     categoriesStore: null,
     referencesStore: null,
 
@@ -42,7 +42,7 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
             }
         });
 
-        this.locationsStore = Ext.create('Dashboard.store.administration.Locations', {
+        this.addressStore = Ext.create('Dashboard.store.Addresses', {
             autoLoad: true
         });
 
@@ -121,12 +121,12 @@ Ext.define('Dashboard.view.administration.stocks.Create', {
                     xtype: 'autocompleteComboBox',
                     name: 'address',
                     fieldLabel: getText('Address'),
-                    displayField: 'address',
+                    displayField: 'name',
                     queryParam: false,
-                    valueField: 'address',
+                    valueField: 'name',
                     allowBlank: false,
-                    requires: ['Dashboard.store.administration.Locations'],
-                    store: this.locationsStore,
+                    requires: ['Dashboard.store.Addresses'],
+                    store: this.addressStore,
                     listeners: {
                         scope: this,
                         "select": function (ctrl, evt){

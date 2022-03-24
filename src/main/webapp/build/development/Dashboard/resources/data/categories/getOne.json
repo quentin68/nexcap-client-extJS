@@ -1,0 +1,59 @@
+{
+    "success": true,
+    "userMessage": "ACTION_WELL_COMPUTED",
+    "data":{
+        "id": 333,
+        "name": "Table",
+        "description": "Avec propriétés",
+        "lastUpdateDate": "2016-08-18T04:33:33.000+0000",
+        "parentCategory": {
+                "id": 17,
+                "name": "Monture",
+                "description": null,
+                "lastUpdateDate": null,
+                "parentCategory": null,
+                "subCategoryList": [],
+                "productReferenceIdList": [],
+                "picture": null,
+                "path": null,
+                "materialPropertiesList": []
+        },
+        "subCategoryList": [],
+        "productReferenceIdList": [],
+        "picture": {
+                "pictureName": "",
+                "thumbnailName": "",
+                "pictureSourceType": null,
+                "pictureSourceId": 0
+        },
+        "path": "Catégorie/Monture",
+        "materialPropertiesList": [{
+                "id": 29,
+                "name": "Longueur",
+                "label": "Longueur",
+                "type": "FLOAT",
+                "control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Longueur\",\"fieldLabel\":\"Longueur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1618-inputEl\":\"\"}}",
+                "options": [],
+                "editable": true,
+                "displayed": true
+        }, {
+                "id": 30,
+                "name": "Largeur",
+                "label": "Largeur",
+                "type": "FLOAT",
+                "control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Largeur\",\"fieldLabel\":\"Largeur\",\"description\":\"super\",\"width\":142,\"minValue\":42,\"maxValue\":84,\"step\":2,\"allowDecimals\":false,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"references\",\"isEditable\":false,\"isDisplayed\":true,\"enabledInTables\":false,\"enabledInDetails\":true,\"enabledInFilters\":false,\"enabledInControls\":true,\"ux-numberfield-1677-inputEl\":\"\"}}",
+                "options": [],
+                "editable": true,
+                "displayed": true
+        }, {
+                "id": 31,
+                "name": "Couleur",
+                "label": "Couleur",
+                "type": "STRING",
+                "control": "{\"field\":{\"fieldType\":\"tagfield\",\"name\":\"Couleur\",\"fieldLabel\":\"Couleur\",\"description\":\"\",\"width\":266,\"itemValues\":[\"Rouge\",\"Bleu\",\"Vert\",\"Kaki\",\"Cuisse de nymphe \\u00e9mue\"],\"dataType\":\"STRING\",\"vtype\":null},\"configuration\":{\"controlType\":\"combobox\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-combo-2050-inputEl\":\"\"}}",
+                "options": [],
+                "editable": true,
+                "displayed": true
+        }]
+    }
+}

@@ -392,9 +392,9 @@ Ext.define('Dashboard.manager.MainMenuManager', {
             	else {
                	 	token = Dashboard.manager.authentication.MyAtService.getReferenceAccessToken();
             	}               
-             	window.location.href='http://127.0.0.1:8081?token=' +token;
-                /*this.currentFeature = Dashboard.manager.FeaturesManager.setCurrentFeature('ALERT_CONFIG_ADMIN');
-                Dashboard.manager.settings.AlertsConfigManager.loadConfiguration(this.currentFeature, true);*/
+             	//window.location.href='http://127.0.0.1:8081?token=' +token;
+                this.currentFeature = Dashboard.manager.FeaturesManager.setCurrentFeature('ALERT_CONFIG_ADMIN');
+                Dashboard.manager.settings.AlertsConfigManager.loadConfiguration(this.currentFeature, true);
                 break;
                 
   /*          case 'show_system_items_alerts':

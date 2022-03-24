@@ -1,0 +1,4501 @@
+{
+	"success": true,
+	"total": 418,
+	"data": [{
+		"id": 1,
+		"name": "Drill Box #1",
+		"code": "313536353435302D31434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "cool",
+		"useDate": null,
+		"status": "",
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}],
+		"alerts": [{
+			"id": 850,
+			"startDate": "2016-03-24 01:00:01",
+			"control": 3,
+			"material": 1,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 424,
+			"startDate": "2016-03-14 09:42:48",
+			"control": 6,
+			"material": 1,
+			"user": 1,
+			"operationNumber": 12,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 6,
+			"controlName": "Matériel hors service",
+			"controlDescription": "Matériel hors service",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Edition d'un matériel",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Poids": null,
+		"Couleur": null,
+		"Date time": null,
+		"Description longue": null,
+		"Longueur": null,
+		"Est pucé": "false",
+		"T'es content ? ": "false",
+		"Hauteur": null,
+		"toto": null,
+		"Date d'adoption": null,
+
+
+
+
+		"Date simple": null,
+		"Largeur": null
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}, {
+		"id": 2,
+		"name": "Drill Box #2 yes",
+		"code": "313431343834362D31434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 2,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Longueur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 867,
+			"startDate": "2016-04-01 01:00:08",
+			"control": 3,
+			"material": 2,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 855,
+			"startDate": "2016-03-31 12:00:00",
+			"control": 4,
+			"material": 2,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 4,
+			"controlName": "Emprunt - Date d'étalonnage dépassée",
+			"controlDescription": "Emprunt - Date d'étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 524,
+			"startDate": "2016-03-21 15:00:00",
+			"control": 12,
+			"material": 2,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 525,
+			"startDate": "2016-03-21 15:00:00",
+			"control": 12,
+			"material": 2,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": true,
+			"acknowledger": 21,
+			"acknowledgmentDate": "2016-04-12 11:46:28",
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": "yannickl"
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Hauteur": null,
+		"Date time": null,
+		"Poids": null,
+
+		"Longueur": null,
+		"Date d'adoption": null,
+		"T'es content ? ": "false",
+
+		"toto": null,
+		"Largeur": null,
+
+
+		"Couleur": null,
+		"Date simple": null,
+
+
+
+
+		"Est pucé": "false",
+		"Description longue": null
+
+
+
+
+	}, {
+		"id": 3,
+		"name": "Drill Box #3",
+		"code": "534E3230303431312D320004",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 3,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Poids",
+			"value": null
+		}, {
+			"name": "Couleur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Est pucé",
+			"value": "false"
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Description longue",
+			"value": ""
+		}, {
+			"name": "Date time",
+			"value": " "
+		}, {
+			"name": "T'es content ? ",
+			"value": "false"
+		}, {
+			"name": "Date simple",
+			"value": ""
+		}, {
+			"name": "Date d'adoption",
+			"value": ""
+		}],
+		"alerts": [{
+			"id": 868,
+			"startDate": "2016-04-01 01:00:09",
+			"control": 3,
+			"material": 3,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 857,
+			"startDate": "2016-03-31 12:00:00",
+			"control": 4,
+			"material": 3,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": true,
+			"acknowledger": 8,
+			"acknowledgmentDate": "2016-04-06 10:53:34",
+			"controlNumber": 4,
+			"controlName": "Emprunt - Date d'étalonnage dépassée",
+			"controlDescription": "Emprunt - Date d'étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": "operator"
+		}, {
+			"id": 526,
+			"startDate": "2016-03-21 15:00:00",
+			"control": 12,
+			"material": 3,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 527,
+			"startDate": "2016-03-21 15:00:00",
+			"control": 12,
+			"material": 3,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": true,
+			"acknowledger": 17,
+			"acknowledgmentDate": "2016-04-05 13:49:58",
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": "slafoy06"
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Longueur": null
+
+	}, {
+		"id": 4,
+		"name": "Drill Box #4",
+		"code": "313235363639302D33434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpeg",
+		"thumbnailName": "thumbnail.jpeg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 4,
+		"specificChecks": [],
+		"properties": [{
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}],
+		"alerts": [{
+			"id": 529,
+			"startDate": "2016-03-21 15:00:00",
+			"control": 12,
+			"material": 4,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": true,
+			"acknowledger": 1,
+			"acknowledgmentDate": "2016-04-07 14:56:05",
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": "admin"
+		}, {
+			"id": 528,
+			"startDate": "2016-03-21 15:00:00",
+			"control": 12,
+			"material": 4,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 1498,
+			"startDate": "2016-05-23 01:00:08",
+			"control": 3,
+			"material": 4,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 1497,
+			"startDate": "2016-05-23 00:00:00",
+			"control": 4,
+			"material": 4,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 4,
+			"controlName": "Emprunt - Date d'étalonnage dépassée",
+			"controlDescription": "Emprunt - Date d'étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"toto": null,
+		"Hauteur": null,
+		"Largeur": null,
+		"Longueur": null
+	}, {
+		"id": 5,
+		"name": "Drill Box #5",
+		"code": "313030363930312D31434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 5,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 1511,
+			"startDate": "2016-06-18 01:00:10",
+			"control": 3,
+			"material": 5,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Hauteur": null,
+		"Largeur": null
+	}, {
+		"id": 6,
+		"name": "Drill Box #6",
+		"code": "313031343734342D36434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 6,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Hauteur": null,
+		"toto": null
+	}, {
+		"id": 7,
+		"name": "Drill Box #7",
+		"code": "534E3230303532332D31434D",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.JPG",
+		"thumbnailName": "thumbnail.JPG",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 7,
+		"specificChecks": [],
+		"properties": [{
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 1514,
+			"startDate": "2016-06-19 01:00:06",
+			"control": 3,
+			"material": 7,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"toto": null,
+		"Longueur": null,
+		"Hauteur": null,
+		"Largeur": null
+	}, {
+		"id": 8,
+		"name": "Drill Box #8",
+		"code": "313030303635332D32434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 8,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 531,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 8,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 530,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 8,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": true,
+			"acknowledger": 17,
+			"acknowledgmentDate": "2016-03-22 12:07:21",
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": "slafoy06"
+		}, {
+			"id": 1512,
+			"startDate": "2016-06-19 00:00:00",
+			"control": 4,
+			"material": 8,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 4,
+			"controlName": "Emprunt - Date d'étalonnage dépassée",
+			"controlDescription": "Emprunt - Date d'étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 1515,
+			"startDate": "2016-06-19 01:00:06",
+			"control": 3,
+			"material": 8,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Hauteur": null,
+		"toto": null,
+		"Longueur": null
+	}, {
+		"id": 9,
+		"name": "Drill Box #9",
+		"code": "313138393637362D3233434D",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 9,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}],
+		"alerts": [{
+			"id": 533,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 9,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 1495,
+			"startDate": "2016-05-17 00:00:00",
+			"control": 4,
+			"material": 9,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 4,
+			"controlName": "Emprunt - Date d'étalonnage dépassée",
+			"controlDescription": "Emprunt - Date d'étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 532,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 9,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 1496,
+			"startDate": "2016-05-17 01:00:06",
+			"control": 3,
+			"material": 9,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Hauteur": null,
+		"toto": null,
+		"Largeur": null
+	}, {
+		"id": 10,
+		"name": "Drill Box #10",
+		"code": "313239343637332D31430002",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 215,
+		"locationId": null,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 10,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 535,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 10,
+			"user": 6,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "test 01",
+			"productReferenceDesignation": "test 01",
+			"userSticker": "droques",
+			"acknowledgerSticker": null
+		}, {
+			"id": 534,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 10,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "test 01",
+			"productReferenceDesignation": "test 01",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 1516,
+			"startDate": "2016-06-19 01:00:06",
+			"control": 3,
+			"material": 10,
+			"user": 1,
+			"operationNumber": 13,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 3,
+			"controlName": "Date d’étalonnage dépassée",
+			"controlDescription": "Date d’étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": false,
+			"operationName": "Changement de jour",
+			"productCategoryName": "Material",
+			"productReferenceCode": "test 01",
+			"productReferenceDesignation": "test 01",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}, {
+			"id": 1513,
+			"startDate": "2016-06-19 00:00:00",
+			"control": 4,
+			"material": 10,
+			"user": 6,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 4,
+			"controlName": "Emprunt - Date d'étalonnage dépassée",
+			"controlDescription": "Emprunt - Date d'étalonnage dépassée",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "test 01",
+			"productReferenceDesignation": "test 01",
+			"userSticker": "droques",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "test 01",
+		"productReferenceDesignation": "test 01",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": null,
+		"locationPath": null,
+		"address": null,
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": null,
+		"productReference": 215,
+		"assignedLocation": 1,
+		"Largeur": null
+	}, {
+		"id": 11,
+		"name": "Drill Box #11",
+		"code": "313336383035392D3130434D",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 11,
+		"specificChecks": [],
+		"properties": [{
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 537,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 11,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 536,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 11,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"toto": null
+	}, {
+		"id": 12,
+		"name": "Drill Box #12",
+		"code": "313239343637302D31434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpeg",
+		"thumbnailName": "thumbnail.jpeg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 12,
+		"specificChecks": [],
+		"properties": [{
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 539,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 12,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 538,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 12,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"toto": null,
+		"Hauteur": null,
+		"Longueur": null,
+		"Largeur": null
+	}, {
+		"id": 13,
+		"name": "Drill Box #13",
+		"code": "313431383531352D34434D00",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.PNG",
+		"thumbnailName": "thumbnail.PNG",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 13,
+		"specificChecks": [],
+		"properties": [{
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}],
+		"alerts": [{
+			"id": 541,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 13,
+			"user": 8,
+			"operationNumber": 0,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Emprunt",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "operator",
+			"acknowledgerSticker": null
+		}, {
+			"id": 540,
+			"startDate": "2016-03-21 15:00:01",
+			"control": 12,
+			"material": 13,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"toto": null,
+		"Largeur": null,
+		"Hauteur": null,
+		"Longueur": null
+	}, {
+		"id": 14,
+		"name": "Metal Chisel #1",
+		"code": "E20092012052500000000790",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:39:49",
+		"lastActionUpdateDate": "2016-04-13 10:43:26",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 20,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 14,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 15,
+		"name": "Metal Chisel #2",
+		"code": "2011122584730200010104BA",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 10:52:11",
+		"lastActionUpdateDate": "2016-04-12 10:51:19",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 6,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 15,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 16,
+		"name": "Handel air drill #1",
+		"code": "300000000000000000000CA3",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 17:58:47",
+		"lastActionUpdateDate": "2016-04-13 18:02:14",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 8,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 16,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 17,
+		"name": "Handel air drill #2",
+		"code": "300000000000000000000CA2",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 17:58:47",
+		"lastActionUpdateDate": "2016-04-13 18:02:14",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 8,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 17,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 18,
+		"name": "Magnet Rod",
+		"code": null,
+		"codeType": null,
+		"lastUpdateDate": "2016-01-21 09:10:16",
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 18,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 19,
+		"name": "Metal Chisel 3734N",
+		"code": "E200920120528AF000001058",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:39:49",
+		"lastActionUpdateDate": "2016-04-13 10:43:26",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 18,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 19,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 20,
+		"name": "Wire Brush #1",
+		"code": "201503278615040002A601AF",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:39:49",
+		"lastActionUpdateDate": "2016-04-13 10:43:26",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 24,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 20,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 21,
+		"name": "Wire Brush #2",
+		"code": "201503278615040002A601A0",
+		"codeType": "RFID_TAG",
+		"lastUpdateDate": "2016-04-08 15:34:00",
+		"lastActionUpdateDate": "2016-04-08 15:37:14",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 5,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1198,
+			"startDate": "2016-04-09 17:00:00",
+			"control": 12,
+			"material": 21,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 22,
+		"name": "Cutter",
+		"code": "E20092012052500000000724",
+		"codeType": null,
+		"lastUpdateDate": "2016-03-11 17:06:20",
+		"lastActionUpdateDate": "2016-03-11 17:04:37",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 4,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 23,
+		"name": "Hacksaw 317",
+		"code": "20150317861104000102006E",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:39:49",
+		"lastActionUpdateDate": "2016-04-13 10:43:26",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 18,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 24,
+		"name": "Wire Cutter 2744",
+		"code": "201404078615020001020079",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:39:49",
+		"lastActionUpdateDate": "2016-04-13 10:43:26",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 8,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 25,
+		"name": "Inspection lamp LED",
+		"code": "20120910861803000102033B",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 09:53:13",
+		"lastActionUpdateDate": "2016-04-12 09:56:45",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 6,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 26,
+		"name": "Adjustable Wrench 10\"\"#1\"",
+		"code": "E20092012011600000001219",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 10:52:08",
+		"lastActionUpdateDate": "2016-04-12 10:51:17",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 16,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 27,
+		"name": "\"Adjustable Wrench 10\"\"#2\"",
+		"code": "E20092012011600000001093",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:41:56",
+		"lastActionUpdateDate": "2016-04-13 10:45:33",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 15,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 28,
+		"name": "\"Adjustable Wrench 12\"\"\"",
+		"code": "E20092012011600000002460",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:41:56",
+		"lastActionUpdateDate": "2016-04-13 10:45:33",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 13,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 29,
+		"name": "\"Adjustable Wrench 6\"\"#1\"",
+		"code": "E2009A4060044AF000000675",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:41:56",
+		"lastActionUpdateDate": "2016-04-13 10:45:33",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 13,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 30,
+		"name": "\"Adjustable Wrench 6\"\"#2\"",
+		"code": "E2002077040502522070423A",
+		"codeType": null,
+		"lastUpdateDate": "2016-03-11 17:06:24",
+		"lastActionUpdateDate": "2016-03-11 17:05:48",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 2,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 31,
+		"name": "\"Adjustable Wrench 6\"\"#3\"",
+		"code": "E2009A3110010AF000006412",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 16:57:37",
+		"lastActionUpdateDate": "2016-04-12 17:01:11",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 14,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1296,
+			"startDate": "2016-04-19 09:00:03",
+			"control": 12,
+			"material": 31,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 32,
+		"name": "\"Adjustable Wrench 6\"\"#4\"",
+		"code": "E2002077040502141140A507",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 16:57:37",
+		"lastActionUpdateDate": "2016-04-12 17:01:11",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 17,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1297,
+			"startDate": "2016-04-19 09:00:03",
+			"control": 12,
+			"material": 32,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 33,
+		"name": "\"Adjustable Wrench 6\"\"#5\"",
+		"code": "E2002077040502302520171C",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:41:56",
+		"lastActionUpdateDate": "2016-04-13 10:45:33",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 9,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 34,
+		"name": "\"Adjustable Wrench 6\"\"#6\"",
+		"code": "E2002077040501450860C1DF",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 16:57:37",
+		"lastActionUpdateDate": "2016-04-12 17:01:11",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 16,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1298,
+			"startDate": "2016-04-19 09:00:03",
+			"control": 12,
+			"material": 34,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 35,
+		"name": "Box End Wrench 2/8\" 7/16\"",
+		"code": "2012050286110000010200F1",
+		"codeType": null,
+		"lastUpdateDate": "2016-03-11 16:02:17",
+		"lastActionUpdateDate": "2016-03-11 16:01:43",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 1,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 35,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 36,
+		"name": "Combination Wrench 1\" #1",
+		"code": "E20092012052500000000559",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:41:56",
+		"lastActionUpdateDate": "2016-04-13 10:45:33",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 13,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 37,
+		"name": "Combination Wrench 1/2\"",
+		"code": "2013020186050400010203FB",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 11:01:05",
+		"lastActionUpdateDate": "2016-04-13 11:04:30",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 10,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 37,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 38,
+		"name": "Combination Wrench 10",
+		"code": "201409198605060001050177",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 10:41:56",
+		"lastActionUpdateDate": "2016-04-13 10:45:33",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 13,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 39,
+		"name": "Combination Wrench 11",
+		"code": "201311288611030001020027",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 11:01:05",
+		"lastActionUpdateDate": "2016-04-13 11:04:30",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 10,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 40,
+		"name": "Combination Wrench 12 #1",
+		"code": "20140321860503000101001E",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 16:57:37",
+		"lastActionUpdateDate": "2016-04-12 17:01:11",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 22,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1301,
+			"startDate": "2016-04-19 09:00:03",
+			"control": 12,
+			"material": 40,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 41,
+		"name": "Combination Wrench 12 #2",
+		"code": "201310288611030001020002",
+		"codeType": null,
+		"lastUpdateDate": "2016-02-10 17:14:50",
+		"lastActionUpdateDate": "2016-02-10 17:14:30",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 1,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 42,
+		"name": "Combination Wrench 13 #1",
+		"code": "201310288611030001020016",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 11:01:05",
+		"lastActionUpdateDate": "2016-04-13 11:04:30",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 18,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 43,
+		"name": "Combination Wrench 13 #2",
+		"code": "201209108611030001040192",
+		"codeType": null,
+		"lastUpdateDate": "2016-01-21 10:59:25",
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 44,
+		"name": "Combination Wrench 13 #3",
+		"code": "E20092012052500000000941",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 16:57:37",
+		"lastActionUpdateDate": "2016-04-12 17:01:11",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 10,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1303,
+			"startDate": "2016-04-19 09:00:04",
+			"control": 12,
+			"material": 44,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 45,
+		"name": "Combination Wrench 13/16\"",
+		"code": "2013020186050400010201AA",
+		"codeType": null,
+		"lastUpdateDate": null,
+		"lastActionUpdateDate": null,
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 0,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": "",
+		"useDate": null,
+		"status": null,
+		"pictureName": "picture.jpg",
+		"thumbnailName": "thumbnail.jpg",
+		"pictureSourceType": "MATERIAL",
+		"pictureSourceId": 45,
+		"specificChecks": [],
+		"properties": [{
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "Longueur",
+			"value": null
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "toto",
+			"value": ""
+		}, {
+			"name": "Largeur",
+			"value": null
+		}, {
+			"name": "Hauteur",
+			"value": null
+		}, {
+			"name": "Largeur",
+			"value": null
+		}],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1,
+		"Hauteur": null,
+		"Longueur": null
+	}, {
+		"id": 46,
+		"name": "Combination Wrench 14 #1",
+		"code": "20131028861103000102003D",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 11:01:05",
+		"lastActionUpdateDate": "2016-04-13 11:04:30",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 12,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 47,
+		"name": "Combination Wrench 14 #2",
+		"code": "201209108611030001040018",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 16:57:37",
+		"lastActionUpdateDate": "2016-04-12 17:01:11",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 9,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1306,
+			"startDate": "2016-04-19 09:00:04",
+			"control": 12,
+			"material": 47,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 48,
+		"name": "Combination Wrench 15 #1",
+		"code": "20131028861103000102003B",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 11:01:05",
+		"lastActionUpdateDate": "2016-04-13 11:04:30",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 17,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 49,
+		"name": "Combination Wrench 15 #2",
+		"code": "2013112886110300010200A6",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-13 11:01:05",
+		"lastActionUpdateDate": "2016-04-13 11:04:30",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 10,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}, {
+		"id": 50,
+		"name": "Combination Wrench 16",
+		"code": "E20092012052500000000441",
+		"codeType": null,
+		"lastUpdateDate": "2016-04-12 16:57:37",
+		"lastActionUpdateDate": "2016-04-12 17:01:11",
+		"productReferenceId": 1,
+		"locationId": 1,
+		"assignedLocationId": 1,
+		"useCount": 10,
+		"availabilityDate": null,
+		"calibrationDate": null,
+		"verificationFrequency": 0,
+		"description": null,
+		"useDate": null,
+		"status": null,
+		"pictureName": "string",
+		"thumbnailName": "string",
+		"pictureSourceType": "PRODUCT_REFERENCE",
+		"pictureSourceId": 1,
+		"specificChecks": [],
+		"properties": [],
+		"alerts": [{
+			"id": 1309,
+			"startDate": "2016-04-19 09:00:04",
+			"control": 12,
+			"material": 50,
+			"user": 1,
+			"operationNumber": 15,
+			"isAcknowledged": false,
+			"acknowledger": -1,
+			"acknowledgmentDate": null,
+			"controlNumber": 12,
+			"controlName": "Emprunt - Délai dépassé",
+			"controlDescription": "Emprunt - Délai dépassé",
+			"alertLevel": 2,
+			"raisedByOnGoingOp": true,
+			"operationName": "Changement d'heure",
+			"productCategoryName": "Material",
+			"productReferenceCode": "DB-1",
+			"productReferenceDesignation": "Drill box 1",
+			"userSticker": "admin",
+			"acknowledgerSticker": null
+		}],
+		"productReferenceCode": "DB-1",
+		"productReferenceDesignation": "Drill box 1",
+		"productCategoryId": 3,
+		"productCategoryName": "Material",
+		"locationName": "Desk Showroom",
+		"locationPath": "Nexess",
+		"address": "Nexess/Desk Showroom",
+		"assignedAddress": "Nexess/Desk Showroom",
+		"assignedLocationName": "Desk Showroom",
+		"actorSticker": null,
+		"userSticker": null,
+		"sourceAddress": null,
+		"destinationPath": null,
+		"recipient": null,
+		"files": [],
+		"interventionOrderNumber": "",
+		"interventionOrderLabel": "",
+		"sendingNumber": "",
+		"operationType": null,
+		"operationTypeEnum": null,
+		"operationDate": null,
+		"destinationAddress": null,
+		"location": 1,
+		"productReference": 1,
+		"assignedLocation": 1
+	}],
+	"alerts": [],
+	"report": []
+}

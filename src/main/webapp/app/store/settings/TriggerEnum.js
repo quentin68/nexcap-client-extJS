@@ -92,7 +92,23 @@ Ext.define('Dashboard.store.settings.TriggerEnum', {
         id: 20,
         name: 'EDIT_MATERIAL',
         description: getText('Edit a material sheet')
+      },
+      {
+        id: 21,
+        name: 'CREATE_STOCK',
+        description: getText('Create a stock level')
+      },
+            {
+        id: 22,
+        name: 'UPDATE_STOCK',
+        description: getText('Edit a stock level')
+      },
+            {
+        id: 23,
+        name: 'DELETE_STOCK',
+        description: getText('Delete a stock level')
       }
+
 
 
 

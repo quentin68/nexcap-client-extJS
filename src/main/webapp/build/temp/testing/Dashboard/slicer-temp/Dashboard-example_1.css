@@ -371,7 +371,7 @@ $panel-header-color : $db-color-extra-light;*/
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/packages/core/sass/src/list/TreeItem.scss:244 */
 .x-treelist-item-text {
-    color: #878ea2;
+    color: #000;
     margin-left: 22px;
     margin-right: 18px;
     font-size: 13px;
@@ -413,7 +413,7 @@ $panel-header-color : $db-color-extra-light;*/
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/packages/core/sass/src/list/TreeItem.scss:322 */
 .x-treelist-item-floated > .x-treelist-row-over > * > .x-treelist-item-text {
-    color: #878ea2;
+    color: #000;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/packages/core/sass/src/list/TreeItem.scss:335 */
 .x-treelist-item-expanded > .x-treelist-item-expander:after {
@@ -432,7 +432,7 @@ $panel-header-color : $db-color-extra-light;*/
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/packages/core/sass/src/list/TreeItem.scss:350 */
 &.x-treelist-highlight-path .x-treelist-item-over > * > * > .x-treelist-item-text {
-    color: #878ea2;
+    color: #000;
     transition: color 0.5s;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/packages/core/sass/src/list/TreeItem.scss:354 */
@@ -451,7 +451,7 @@ $panel-header-color : $db-color-extra-light;*/
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/packages/core/sass/src/list/TreeItem.scss:368 */
 .x-treelist-row-over > * > .x-treelist-item-text {
-    color: #878ea2;
+    color: #000;
     transition: color 0.5s;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/packages/core/sass/src/list/TreeItem.scss:372 */
@@ -13153,7 +13153,7 @@ a.x-monthpicker-yearnav-button:hover {
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:25 */
 .x-grid-item {
-    color: #878ea2;
+    color: #000;
     font: 500 13px/19px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
     background-color: #fff;
 }
@@ -13163,13 +13163,13 @@ a.x-monthpicker-yearnav-button:hover {
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:35 */
 .x-grid-item-over {
-    color: #878ea2;
+    color: #000;
     background-color: #eaeff4;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:42 */
 .x-grid-item-focused {
     outline: 0;
-    color: #878ea2;
+    color: #000;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:46 */
 .x-grid-item-focused .x-grid-cell-inner {
@@ -13189,7 +13189,7 @@ a.x-monthpicker-yearnav-button:hover {
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:76 */
 .x-grid-item-selected {
-    color: #878ea2;
+    color: #000;
     background-color: #ffefbb;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:82 */
@@ -13269,7 +13269,7 @@ a.x-monthpicker-yearnav-button:hover {
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:231 */
 .x-grid-row .x-grid-cell-selected {
-    color: #878ea2;
+    color: #000;
     background-color: #ffefbb;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/view/Table.scss:238 */

@@ -11301,27 +11301,31 @@ x-panel-body x-panel-body-menu x-panel-body-menu x-panel-menu-outer-border-trbl 
 .blueRow {
     background-color: #bbdefb;
 }
-/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:62 */
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:61 */
+.greyRow {
+    background-color: grey;
+}
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:66 */
 .view-list .x-accordion-hd {
     background: #fff;
     border-width: 0;
     border-color: #fff;
     padding: 0;
 }
-/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:70 */
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:74 */
 .view-list-title {
     font-size: 24px;
     line-height: 24px;
     margin: 12px;
 }
-/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:76 */
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:80 */
 .view-list-label {
     font-size: 13px;
     line-height: 18px;
     padding-left: 24px;
     vertical-align: top;
 }
-/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:83 */
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:87 */
 .view-list-text {
     font-size: 13px;
     line-height: 18px;
@@ -11329,12 +11333,12 @@ x-panel-body x-panel-body-menu x-panel-body-menu x-panel-menu-outer-border-trbl 
     font-weight: normal;
     vertical-align: top;
 }
-/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:91 */
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:95 */
 .x-grid-cell-inner-row-numberer {
     background-color: transparent !important;
     text-align: center !important;
 }
-/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:96 */
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/ViewList.scss:100 */
 .locationIcon {
     padding-top: 8px;
     font-size: 1.4em;
@@ -15329,8 +15333,4 @@ x-panel-body x-panel-body-menu x-panel-body-menu x-panel-menu-outer-border-trbl 
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-base/sass/etc/mixins/frame.scss:355 */
 .x-btn-user-detail-small-bl {
     background-position: 0 -12px;
-}
-/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-base/sass/etc/mixins/frame.scss:359 */
-.x-btn-user-detail-small-br {
-    background-position: right -15px;
 }

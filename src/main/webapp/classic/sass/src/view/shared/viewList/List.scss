@@ -10,7 +10,7 @@ $exec-green-color: dynamic(#11c897);
 $exec-light-blue-color: dynamic(saturate(lighten($exec-blue-color, 53%), 70%));
 
 $exec-font-light-color: dynamic(#a0a7b8);
-$exec-font-color: dynamic(#878ea2);
+$exec-font-color: dynamic(#000000);
 $exec-font-dark-color: dynamic($exec-dark-background);
 
 //Proxima Nova is preferred font, but it is not a free font.

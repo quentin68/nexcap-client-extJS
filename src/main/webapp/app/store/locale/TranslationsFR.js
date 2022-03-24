@@ -2978,7 +2978,20 @@ Ext.define('Dashboard.store.locale.TranslationsFR', {
         }, {
             "msgid": "Edit a material sheet",
             "msgstr": "Edition d'un article"
-        }, {
+        }, 
+        {
+            "msgid": "Create a stock level",
+            "msgstr": "Création d'un niveau de stock"
+        }, 
+        {
+            "msgid": "Edit a stock level",
+            "msgstr": "Edition d'un niveau de stock"
+        }, 
+        {
+            "msgid": "Delete a stock level",
+            "msgstr": "Suppression d'un niveau de stock"
+        }, 
+        {
             "msgid": "Change of day",
             "msgstr": "Changement de jour"
         }, {

@@ -230,6 +230,14 @@ Ext.define('Dashboard.manager.alerts.StocksAlertsManager', {
                         sortable: true,
                         dataIndex: 'stockLevel.maxLevel',
                         cellWrap: false
+                    },
+                    {
+                        text: getText('Safe threshold'),
+                        locked: false,
+                        width: 200,
+                        sortable: true,
+                        dataIndex: 'stockLevel.secuLevel',
+                        cellWrap: false
                     }
                 ]
             }
@@ -383,6 +391,11 @@ Ext.define('Dashboard.manager.alerts.StocksAlertsManager', {
             }, {
                 name: 'stockLevel.maxLevel',
                 label: getText('Max level'),
+                type: 'INT'
+            },
+             {
+                name: 'stockLevel.secuLevel',
+                label: getText('Safe threshold'),
                 type: 'INT'
             }
         ];

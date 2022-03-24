@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "userMessage": "ACTION_WELL_COMPUTED",
+    "data":{
+        "id": 29,
+        "name": "Longueur",
+        "label": "Longueur",
+        "type": "FLOAT",
+        "control": "{\"field\":{\"fieldType\":\"numberfield\",\"name\":\"Longueur\",\"fieldLabel\":\"Longueur\",\"description\":\"\",\"width\":null,\"minValue\":null,\"maxValue\":null,\"step\":0.01,\"allowDecimals\":true,\"decimalPrecision\":2,\"dataType\":\"FLOAT\",\"vtype\":null},\"configuration\":{\"controlType\":\"numberfield\",\"valorisation\":\"items\",\"isEditable\":true,\"isDisplayed\":true,\"enabledInTables\":true,\"enabledInDetails\":true,\"enabledInFilters\":true,\"enabledInControls\":true,\"ux-numberfield-1618-inputEl\":\"\"}}",
+        "options": [],
+        "editable": true,
+        "displayed": true
+    }
+}

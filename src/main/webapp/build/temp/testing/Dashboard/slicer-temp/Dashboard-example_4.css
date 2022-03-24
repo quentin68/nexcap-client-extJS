@@ -1,3 +1,7 @@
+/* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/button/Button.scss:445 */
+.x-btn-property-create-small {
+    border-color: #5897ce;
+}
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/ext/classic/theme-neutral/sass/src/button/Button.scss:452 */
 .x-btn-button-property-create-small {
     min-height: 16px;
@@ -970,7 +974,7 @@
 .pictures-card .thumb-wrap .card-title {
     font-size: 18px;
     font-weight: 500;
-    color: #878ea2;
+    color: #000;
     margin-top: 16px;
     margin-left: 12px;
     word-wrap: break-word;
@@ -1010,7 +1014,7 @@
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/List.scss:126 */
 .viewlist-small {
     font-size: 10px;
-    color: #878ea2;
+    color: #000;
 }
 /* D:/apps/NEXESS/WebClient NEXCAP/src/main/webapp/classic/sass/src/view/shared/viewList/List.scss:130 */
 .viewlist-small img {

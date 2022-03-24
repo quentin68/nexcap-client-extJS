@@ -1,0 +1,139 @@
+{
+	"success": true,
+	"error": null,
+	"message": null,
+	"total": 24,
+	"data": [{
+		"id": 1,
+		"positionId": 1,
+		"locationId": 0,
+		"name": "Nexess",
+		"children": [{
+			"id": 2,
+			"positionId": 2,
+			"locationId": 0,
+			"name": "Nexess/Batiment 12",
+			"childen": []
+		}, {
+			"id": 3,
+			"positionId": 3,
+			"locationId": 0,
+			"name": "Nexess/Batiment 15",
+			"childen": []
+		}, {
+			"id": 4,
+			"positionId": 4,
+			"locationId": 0,
+			"name": "Nexess/Batiment 13",
+			"childen": [{
+				"id": 5,
+				"positionId": 5,
+				"locationId": 0,
+				"name": "Nexess/Batiment 13/Open space",
+				"childen": [{
+					"id": 500037,
+					"positionId": 0,
+					"locationId": 37,
+					"name": "Nexess/Batiment 13/Open space/Vincent"
+				}]
+			}, {
+				"id": 6,
+				"positionId": 6,
+				"locationId": 0,
+				"name": "Nexess/Batiment 13/Soft",
+				"childen": [{
+					"id": 500016,
+					"positionId": 0,
+					"locationId": 16,
+					"name": "Nexess/Batiment 13/Soft/Armoire tests"
+				}, {
+					"id": 500017,
+					"positionId": 0,
+					"locationId": 17,
+					"name": "Nexess/Batiment 13/Soft/Joel"
+				}, {
+					"id": 500019,
+					"positionId": 0,
+					"locationId": 19,
+					"name": "Nexess/Batiment 13/Soft/Jean-Pierre"
+				}, {
+					"id": 500020,
+					"positionId": 0,
+					"locationId": 20,
+					"name": "Nexess/Batiment 13/Soft/Karine"
+				}]
+			}, {
+				"id": 7,
+				"positionId": 7,
+				"locationId": 0,
+				"name": "Nexess/Batiment 13/Hard",
+				"childen": [{
+					"id": 500018,
+					"positionId": 0,
+					"locationId": 18,
+					"name": "Nexess/Batiment 13/Hard/Bureau Eric"
+				}]
+			}]
+		}, {
+			"id": 500001,
+			"positionId": 0,
+			"locationId": 1,
+			"name": "Nexess/Desk Showroom"
+		}, {
+			"id": 500003,
+			"positionId": 0,
+			"locationId": 3,
+			"name": "Nexess/XL Cabinet"
+		}, {
+			"id": 500004,
+			"positionId": 0,
+			"locationId": 4,
+			"name": "Nexess/XD Cabinet"
+		}, {
+			"id": 500005,
+			"positionId": 0,
+			"locationId": 5,
+			"name": "Nexess/A1"
+		}, {
+			"id": 500006,
+			"positionId": 0,
+			"locationId": 6,
+			"name": "Nexess/A2"
+		}, {
+			"id": 500008,
+			"positionId": 0,
+			"locationId": 8,
+			"name": "Nexess/XDL Cabinet"
+		}, {
+			"id": 500009,
+			"positionId": 0,
+			"locationId": 9,
+			"name": "Nexess/XDS Cabinet"
+		}, {
+			"id": 500010,
+			"positionId": 0,
+			"locationId": 10,
+			"name": "Nexess/XLW Cabinet"
+		}, {
+			"id": 500012,
+			"positionId": 0,
+			"locationId": 12,
+			"name": "Nexess/ToolBox"
+		}, {
+			"id": 500013,
+			"positionId": 0,
+			"locationId": 13,
+			"name": "Nexess/Emp test"
+		}, {
+			"id": 500014,
+			"positionId": 0,
+			"locationId": 14,
+			"name": "Nexess/XS Cabinet"
+		}, {
+			"id": 500015,
+			"positionId": 0,
+			"locationId": 15,
+			"name": "Nexess/Bureau KG"
+		}]
+	}]
+}

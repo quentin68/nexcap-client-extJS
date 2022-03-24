@@ -1,0 +1,1403 @@
+[
+
+    // ===================================================================
+    // SHARED
+    // ===================================================================
+    {
+            "msgid": "",
+            "msgstr": ""
+    }, {
+            "msgid": ":",
+            "msgstr": ":"
+    },
+    // ===================================================================
+    // SPECIFIC CONTROLS
+    // ===================================================================
+    {
+            "msgid": "Acknowledging non compliant controls",
+            "msgstr": "Acknowledging non compliant controls"
+    }, {
+            "msgid": "Acknowledge",
+            "msgstr": "Acknowledge"
+    }, {
+            "msgid": "Acknowledge a non compliant control",
+            "msgstr": "Acknowledge a non compliant control"
+    }, 
+    // ===================================================================
+    // GENERAL MENU  
+    // ===================================================================
+    {
+            "msgid": "Items administration",
+            "msgstr": "Items administration"
+    }, {
+            "msgid": "Categories administration",
+            "msgstr": "Categories administration"
+    }, {
+            "msgid": "Locations administration",
+            "msgstr": "Locations administration"
+    }, {
+            "msgid": "Packages administration",
+            "msgstr": "Packages administration"
+    }, {
+            "msgid": "Devices administration",
+            "msgstr": "Devices administration"
+    }, {
+            "msgid": "User Profiles administration",
+            "msgstr": "User Profiles administration"
+    }, {
+            "msgid": "References administration",
+            "msgstr": "References administration"
+    }, {
+            "msgid": "Users administration",
+            "msgstr": "Users administration"
+    },
+    // ===================================================================
+    // DEVICES UPDATING
+    // ===================================================================
+    {
+            "msgid": "Assign devices to a package",
+            "msgstr": "Assign devices to selected package"
+    }, {
+            "msgid": "Select targeted devices",
+            "msgstr": "Select targeted devices"
+    }, {
+            "msgid": "Devices inventory",
+            "msgstr": "Devices inventory"
+    }, {
+            "msgid": "IpAddress",
+            "msgstr": "IP Address"
+    }, {
+            "msgid": "Delete a package",
+            "msgstr": "Delete a package"
+    }, {
+            "msgid": "Address",
+            "msgstr": "Address"
+    }, {
+            "msgid": "Delivery address",
+            "msgstr": "Delivery address"
+    }, 
+    // ===================================================================
+    // PLAN TASK
+    // ===================================================================
+    {
+            "msgid": "Scheduled tasks assignement",
+            "msgstr": "Scheduled tasks assignement"
+    }, {
+            "msgid": "Assign",
+            "msgstr": "Assign"
+    }, {
+            "msgid": "Assign tasks to a recipient",
+            "msgstr": "Assign tasks to a recipient"
+    }, {
+            "msgid": "Display",
+            "msgstr": "Display"
+    }, {
+            "msgid": "Display datasheet",
+            "msgstr": "Display datasheet"
+    }, {
+            "msgid": "Add",
+            "msgstr": "Add"
+    }, {
+            "msgid": "Associate",
+            "msgstr": "Associate"
+    }, {
+            "msgid": "Dissociate",
+            "msgstr": "Dissociate"
+    }, {
+            "msgid": "Add an item",
+            "msgstr": "Add an item"
+    }, {
+            "msgid": "Duplicate an item",
+            "msgstr": "Duplicate an item"
+    }, {
+            "msgid": "Duplicate a reference",
+            "msgstr": "Duplicate a reference"
+    }, {
+            "msgid": "_copy",
+            "msgstr": "_copy"
+    }, {
+            "msgid": "Add a field",
+            "msgstr": "Add a field"
+    }, {
+            "msgid": "Add a descriptive field",
+            "msgstr": "Add a descriptive field"
+    }, {
+            "msgid": "Add a location",
+            "msgstr": "Add a location"
+    }, {
+            "msgid": "Add a package",
+            "msgstr": "Add a package"
+    }, {
+            "msgid": "Add a user profile",
+            "msgstr": "Add a user profile"
+    }, {
+            "msgid": "Add a stock level monitoring",
+            "msgstr": "Add a stock level monitoring"
+    }, {
+            "msgid": "Add a user",
+            "msgstr": "Add a user"
+    }, {
+            "msgid": "Activated",
+            "msgstr": "Activated"
+    }, {
+            "msgid": "Add a category",
+            "msgstr": "Add a category"
+    }, {
+            "msgid": "Add a position",
+            "msgstr": "Add a position"
+    }, {
+            "msgid": "Select a position",
+            "msgstr": "Select a position"
+    }, {
+            "msgid": "Add an attached file",
+            "msgstr": "Add an attached file"
+    }, {
+            "msgid": "Add a reference",
+            "msgstr": "Add a reference"
+    }, {
+            "msgid": "Previous password",
+            "msgstr": "Previous password"
+    }, {
+            "msgid": "Cancel",
+            "msgstr": "Cancel"
+    }, {
+            "msgid": "Item",
+            "msgstr": "Item"
+    }, {
+            "msgid": "Items",
+            "msgstr": "Items"
+    }, {
+            "msgid": "to",
+            "msgstr": "to"
+    }, {
+            "msgid": "At least one threshold must be filled",
+            "msgstr": "At least one threshold must be filled"
+    }, {
+            "msgid": "Authorized",
+            "msgstr": "Authorized"
+    }, {
+            "msgid": "Authorize",
+            "msgstr": "Authorize"
+    }, {
+            "msgid": "Authorize a device",
+            "msgstr": "Authorize a device"
+    }, {
+            "msgid": "Welcome in Nexcap",
+            "msgstr": "Welcome in Nexcap"
+    }, {
+            "msgid": "Specifications",
+            "msgstr": "Specifications"
+    }, {
+            "msgid": "Categories",
+            "msgstr": "Categories"
+    }, {
+            "msgid": "Category",
+            "msgstr": "Category"
+    }, {
+            "msgid": "Parent category",
+            "msgstr": "Parent category"
+    }, {
+            "msgid": "Upper category",
+            "msgstr": "Upper category"
+    }, {
+            "msgid": "This field can only contain alphanumeric characters.",
+            "msgstr": "This field can only contain alphanumeric characters."
+    }, {
+            "msgid": "Unknown address.",
+            "msgstr": "Unknown address."
+    }, {
+            "msgid": "Unknown item.",
+            "msgstr": "Unknown item."
+    }, {
+            "msgid": "End",
+            "msgstr": "End"
+    }, {
+            "msgid": "End a completed task",
+            "msgstr": "End a completed task"
+    }, {
+            "msgid": "Code",
+            "msgstr": "Code"
+    }, {
+            "msgid": "Ref. Code",
+            "msgstr": "Ref. Code"
+    }, {
+            "msgid": "Reference code",
+            "msgstr": "Reference code"
+    }, {
+            "msgid": "Ref. description",
+            "msgstr": "Ref. description"
+    }, {
+            "msgid": "ID codes",
+            "msgstr": "ID codes"
+    }, {
+            "msgid": "Comment",
+            "msgstr": "Comment"
+    }, {
+            "msgid": "Comments",
+            "msgstr": "Comments"
+    }, {
+            "msgid": "Activated account",
+            "msgstr": "Activated account"
+    }, {
+            "msgid": "Password confirmation",
+            "msgstr": "Password confirmation"
+    }, {
+            "msgid": "Compliant",
+            "msgstr": "Compliant"
+    }, {
+            "msgid": "Compliance",
+            "msgstr": "Compliance"
+    }, {
+            "msgid": "Control compliance",
+            "msgstr": "Control compliance"
+    }, {
+            "msgid": "Sign in",
+            "msgstr": "Sign in"
+    }, {
+            "msgid": "Control",
+            "msgstr": "Control"
+    }, {
+            "msgid": "Create scheduled tasks",
+            "msgstr": "Create scheduled tasks"
+    }, {
+            "msgid": "Criticality",
+            "msgstr": "Criticality"
+    }, {
+            "msgid": "Date",
+            "msgstr": "Date"
+    }, {
+            "msgid": "Calibration date",
+            "msgstr": "Calibration date"
+    }, {
+            "msgid": "Execution date",
+            "msgstr": "Execution date"
+    }, {
+            "msgid": "Creation date",
+            "msgstr": "Creation date"
+    }, {
+            "msgid": "Creation",
+            "msgstr": "Creation"
+    }, {
+            "msgid": "Date of expiration",
+            "msgstr": "Date of expiration"
+    }, {
+            "msgid": "Transfer date",
+            "msgstr": "Transfer date"
+    }, {
+            "msgid": "Date of control",
+            "msgstr": "Date of control"
+    }, {
+            "msgid": "Expiration date",
+            "msgstr": "Expiration date"
+    }, {
+            "msgid": "Logout",
+            "msgstr": "Logout"
+    }, {
+            "msgid": "Last movement",
+            "msgstr": "Last movement"
+    }, {
+            "msgid": "Last transfer",
+            "msgstr": "Last transfer"
+    }, {
+            "msgid": "Last controls",
+            "msgstr": "Last controls"
+    }, {
+            "msgid": "Description",
+            "msgstr": "Description"
+    }, {
+            "msgid": "Designation",
+            "msgstr": "Designation"
+    }, {
+            "msgid": "Designation Ref.",
+            "msgstr": "Designation Ref."
+    }, {
+            "msgid": "Ref. designation",
+            "msgstr": "Ref. designation"
+    }, {
+            "msgid": "Recipient",
+            "msgstr": "Recipient"
+    }, {
+            "msgid": "Destination",
+            "msgstr": "Destination"
+    }, {
+            "msgid": "Sending Number",
+            "msgstr": "Sending Number"
+    }, {
+            "msgid": "Expected destination",
+            "msgstr": "Expected destination"
+    }, {
+            "msgid": "This task can not be changed because it has been uploaded to the device!",
+            "msgstr": "This task can not be changed because it has been uploaded to the device!"
+    }, {
+            "msgid": "from",
+            "msgstr": "from"
+    }, {
+            "msgid": "Term",
+            "msgstr": "Term"
+    }, {
+            "msgid": "Edit",
+            "msgstr": "Edit"
+    }, {
+            "msgid": "Edit an item",
+            "msgstr": "Edit an item"
+    }, {
+            "msgid": "Edit items",
+            "msgstr": "Edit items"
+    }, {
+            "msgid": "Do you really want to delete those items?",
+            "msgstr": "Do you really want to delete those items?"
+    }, {
+            "msgid": "Do you really want to update those items?",
+            "msgstr": "Do you really want to update those items?"
+    }, {
+            "msgid": "Do you really want to update this item?",
+            "msgstr": "Do you really want to update this item?"
+    }, {
+            "msgid": "Do you really want to delete those references?",
+            "msgstr": "Do you really want to delete those references?"
+    }, {
+            "msgid": "Edit a location",
+            "msgstr": "Edit a location"
+    }, {
+            "msgid": "Edit a user profile",
+            "msgstr": "Edit a user profile"
+    }, {
+            "msgid": "Edit a stock level monitoring",
+            "msgstr": "Edit a stock level monitoring"
+    }, {
+            "msgid": "Edit a user",
+            "msgstr": "Edit a user"
+    }, {
+            "msgid": "Edit users",
+            "msgstr": "Edit users"
+    }, {
+            "msgid": "Edit a category",
+            "msgstr": "Edit a category"
+    }, {
+            "msgid": "Edit a position",
+            "msgstr": "Edit a position"
+    }, {
+            "msgid": "Edit a reference",
+            "msgstr": "Edit a reference"
+    }, {
+            "msgid": "Edit references",
+            "msgstr": "Edit references"
+    }, {
+            "msgid": "Location",
+            "msgstr": "Location"
+    }, {
+            "msgid": "Original location",
+            "msgstr": "Original location"
+    }, {
+            "msgid": "Original address",
+            "msgstr": "Origin"
+    }, {
+            "msgid": "Final location",
+            "msgstr": "Final location"
+    }, {
+            "msgid": "Locations",
+            "msgstr": "Locations"
+    }, {
+            "msgid": "Borrower",
+            "msgstr": "Borrower"
+    }, {
+            "msgid": "Save",
+            "msgstr": "Save"
+    }, {
+            "msgid": "Enter firsts characters to search",
+            "msgstr": "Enter firsts characters to search"
+    }, {
+            "msgid": "State",
+            "msgstr": "State"
+    }, {
+            "msgid": "Export",
+            "msgstr": "Export"
+    }, {
+            "msgid": "Export to file",
+            "msgstr": "Export to file"
+    }, {
+            "msgid": "Manufacturer",
+            "msgstr": "Manufacturer"
+    }, {
+            "msgid": "Close",
+            "msgstr": "Close"
+    }, {
+            "msgid": "Borrowing information record",
+            "msgstr": "Borrowing information record"
+    }, {
+            "msgid": "Shipping information record",
+            "msgstr": "Shipping information record"
+    }, {
+            "msgid": "Item information record",
+            "msgstr": "Item information record"
+    }, {
+            "msgid": "Reference card",
+            "msgstr": "Reference properties"
+    }, {
+            "msgid": "Item properties",
+            "msgstr": "Item properties"
+    }, {
+            "msgid": "Reference information record",
+            "msgstr": "Reference information record"
+    }, {
+            "msgid": "Location information record",
+            "msgstr": "Location information record"
+    }, {
+            "msgid": "Position information record",
+            "msgstr": "Position information record"
+    }, {
+            "msgid": "Position information card",
+            "msgstr": "Position information card"
+    }, {
+            "msgid": "Scheduled task information record",
+            "msgstr": "Scheduled task information record"
+    }, {
+            "msgid": "Filter",
+            "msgstr": "Filter"
+    }, {
+            "msgid": "Features",
+            "msgstr": "Features"
+    }, {
+            "msgid": "Frequency verification (days)",
+            "msgstr": "Frequency verification (days)"
+    }, {
+            "msgid": "Group",
+            "msgstr": "Group"
+    }, {
+            "msgid": "Logging of consumptions",
+            "msgstr": "Logging of consumptions"
+    }, {
+            "msgid": "Logging of provisions",
+            "msgstr": "Logging of provisions"
+    }, {
+            "msgid": "Logging of controls",
+            "msgstr": "Logging of controls"
+    }, {
+            "msgid": "Logging of displacements",
+            "msgstr": "Logging of displacements"
+    }, {
+            "msgid": "Logging of borrowings",
+            "msgstr": "Logging of borrowings"
+    }, {
+            "msgid": "Logging of shippings",
+            "msgstr": "Logging of shippings"
+    }, {
+            "msgid": "Logging of movements",
+            "msgstr": "Logging of movements"
+    }, {
+            "msgid": "Logging of receipts",
+            "msgstr": "Logging of receipts"
+    }, {
+            "msgid": "Logging of returns",
+            "msgstr": "Logging of returns"
+    }, {
+            "msgid": "Logging of maintenances",
+            "msgstr": "Logging of maintenances"
+    }, {
+            "msgid": "Logging of calibrations",
+            "msgstr": "Logging of calibrations"
+    }, {
+            "msgid": "Login",
+            "msgstr": "Login"
+    }, {
+            "msgid": "Identifier",
+            "msgstr": "User id"
+    }, {
+            "msgid": "Information",
+            "msgstr": "Information"
+    }, {
+            "msgid": "Additional information",
+            "msgstr": "Additional information"
+    }, {
+            "msgid": "Traceability information",
+            "msgstr": "Traceability information"
+    }, {
+            "msgid": "Setup",
+            "msgstr": "Setup"
+    }, {
+            "msgid": "Location inventory",
+            "msgstr": "Location inventory"
+    }, {
+            "msgid": "Item inventory",
+            "msgstr": "Item inventory"
+    }, {
+            "msgid": "Inventoried items management",
+            "msgstr": "Inventoried items management"
+    }, {
+            "msgid": "Label",
+            "msgstr": "Label"
+    }, {
+            "msgid": "Item properties",
+            "msgstr": "Item properties"
+    }, {
+            "msgid": "Reference properties",
+            "msgstr": "Reference properties"
+    }, {
+            "msgid": "List of current borrowings",
+            "msgstr": "List of current borrowings"
+    }, {
+            "msgid": "List of current shippings",
+            "msgstr": "List of current shippings"
+    }, {
+            "msgid": "List of current calibrations",
+            "msgstr": "List of current calibrations"
+    }, {
+            "msgid": "List of current maintenances",
+            "msgstr": "List of current maintenances"
+    }, {
+            "msgid": "Position",
+            "msgstr": "Position"
+    }, {
+            "msgid": "Parent position",
+            "msgstr": "Parent position"
+    }, {
+            "msgid": "Positions",
+            "msgstr": "Positions"
+    }, {
+            "msgid": "Password",
+            "msgstr": "Password"
+    }, {
+            "msgid": "Number of pending tasks",
+            "msgstr": "Number of pending tasks"
+    }, {
+            "msgid": "Number of tasks transferred",
+            "msgstr": "Number of tasks transferred"
+    }, {
+            "msgid": "Last name",
+            "msgstr": "Last name"
+    }, {
+            "msgid": "Name",
+            "msgstr": "Name"
+    }, {
+            "msgid": "No",
+            "msgstr": "No"
+    }, {
+            "msgid": "Non-compliant",
+            "msgstr": "Non-compliant"
+    }, {
+            "msgid": "New password",
+            "msgstr": "New password"
+    }, {
+            "msgid": "Operator",
+            "msgstr": "Operator"
+    }, {
+            "msgid": "Operation",
+            "msgstr": "Operation"
+    }, {
+            "msgid": "Yes",
+            "msgstr": "Yes"
+    }, {
+            "msgid": "Open",
+            "msgstr": "Open"
+    }, {
+            "msgid": "Open attached file",
+            "msgstr": "Open attached file"
+    }, {
+            "msgid": "Open control report",
+            "msgstr": "Open control report"
+    }, {
+            "msgid": "No picture available",
+            "msgstr": "No picture available"
+    }, {
+            "msgid": "Devices",
+            "msgstr": "Devices"
+    }, {
+            "msgid": "Device",
+            "msgstr": "Device"
+    }, {
+            "msgid": "Pictures",
+            "msgstr": "Pictures"
+    }, {
+            "msgid": "Attached files",
+            "msgstr": "Attached files"
+    }, {
+            "msgid": "Scheduler",
+            "msgstr": "Scheduler"
+    }, {
+            "msgid": "Tasks scheduling",
+            "msgstr": "Tasks scheduling"
+    }, {
+            "msgid": "Schedule",
+            "msgstr": "Schedule"
+    }, {
+            "msgid": "Schedule tasks",
+            "msgstr": "Schedule tasks"
+    }, {
+            "msgid": "Deadline",
+            "msgstr": "Deadline"
+    }, {
+            "msgid": "Contact",
+            "msgstr": "Contact"
+    }, {
+            "msgid": "Previous",
+            "msgstr": "Previous"
+    }, {
+            "msgid": "First name",
+            "msgstr": "First name"
+    }, {
+            "msgid": "Profiles",
+            "msgstr": "Profiles"
+    }, {
+            "msgid": "Profile",
+            "msgstr": "Profile"
+    }, {
+            "msgid": "Origin",
+            "msgstr": "Origin"
+    }, {
+            "msgid": "Quantity",
+            "msgstr": "Quantity"
+    }, {
+            "msgid": "Control report",
+            "msgstr": "Control report"
+    }, {
+            "msgid": "Receipt of an item",
+            "msgstr": "Receipt of an item"
+    }, {
+            "msgid": "Receipt of items",
+            "msgstr": "Reception of items"
+    }, {
+            "msgid": "Receive",
+            "msgstr": "Receive"
+    }, {
+            "msgid": "Receipt an item",
+            "msgstr": "Receive an item"
+    }, {
+            "msgid": "Search in progress...",
+            "msgstr": "Search in progress..."
+    }, {
+            "msgid": "References",
+            "msgstr": "References"
+    }, {
+            "msgid": "Reference",
+            "msgstr": "Reference"
+    }, {
+            "msgid": "Binded references",
+            "msgstr": "Binded references"
+    }, {
+            "msgid": "References selection",
+            "msgstr": "References selection"
+    }, {
+            "msgid": "Operation type",
+            "msgstr": "Operation"
+    }, {
+            "msgid": "Reset",
+            "msgstr": "Reset"
+    }, {
+            "msgid": "Profiles selection",
+            "msgstr": "Profiles selection"
+    }, {
+            "msgid": "Select",
+            "msgstr": "Select"
+    }, {
+            "msgid": "Select an item",
+            "msgstr": "Select an item"
+    }, {
+            "msgid": "Select a device",
+            "msgstr": "Select a device"
+    }, {
+            "msgid": "Select a type of action",
+            "msgstr": "Select a type of action"
+    }, {
+            "msgid": "Select an address",
+            "msgstr": "Select an address"
+    }, {
+            "msgid": "Lower threshold",
+            "msgstr": "Lower threshold"
+    }, {
+            "msgid": "Higher threshold",
+            "msgstr": "Higher threshold"
+    }, {
+            "msgid": "The start date must be earlier than the end date",
+            "msgstr": "The start date must be earlier than the end date"
+    }, {
+            "msgid": "Next",
+            "msgstr": "Next"
+    }, {
+            "msgid": "Deadlines tracking",
+            "msgstr": "Deadlines tracking"
+    }, {
+            "msgid": "Monitoring of stock levels",
+            "msgstr": "Monitoring of stock levels"
+    }, {
+            "msgid": "Delete",
+            "msgstr": "Delete"
+    }, {
+            "msgid": "Delete an item",
+            "msgstr": "Delete an item"
+    }, {
+            "msgid": "Delete a location",
+            "msgstr": "Delete a location"
+    }, {
+            "msgid": "Delete a device",
+            "msgstr": "Delete a device"
+    }, {
+            "msgid": "Delete a user profile",
+            "msgstr": "Delete a user profile"
+    }, {
+            "msgid": "Delete a stock level monitoring",
+            "msgstr": "Delete a stock level monitoring"
+    }, {
+            "msgid": "Delete a user",
+            "msgstr": "Delete a user"
+    }, {
+            "msgid": "Delete a category",
+            "msgstr": "Delete a category"
+    }, {
+            "msgid": "Delete an attached file",
+            "msgstr": "Delete an attached file"
+    }, {
+            "msgid": "Delete a reference",
+            "msgstr": "Delete a reference"
+    }, {
+            "msgid": "Delete a scheduled task (not assigned)",
+            "msgstr": "Delete a scheduled task (not assigned)"
+    }, {
+            "msgid": "Edit a scheduled task (not transferred)",
+            "msgstr": "Edit a scheduled task (not transferred)"
+    }, {
+            "msgid": "Scheduled task",
+            "msgstr": "Scheduled task"
+    }, {
+            "msgid": "Tasks",
+            "msgstr": "Tasks"
+    }, {
+            "msgid": "Transfer of planned tasks",
+            "msgstr": "Transfer of planned tasks"
+    }, {
+            "msgid": "Task successfully assigned",
+            "msgstr": "Task successfully assigned"
+    }, {
+            "msgid": "Time",
+            "msgstr": "Time"
+    }, {
+            "msgid": "Type",
+            "msgstr": "Type"
+    }, {
+            "msgid": "Deadline type",
+            "msgstr": "Expiry date"
+    }, {
+            "msgid": "Code type",
+            "msgstr": "Code type"
+    }, {
+            "msgid": "Control type",
+            "msgstr": "Control type"
+    }, {
+            "msgid": "Item types",
+            "msgstr": "Item types"
+    }, {
+            "msgid": "A location",
+            "msgstr": "A location"
+    }, {
+            "msgid": "A position",
+            "msgstr": "A position"
+    }, {
+            "msgid": "Unit",
+            "msgstr": "Unit"
+    }, {
+            "msgid": "Users",
+            "msgstr": "Users"
+    }, {
+            "msgid": "User",
+            "msgstr": "User"
+    }, {
+            "msgid": "Validate",
+            "msgstr": "Validate"
+    }, {
+            "msgid": "Version",
+            "msgstr": "Version"
+    }, {
+            "msgid": "Targeted version",
+            "msgstr": "Targeted version"
+    }, {
+            "msgid": "Original version",
+            "msgstr": "Original version"
+    }, {
+            "msgid": "Server version",
+            "msgstr": "Server version"
+    }, {
+            "msgid": "Please enter your login!",
+            "msgstr": "Please enter your login!"
+    }, {
+            "msgid": "Please enter your password!",
+            "msgstr": "Please enter your password!"
+    }, {
+            "msgid": "Do you really want to delete this location",
+            "msgstr": "Do you really want to delete this location"
+    }, {
+            "msgid": "Do you really want to delete those address?",
+            "msgstr": "Do you really want to delete those address?"
+    }, {
+            "msgid": "Do you want to delete this address",
+            "msgstr": "Do you want to delete this address"
+    }, {
+            "msgid": "File must be in .pdf format.",
+            "msgstr": "File must be in .pdf format."
+    }, {
+            "msgid": "Select a package update in .zip format",
+            "msgstr": "Select a package update in .zip format"
+    }, {
+            "msgid": "Connecting to server",
+            "msgstr": "Connecting to server"
+    }, {
+            "msgid": "The lower threshold must be less than or equal to the upper threshold.",
+            "msgstr": "The lower threshold must be less than or equal to the upper threshold."
+    }, {
+            "msgid": "This item is not present to any address.",
+            "msgstr": "This item is not present to any address."
+    }, {
+            "msgid": "No picture",
+            "msgstr": "No picture"
+    }, {
+            "msgid": "Warning",
+            "msgstr": "Warning"
+    }, {
+            "msgid": "At least one stock level has been found out of threshold limits!",
+            "msgstr": "At least one stock level has been found out of threshold limits!"
+    }, {
+            "msgid": "Please check the status of inventory levels for more information",
+            "msgstr": "Please check the status of inventory levels for more information"
+    }, {
+            "msgid": "Failed to process",
+            "msgstr": "Failed to process"
+    }, {
+            "msgid": "Warning , this task is already uploaded to the device,",
+            "msgstr": "Warning , this task is already uploaded to the device,"
+    }, {
+            "msgid": "do you really want to continue this task?",
+            "msgstr": "do you really want to continue this task?"
+    }, {
+            "msgid": "If Yes, the task will be deleted from the device after synchronization.",
+            "msgstr": "If Yes, the task will be deleted from the device after synchronization."
+    }, {
+            "msgid": "You have been logout",
+            "msgstr": "You have been logout"
+    }, {
+            "msgid": "Your session has expired, you need to login again!",
+            "msgstr": "Your session has expired, you need to login again!"
+    }, {
+            "msgid": "First, select a file in the previous field",
+            "msgstr": "First, select a file in the previous field"
+    }, {
+            "msgid": "Recording is not possible : the form contains errors.",
+            "msgstr": "Recording is not possible : the form contains errors."
+    }, {
+            "msgid": "No element selected",
+            "msgstr": "No element selected"
+    }, {
+            "msgid": "The form can not be sent : errors detected.",
+            "msgstr": "The form can not be sent : errors detected."
+    }, {
+            "msgid": "Connection Problem",
+            "msgstr": "Connection Problem"
+    }, {
+            "msgid": "Error",
+            "msgstr": "Error"
+    }, {
+            "msgid": "Connection failed with server!",
+            "msgstr": "Connection failed with server!"
+    }, {
+            "msgid": "Error: incorrect login and / or password.",
+            "msgstr": "Error: incorrect login and / or password."
+    }, {
+            "msgid": "Error: account disabled.",
+            "msgstr": "Error: account disabled."
+    }, {
+            "msgid": "Location information card",
+            "msgstr": "Location information card"
+    }, {
+            "msgid": "Loading...",
+            "msgstr": "Loading..."
+    }, {
+            "msgid": "Do you really want to delete this device",
+            "msgstr": "Do you really want to delete this device"
+    }, {
+            "msgid": "Export failed !",
+            "msgstr": "Export failed !"
+    }, {
+            "msgid": "Export successful !",
+            "msgstr": "Export successful !"
+    }, {
+            "msgid": "Information card is displayed in the presence of a location",
+            "msgstr": "Information card is displayed in the presence of a location"
+    }, {
+            "msgid": "An attachment field is not valid",
+            "msgstr": "An attachment field is not valid"
+    }, {
+            "msgid": "Do you really want to delete this item:",
+            "msgstr": "Do you really want to delete this item:"
+    }, {
+            "msgid": "Do you really want to delete this mission?",
+            "msgstr": "Do you really want to delete this mission?"
+    }, {
+            "msgid": "Do you really want to delete the package update",
+            "msgstr": "Do you really want to delete the package update"
+    }, {
+            "msgid": "This record is a success!",
+            "msgstr": "This record is a success!"
+    }, {
+            "msgid": "Do you want to assign these tasks to a recipient?",
+            "msgstr": "Do you want to assign these tasks to a device?"
+    }, {
+            "msgid": "Do you really want to delete this task?",
+            "msgstr": "Do you really want to delete this task?"
+    }, {
+            "msgid": "Do you really want to end this task?",
+            "msgstr": "Do you really want to end this task?"
+    }, {
+            "msgid": "Tasks allocation",
+            "msgstr": "Tasks allocation"
+    }, {
+            "msgid": "Do you really want to delete this category",
+            "msgstr": "Do you really want to delete this category"
+    }, {
+            "msgid": "Do you really want to delete this description field:",
+            "msgstr": "Do you really want to delete this description field:"
+    }, {
+            "msgid": "Do you really want to delete this reference:",
+            "msgstr": "Do you really want to delete this reference:"
+    }, {
+            "msgid": "Do you really want to delete this user profile",
+            "msgstr": "Do you really want to delete this user profile"
+    }, {
+            "msgid": "Do you really want to delete this user requirement",
+            "msgstr": "Do you really want to delete this user requirement"
+    }, {
+            "msgid": "Do you really want to delete the monitoring stock level on this reference:",
+            "msgstr": "Do you really want to delete the monitoring stock level on this reference:"
+    }, {
+            "msgid": "Do you really want to delete this user",
+            "msgstr": "Do you really want to delete this user"
+    }, {
+            "msgid": "There are no reports associated with this control!",
+            "msgstr": "There are no reports associated with this control!"
+    }, {
+            "msgid": "This label already exists!",
+            "msgstr": "This label already exists!"
+    }, 
+    // ===================================================================
+    // Menu Bar   
+    // ===================================================================
+    {
+            "msgid": "Management",
+            "msgstr": "Management"
+    }, {
+            "msgid": "Scheduling",
+            "msgstr": "Scheduling"
+    }, {
+            "msgid": "Assignement",
+            "msgstr": "Assignement"
+    }, {
+            "msgid": "Deadlines",
+            "msgstr": "Deadlines"
+    }, {
+            "msgid": "Non-critical",
+            "msgstr": "Non-critical"
+    },{
+            "msgid": "Approaching",
+            "msgstr": "Approaching"
+    }, {
+            "msgid": "Exceeded",
+            "msgstr": "Exceeded"
+    }, {
+            "msgid": "Stock level",
+            "msgstr": "Stock level"
+    }, {
+            "msgid": "Receipt",
+            "msgstr": "Receipt"
+    }, {
+            "msgid": "Controls validation",
+            "msgstr": "Controls validation"
+    }, {
+            "msgid": "Inventories",
+            "msgstr": "Inventories"
+    }, {
+            "msgid": "Current shippings",
+            "msgstr": "Current shippings"
+    }, {
+            "msgid": "Current borrowings",
+            "msgstr": "Current borrowings"
+    }, {
+            "msgid": "Current calibrations",
+            "msgstr": "Current calibrations"
+    }, {
+            "msgid": "Current maintenances",
+            "msgstr": "Current maintenances"
+    }, {
+            "msgid": "Loggings",
+            "msgstr": "Loggings"
+    }, {
+            "msgid": "Controls",
+            "msgstr": "Controls"
+    }, {
+            "msgid": "Movements",
+            "msgstr": "Movements"
+    }, {
+            "msgid": "Displacements",
+            "msgstr": "Displacements"
+    }, {
+            "msgid": "Shippings",
+            "msgstr": "Shippings"
+    }, {
+            "msgid": "Receipts",
+            "msgstr": "Receipts"
+    }, {
+            "msgid": "Borrowings",
+            "msgstr": "Borrowings"
+    }, {
+            "msgid": "Returns",
+            "msgstr": "Returns"
+    }, {
+            "msgid": "Consumptions",
+            "msgstr": "Consumptions"
+    }, {
+            "msgid": "Provisions",
+            "msgstr": "Provisions"
+    }, {
+            "msgid": "Maintenance Op",
+            "msgstr": "Maintenance"
+    }, {
+            "msgid": "Maintenance Returns",
+            "msgstr": "Maintenance Returns"
+    }, {
+            "msgid": "Calibration",
+            "msgstr": "Calibration"
+    }, {
+            "msgid": "Calibration Returns",
+            "msgstr": "Calibration Returns"
+    }, {
+            "msgid": "Administration",
+            "msgstr": "Administration"
+    }, {
+            "msgid": "Maintenance",
+            "msgstr": "Maintenance"
+    }, {
+            "msgid": "Packages",
+            "msgstr": "Packages"
+    }, 
+    // ===================================================================
+    // Login / Logout  
+    // ===================================================================
+    {
+            "msgid": "This field can only contain integers.",
+            "msgstr": "This field can only contain integers."
+    }, {
+            "msgid": "Unknown error",
+            "msgstr": "Unknown error"
+    }, {
+            "msgid": "Error: This password is already in use!",
+            "msgstr": "Error: This password is already in use!"
+    }, {
+            "msgid": "Error: The new password is missing.",
+            "msgstr": "Error: The new password is missing."
+    }, {
+            "msgid": "Error: Wrong new password.",
+            "msgstr": "Error: Wrong new password."
+    }, {
+            "msgid": "Error: Passwords are not the same!",
+            "msgstr": "Error: Passwords are not the same!"
+    }, {
+            "msgid": "Please log in to access NexCap solution",
+            "msgstr": "Please log in to access NexCap solution"
+    }, {
+            "msgid": "Authentication",
+            "msgstr": "Authentication"
+    }, {
+            "msgid": "Enter a new password",
+            "msgstr": "Enter a new password"
+    }, {
+            "msgid": "Password update",
+            "msgstr": "Password update"
+    }, {
+            "msgid": "Choose a new password",
+            "msgstr": "Choose a new password"
+    }, {
+            "msgid": "Item sets",
+            "msgstr": "Item sets"
+    }, {
+            "msgid": "Item set",
+            "msgstr": "Item set"
+    }, {
+            "msgid": "All",
+            "msgstr": "All"
+    }, {
+            "msgid": "Select an attached file",
+            "msgstr": "Select an attached file"
+    }, {
+            "msgid": "Success",
+            "msgstr": "Success"
+    }, {
+            "msgid": "Operation successfull!",
+            "msgstr": "Operation successfull!"
+    }, {
+            "msgid": "Do you really want to delete this intervention order:",
+            "msgstr": "Do you really want to delete this work order:"
+    }, {
+            "msgid": "located:",
+            "msgstr": "located:"
+    }, {
+            "msgid": "Add an intervention order",
+            "msgstr": "Add a work order"
+    }, {
+            "msgid": "WO number",
+            "msgstr": "WO number"
+    }, {
+            "msgid": "Edit an intervention order",
+            "msgstr": "Edit a work order"
+    }, {
+            "msgid": "Delete an intervention order",
+            "msgstr": "Delete a work order"
+    }, {
+            "msgid": "Management of intervention orders",
+            "msgstr": "Management of work orders"
+    }, {
+            "msgid": "Intervention orders",
+            "msgstr": "Work orders"
+    }, {
+            "msgid": "Step 1/3: Select items to displace.",
+            "msgstr": "Step 1 / 3: Select items to displace."
+    }, {
+            "msgid": "Results",
+            "msgstr": "Results"
+    }, {
+            "msgid": "No result!",
+            "msgstr": "No result!"
+    }, {
+            "msgid": "Step 2/3: Select a destination.",
+            "msgstr": "Step 2/3: Select a destination."
+    }, {
+            "msgid": "Step 3/3: Entering comments.",
+            "msgstr": "Step 3/3: Entering comments."
+    }, {
+            "msgid": "Access card",
+            "msgstr": "Access card"
+    }, {
+            "msgid": "Badge number",
+            "msgstr": "Badge number"
+    }, {
+            "msgid": "Where do you want to assign this device?",
+            "msgstr": "Where do you want to assign this device?"
+    }, {
+            "msgid": "This device is already authorized!",
+            "msgstr": "This device is already authorized!"
+    }, {
+            "msgid": "Authorized Locations",
+            "msgstr": "Authorized Locations"
+    }, {
+            "msgid": "Logging of inventories",
+            "msgstr": "Logging of inventories"
+    }, 
+    // ===================================================================
+    // Inventory management 
+    // ===================================================================
+    {
+            "msgid": "Inventory items",
+            "msgstr": "Inventory items"
+    }, {
+            "msgid": "Validate address",
+            "msgstr": "validate address"
+    }, {
+            "msgid": "Date of inventory",
+            "msgstr": "Date of inventory"
+    }, {
+            "msgid": "Present items",
+            "msgstr": "Present items"
+    }, {
+            "msgid": "Missing items",
+            "msgstr": "Missing items"
+    }, {
+            "msgid": "Expected items",
+            "msgstr": "Expected items"
+    }, {
+            "msgid": "Foreign items",
+            "msgstr": "Foreign items"
+    }, {
+            "msgid": "Scanned",
+            "msgstr": "Scanned"
+    }, {
+            "msgid": "Expected",
+            "msgstr": "Expected"
+    }, {
+            "msgid": "Foreign",
+            "msgstr": "Foreign"
+    }, {
+            "msgid": "Missing",
+            "msgstr": "Missing"
+    }, {
+            "msgid": "Present",
+            "msgstr": "Present"
+    }, {
+            "msgid": "Moved",
+            "msgstr": "Moved"
+    }, {
+            "msgid": "Move",
+            "msgstr": "Move"
+    }, {
+            "msgid": "Move an item",
+            "msgstr": "Move an item"
+    }, {
+            "msgid": "Open inventory report",
+            "msgstr": "Open inventory report"
+    }, {
+            "msgid": "Inventory report",
+            "msgstr": "Inventory report"
+    }, {
+            "msgid": "Recorded address",
+            "msgstr": "Recorded address"
+    }, {
+            "msgid": "Inventory address",
+            "msgstr": "Inventory address"
+    }, {
+            "msgid": "Inventory date",
+            "msgstr": "Inventory date"
+    }, {
+            "msgid": "Result",
+            "msgstr": "Result"
+    }, {
+            "msgid": "Attachments",
+            "msgstr": "Attachments"
+    }, 
+    // ===================================================================
+    // Materials management  
+    // ===================================================================
+    {
+            "msgid": "Status",
+            "msgstr": "Status"
+    }, {
+            "msgid": "Materials",
+            "msgstr": "Materials"
+    }, {
+            "msgid": "Use count",
+            "msgstr": "Use count"
+    }, {
+            "msgid": "Use count.short",
+            "msgstr": "Use count"
+    }, {
+            "msgid": "Reset use count",
+            "msgstr": "Reset use count"
+    }, {
+            "msgid": "Assigned location",
+            "msgstr": "Stockage location"
+    }, {
+            "msgid": "Alert",
+            "msgstr": "Alert"
+    }, {
+            "msgid": "Alerts",
+            "msgstr": "Alerts"
+    }, {
+            "msgid": "Operations",
+            "msgstr": "Operations"
+    }, {
+            "msgid": "Items alerts dashboard",
+            "msgstr": "Items alerts dashboard"
+    }, {
+            "msgid": "Operations alerts dashboard",
+            "msgstr": "Operations alerts dashboard"
+    }, {
+            "msgid": "Open alert",
+            "msgstr": "Open alert"
+    }, {
+            "msgid": "Acknowledged an alert",
+            "msgstr": "Acknowledged an alert"
+    }, {
+            "msgid": "Alert already resolved!",
+            "msgstr": "Alert already resolved!"
+    }, {
+            "msgid": "Alert already akcnowledged!",
+            "msgstr": "Alert already akcnowledged!"
+    }, {
+            "msgid": "Alert datasheet",
+            "msgstr": "Alert datasheet"
+    }, {
+            "msgid": "Acknowledged by",
+            "msgstr": "Acknowledged by"
+    }, {
+            "msgid": "Acknowledgement date",
+            "msgstr": "Acknowledgement date"
+    }, {
+            "msgid": "Resolve date",
+            "msgstr": "Resolve date"
+    }, {
+            "msgid": "Acknowledgement/Resolution",
+            "msgstr": "Acknowledgement/Resolution"
+    }, {
+            "msgid": "Acknowledged",
+            "msgstr": "Acknowledged"
+    }, {
+            "msgid": "Resolved",
+            "msgstr": "Resolved"
+    }, {
+            "msgid": "Current",
+            "msgstr": "Current"
+    }, {
+            "msgid": "Resolution",
+            "msgstr": "Resolution"
+    }, 
+    // ===================================================================
+    // FEATURES 
+    // ===================================================================
+    {
+            "msgid": "LEAVE_TO_CALIBRATION",
+            "msgstr": "Leave to calibration"
+    }, {
+            "msgid": "RETURN_FROM_CALIBRATION",
+            "msgstr": "Return from calibration"
+    }, {
+            "msgid": "LEAVE_TO_MAINTENANCE",
+            "msgstr": "Leave to maintenance"
+    }, {
+            "msgid": "RETURN_FROM_MAINTENANCE",
+            "msgstr": "Return from maintenance"
+    }, {
+            "msgid": "Before scanning RFID tag, place your cursor in the above code textfield",
+            "msgstr": "Place your cursor in the above code textfield before scanning RFID Tag"
+    }, {
+            "msgid": "Assigned locations",
+            "msgstr": "Assigned locations"
+    }, {
+            "msgid": "Location selection",
+            "msgstr": "Location selection"
+    }, {
+            "msgid": "A default location already exist for this position",
+            "msgstr": "A default location already exist for this position"
+    }, {
+            "msgid": "Attachments",
+            "msgstr": "Attachments"
+    }, {
+            "msgid": "No files",
+            "msgstr": "No file"
+    }, {
+            "msgid": "Double-click for download file",
+            "msgstr": "Double-click for download file"
+    }, 
+    // ===================================================================
+    // REQUIREMENTS  
+    // ===================================================================
+    {
+            "msgid": "Requirements selection",
+            "msgstr": "Requirements"
+    },
+    // ===================================================================
+    // COUNTER  
+    // ===================================================================
+    {
+            "msgid": "Warehouse",
+            "msgstr": "Warehouse"
+    }, {
+            "msgid": "Recommended location",
+            "msgstr": "Recommended location"
+    }, 
+    // ===================================================================
+    // THUMBNAILS 
+    // ===================================================================
+    {
+            "msgid": "Image editor",
+            "msgstr": "Image editor"
+    }, {
+            "msgid": "Select image",
+            "msgstr": "Select image"
+    }, {
+            "msgid": "This file must be an image (.jpg, .png, .gif).",
+            "msgstr": "This file must be an image (.jpg, .png, .gif)."
+    }
+
+]

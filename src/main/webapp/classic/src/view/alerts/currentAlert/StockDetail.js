@@ -50,6 +50,7 @@ Ext.define('Dashboard.view.alerts.currentAlert.StockDetail', {
         panel.add(this.buildField({name: getText('Quantity'), value: data.quantity}));
         panel.add(this.buildField({name: getText('Low Threshold'), value: data.minLevel}));
         panel.add(this.buildField({name: getText('High Threshold'), value: data.maxLevel}));
+        panel.add(this.buildField({name: getText('Safe threshold'), value: data.secuLevel}));
         
     },
     

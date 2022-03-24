@@ -376,19 +376,21 @@ Ext.define('Dashboard.view.shared.viewList.Grid', {
 	                    var quantity = parseInt(record.data.quantity, 10);
 	                    var address =  record.data.address;
 	                    var adressValid = record.data.valid;
-	                    console.log(address);
-	                    console.log(adressValid);
 	              		 if(address!=null && address!=="" && !adressValid)
-	                		return 'blueRow';
-	                	if((minLevel ==null && maxLevel ==null && secuLevel ==null) ||  minLevel<secuLevel && secuLevel<quantity && quantity<maxLevel)                    
+	                		return 'greyRow';
+	                	if((minLevel ==null && maxLevel ==null && secuLevel ==null) ||  minLevel<=secuLevel && secuLevel<=quantity && quantity<=maxLevel)                    
 	                    	 return 'greenRow';
 	                   	else  if(minLevel!=null && maxLevel!=null && secuLevel!=null)
 						{
-	                   		if(minLevel<quantity && quantity<secuLevel && secuLevel<maxLevel)
+	                   		if(minLevel<=quantity && quantity<secuLevel && secuLevel<=maxLevel)
 	                   		 	return 'yellowRow';
 	                   		else if(quantity<minLevel || maxLevel<quantity)
 	                   		 	return 'redRow'              
 	                	}
+	                	else
+	                	{
+							return 'redRow';
+						}
 					break;
                 
                 case 'historic.Check' :
